@@ -1,0 +1,1524 @@
+Frequency Output,Frequency Input,FCC Callsign,County,State,Agency/Category,Description,Alpha Tag,PL Tone,Mode,Class Station Code,Tag
+46.760000,0.00000,CKE726,Durham,ON,Clarington,Darlington Provincial Park Interpark,DarlingtonPP,110.9 PL,FM,BM,Multi-Talk
+46.760000,46.33000,XMK723,York,ON,Georgina Township,Sibbald Point Provincial Park  OMNR CH09,SibbaldPt PP,110.9 PL,FM,RM,Multi-Dispatch
+46.940000,46.42000,XLN280,Durham,ON,Clarington,Darlington Provincial Park Operations,DarlingtonPP,127.3 PL,FM,BM,Multi-Dispatch
+48.910000,0.00000,,Durham,ON,Hydro One,Hydro One,Hydro One D2,114.8 PL,FM,BM,Utilities
+49.050000,0.00000,XOH530,Hamilton,ON,Dundas,Spare Work Channel,Hydro1Dundas,114.8 PL,FM,BM,Utilities
+49.070000,0.00000,,Hamilton,ON,Dundas,Dispatch,Hydro1Dundas,114.8 PL,FM,BM,Utilities
+49.250000,0.00000,,Durham,ON,Hydro One,Hydro One,Hydro One B3,114.8 PL,FM,BM,Utilities
+53.030000,52.03000,VE3SIX,Durham,ON,6 M Band,VE3SIX  Uxbridge,VE3SIX,,FM,RM,Ham
+53.090000,52.09000,VA3PTX,York,ON,6 M Band,VA3PTX  Pefferlaw,VA3PTX,,FM,RM,Ham
+53.110000,52.11000,VE3WIK,Hamilton,ON,6 M Band,VE3WIK  Carlisle,VE3WIK,,FM,RM,Ham
+53.130000,52.13000,VA3PWR,York,ON,6 M Band,VA3PWR  Ballantrae,VA3PWR,103.5 PL,FM,RM,Ham
+53.190000,52.19000,VE3PRC,Peel,ON,6 M Band,VE3PRC  Brampton,VE3PRC,,FM,RM,Ham
+53.250000,52.25000,,Peel,ON,6 M Band,VE3MIS  Mississauga,VE3MIS,,FM,RM,Ham
+53.350000,52.35000,VAGGTU,Toronto,ON,6 M Band,VA3GTU  Toronto,VA3GTU,,FM,RM,Ham
+53.390000,52.39000,VA3ECT,Toronto,ON,6 M Band,VA3ECT  Toronto,VA3ECT,,FM,RM,Ham
+53.590000,52.59000,VE3BUO,Halton,ON,6 M Band,VE3BUO  Burlington ,VE3BUO,,FM,RM,Ham
+90.700000,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,CTMP FM Broadcast,CTMP FM,,FM,F,Business
+110.150000,0.00000,Multiple,Toronto,ON,Billy Bishop Toronto City Airport YTZ Air Traffic Control,Toronto Island Localizer Runways 08  26,LOC 08 & 26,,AM,F,Aircraft
+111.100000,0.00000,VXB39,York,ON,Buttonville Airport YKZ Air Traffic Control,ILS  Distance MeasuringLocalizer,ILS DME/LOC,,FM,F,Aircraft
+111.350000,0.00000,IOO,Durham,ON,Oshawa Airport YOO CYOO Oshawa Airport,Oshawa DMELOC Decommissioned June 2015,Localizer,,AM,F,Deprecated
+116.000000,0.00000,,Toronto,ON,Canadian International Air Show CNE Waterfront,Snowbirds,Snowbirds,,AM,BM,Aircraft
+118.000000,0.00000,,Toronto,ON,Canadian International Air Show CNE Waterfront,Show Radar,Show Radar,,AM,BM,Aircraft
+118.000000,0.00000,XLJ738,Peel,ON,Toronto Pearson International Airport YYZ Air Traffic Control,Tower Backup,Tower B/U,,AM,BM,Aircraft
+118.200000,0.00000,XJL735,Toronto,ON,Billy Bishop Toronto City Airport YTZ Air Traffic Control,Tower,Tower,,AM,BM,Aircraft
+118.350000,0.00000,XLJ738,Peel,ON,Toronto Pearson International Airport YYZ Air Traffic Control,Tower South,Tower S,,AM,BM,Aircraft
+118.400000,0.00000,XMJ818,Durham,ON,Oshawa Airport YOO CYOO Oshawa Airport,Oshawa Ground,Ground,,AM,BM,Aircraft
+118.700000,0.00000,XLJ738,Peel,ON,Toronto Pearson International Airport YYZ Air Traffic Control,Tower North,Tower N,,AM,BM,Aircraft
+119.100000,0.00000,CKC447,Peel,ON,Toronto Pearson International Airport YYZ Air Traffic Control,Ground Center,Ground Ctr,,AM,BM,Aircraft
+119.200000,0.00000,,Toronto,ON,Canadian International Air Show CNE Waterfront,Boss Control,Boss Control,,AM,BM,Aircraft
+119.200000,0.00000,XJL735,Toronto,ON,Billy Bishop Toronto City Airport YTZ Air Traffic Control,Tower alternate,Tower Alt,,AM,BM,Aircraft
+119.900000,0.00000,VBV564,York,ON,Buttonville Airport YKZ Air Traffic Control,Tower alternate,Tower Alt,,AM,BM,Aircraft
+120.100000,0.00000,XMJ818,Durham,ON,Oshawa Airport YOO CYOO Oshawa Airport,Oshawa Tower,Tower,,AM,BM,Aircraft
+120.825000,0.00000,XLJ738,Peel,ON,Toronto Pearson International Airport YYZ Air Traffic Control,ATIS Primary,ATIS Primary,,AM,F,Aircraft
+121.300000,0.00000,XLJ738,Peel,ON,Toronto Pearson International Airport YYZ Air Traffic Control,Clearance Delivery,Clearance,,AM,BM,Aircraft
+121.600000,0.00000,VXB42,Hamilton,ON,John C Munro International Airport YHM Air Traffic Control,Ground,Ground,,AM,BM,Aircraft
+121.650000,0.00000,XLJ738,Peel,ON,Toronto Pearson International Airport YYZ Air Traffic Control,Ground North,Ground N,,AM,BM,Aircraft
+121.700000,0.00000,XJL735,Toronto,ON,Billy Bishop Toronto City Airport YTZ Air Traffic Control,Ground,Ground,,AM,BM,Aircraft
+121.800000,0.00000,VBV564,York,ON,Buttonville Airport YKZ Air Traffic Control,Ground,Ground,,AM,BM,Aircraft
+121.900000,0.00000,CKC447,Peel,ON,Toronto Pearson International Airport YYZ Air Traffic Control,Ground South,Ground S,,AM,BM,Aircraft
+122.075000,0.00000,VXI69,Peel,ON,Toronto Pearson International Airport YYZ Apron Control,South Apron  Terminal 1  East Satellite Ramp  GTAA Hangar  Avitat Ramps,S Apron,,AM,BM,Aircraft
+122.225000,0.00000,VYQ42,York,ON,Buttonville Airport YKZ Aviation Business Frequencies,Seneca College Flight School Hangars 678,SenColFltSch,,AM,M,Aircraft
+122.275000,0.00000,VXI69,Peel,ON,Toronto Pearson International Airport YYZ Apron Control,North Apron  Terminal 3  T3 Satellite   Cargo West  Fedex,N Apron,,AM,BM,Aircraft
+122.350000,0.00000,CFU300,Hamilton,ON,John C Munro International Airport YHM Airport Services,Hamilton Jetport Ltd,Jetport Ltd,,AM,BM,Aircraft
+122.725000,0.00000,,Durham,ON,Greenbank Airfield CNP8  Air Traffic Control ,ATFUNICOM 5NM4000ASL,UNICOM,,AM,BM,Aircraft
+122.800000,0.00000,,York,ON,Baldwin Airport CBP9 Air Traffic Control,Unicom,CB9 Unicom,,AM,BM,Aircraft
+122.825000,0.00000,,Peel,ON,Toronto Pearson International Airport YYZ Apron Control,Backup,B/U Apron,,AM,BM,Aircraft
+122.875000,0.00000,VAJ401,Peel,ON,Toronto Pearson International Airport YYZ Apron Control,Apron CoOrdinator,Apron Co-ord,,AM,BM,Aircraft
+122.950000,0.00000,CHP254,Peel,ON,Toronto Pearson International Airport YYZ Private Aviation  Business,Landmark Aviation,Landmark,,AM,BM,Aircraft
+122.950000,0.00000,,Hamilton,ON,John C Munro International Airport YHM General Aviation,Peninsulair Flight School,Peninsulair,,AM,BM,Aircraft
+122.975000,0.00000,VFO252,Toronto,ON,Downsview Airport YZD Air Traffic Control ,Automated Weather,CYZD AutoWX,,AM,F,Aircraft
+123.000000,0.00000,,Hamilton,ON,John C Munro International Airport YHM General Aviation,Hamilton Flying Club,Hamilton F C,,AM,BM,Aircraft
+123.150000,0.00000,VBV564,York,ON,Buttonville Airport YKZ Air Traffic Control,Toronto Radio,TO Radio,,AM,BM,Aircraft
+123.200000,0.00000,CFF629,York,ON,Buttonville Airport YKZ Aviation Business Frequencies,National Helicopters   Hangar 11A,NationalHeli,,AM,BM,Aircraft
+123.200000,0.00000,,Toronto,ON,Billy Bishop Toronto City Airport YTZ Operations,ESSO Aviation,ESSO AV,,AM,BM,Aircraft
+123.275000,0.00000,XLJ738,Peel,ON,Toronto Pearson International Airport YYZ Airport Services,FSS  London Flight Information Centre RCO,London RCO,,AM,BM,Aircraft
+123.300000,0.00000,VXY45,Peel,ON,BramptonCaledon Airport CNC3 Caledon,Brampton Flying Club,Brampton F C,,AM,BM,Aircraft
+123.350000,0.00000,CHT932,Toronto,ON,Billy Bishop Toronto City Airport YTZ Operations,Porter  Fixed Base Operations ,Porter FBO,,AM,BM,Aircraft
+123.500000,0.00000,,Peel,ON,Toronto Pearson International Airport YYZ Airport Services,Field Aviation East,Field Aviat,,AM,BM,Business
+123.500000,0.00000,VXW47,York,ON,Buttonville Airport YKZ Support Services,Toronto Airways,TO Airways,,AM,BM,Aircraft
+123.500000,0.00000,VXB41,Halton,ON,Burlington Airpark  ZBA Air Traffic Control,Spectrum Airways,CZBA Unicom,,AM,BM,Aircraft
+123.575000,0.00000,CKC429,Peel,ON,Toronto Pearson International Airport YYZ Airlines,WestJet,WestJet,CSQ,AM,BM,Business
+124.475000,0.00000,XLJ738,Peel,ON,Toronto Pearson International Airport YYZ Toronto Centre  Terminal Control Unit,Arrivals 2,TCU Arr 2,,AM,BM,Aircraft
+124.800000,0.00000,VBV564,York,ON,Buttonville Airport YKZ Air Traffic Control,Tower,Tower,,AM,BM,Aircraft
+125.000000,0.00000,VXB42,Hamilton,ON,John C Munro International Airport YHM Air Traffic Control,Tower  Primary,Tower Main,,AM,BM,Aircraft
+125.400000,0.00000,XLJ738,Peel,ON,Toronto Pearson International Airport YYZ Toronto Centre  Terminal Control Unit,Arrivals 3,TCU Arr 3,,AM,BM,Aircraft
+125.675000,0.00000,XMJ818,Durham,ON,Oshawa Airport YOO CYOO Oshawa Airport,Oshawa ATIS,ATIS,,AM,F,Aircraft
+126.200000,0.00000,,Toronto,ON,Downsview Airport YZD Air Traffic Control ,Unicom  Tower,Unicom/Tower,,AM,BM,Aircraft
+126.700000,0.00000,VBV564,York,ON,Buttonville Airport YKZ Air Traffic Control,Toronto Radio Enroute,TO Enroute,,AM,BM,Aircraft
+127.100000,0.00000,VBV564,York,ON,Buttonville Airport YKZ Air Traffic Control,Buttonville ATIS,ATIS,,AM,F,Aircraft
+127.575000,0.00000,XLJ738,Peel,ON,Toronto Pearson International Airport YYZ Toronto Centre  Terminal Control Unit,North Departure,TCU N Dep,,AM,BM,Aircraft
+128.100000,0.00000,VXB42,Hamilton,ON,John C Munro International Airport YHM Air Traffic Control,ATIS,ATIS,,AM,F,Aircraft
+128.800000,0.00000,XLJ738,Peel,ON,Toronto Pearson International Airport YYZ Toronto Centre  Terminal Control Unit,South Departure,TCU S Dep,,AM,BM,Aircraft
+128.875000,0.00000,VOB72,Toronto,ON,Billy Bishop Toronto City Airport YTZ CYTZ,Air Canada Rapidair,AC Rapidair,,AM,BM,Aircraft
+128.950000,0.00000,VAX626,Hamilton,ON,John C Munro International Airport YHM Cargo Carriers,Purolator Courier Ltd,Purolator,,AM,BM,Aircraft
+128.950000,0.00000,VOC32,Peel,ON,Toronto Pearson International Airport YYZ Airport Services,SkyserviceEsso Avitat,Skyservice,,AM,BM,Business
+128.975000,0.00000,CHR346,Toronto,ON,Billy Bishop Toronto City Airport YTZ CYTZ,Porter Airlines,Porter,,AM,BM,Aircraft
+129.050000,0.00000,XJV932,Peel,ON,Toronto Pearson International Airport YYZ Airlines,Air Canada Jazz,AC Jazz,CSQ,AM,BM,Business
+129.100000,0.00000,,Peel,ON,Toronto Pearson International Airport YYZ Airlines,American Airlines,AAL Ops,CSQ,AM,BM,Business
+129.100000,0.00000,CFF661,Durham,ON,Oshawa Airport YOO Flight School,Canadian Flight Academy,CdnFlightAcd,,AM,BM,Aircraft
+129.125000,0.00000,Multiple,Peel,ON,Toronto Pearson International Airport YYZ ACARS,ARINC Toronto,ARINC TO,,AM,F,Data
+129.150000,0.00000,CFF550,Peel,ON,Toronto Pearson International Airport YYZ Airlines,Air Georgian,Air Georgian,CSQ,AM,BM,Business
+129.400000,0.00000,,Peel,ON,Toronto Pearson International Airport YYZ Airlines,ARINC,ARINC,CSQ,AM,BM,Business
+129.425000,0.00000,VXB49,Hamilton,ON,John C Munro International Airport YHM Cargo Carriers,United Parcel Service Canada,UPS,,AM,BM,Business
+129.550000,0.00000,VYQ45,Peel,ON,Toronto Pearson International Airport YYZ Airlines,Air Canada Jazz Maintenance,AC Jazz Mtc,CSQ,AM,BM,Business
+129.625000,0.00000,VXI69,Peel,ON,Toronto Pearson International Airport YYZ Airport Services,Central DeIcing Facility  Pads 4 5 6,DeIce 4,5,6 ,,AM,BM,Aircraft
+129.750000,0.00000,VXV68,Peel,ON,Toronto Pearson International Airport YYZ Private Aviation  Business,Private Jet Charter Service,Skycharter,,AM,BM,Aircraft
+129.875000,0.00000,VFK943,Peel,ON,Toronto Pearson International Airport YYZ Airlines,Air Canada Flight Dispatch,AC Flt Disp,CSQ,AM,BM,Business
+130.025000,0.00000,Multiple,Peel,ON,Toronto Pearson International Airport YYZ ACARS,ARINC Toronto,ARINC TO,,AM,F,Data
+130.075000,0.00000,VFN262,Toronto,ON,Downsview Airport YZD Bombardier Aerospace,Tower,Bombdr Twr,,AM,BM,Aircraft
+130.150000,0.00000,,Peel,ON,Toronto Pearson International Airport YYZ Airlines,Air Canada International Flights,AC Interntl,CSQ,AM,BM,Business
+130.275000,0.00000,VYQ45,Peel,ON,Toronto Pearson International Airport YYZ Airlines,Air Canada Jazz Maintenance,AC Jazz Mtc,CSQ,AM,BM,Business
+130.375000,0.00000,VFK943,Peel,ON,Toronto Pearson International Airport YYZ Airlines,Air Canada Domestic Flights,AC Domestic,CSQ,AM,BM,Business
+130.475000,0.00000,,Peel,ON,Toronto Pearson International Airport YYZ Airlines,Delta Airlines,DELTA Ops,CSQ,AM,BM,Business
+130.500000,0.00000,VBX47,Hamilton,ON,John C Munro International Airport YHM Airport Services,Shell  Glanford Aviation Services,Glanford,,AM,BM,Aircraft
+130.650000,0.00000,Multiple,Peel,ON,Toronto Pearson International Airport YYZ Airlines,Swissport,SWISSPORT,CSQ,AM,BM,Business
+130.675000,0.00000,CZU911,Hamilton,ON,John C Munro International Airport YHM Cargo Carriers,Cargo Jet Canada Ltd,Cargo Jet,,AM,BM,Aircraft
+130.875000,0.00000,CYA38,Peel,ON,Toronto Pearson International Airport YYZ Airlines,Air Canada Station Operations Centre,AC STOC,CSQ,AM,BM,Business
+131.050000,0.00000,,Durham,ON,Oshawa Airport YOO Fuel Operations,Enterprise Air,Enterprise,,AM,BM,Aircraft
+131.050000,0.00000,CHR346,Toronto,ON,Billy Bishop Toronto City Airport YTZ CYTZ,Porter Airlines,Porter,,AM,BM,Aircraft
+131.075000,0.00000,CIG550,Hamilton,ON,John C Munro International Airport YHM Airlines,CanJet,CanJet,,AM,BM,Aircraft
+131.175000,0.00000,VXI69,Peel,ON,Toronto Pearson International Airport YYZ Airport Services,Central DeIcing Facility,De-Icing,,AM,BM,Aircraft
+131.375000,0.00000,VXI69,Peel,ON,Toronto Pearson International Airport YYZ Airport Services,Central DeIcing Facility  Pads 1 2 3,DeIce 1,2,3 ,,AM,BM,Aircraft
+131.475000,0.00000,Multiple,Peel,ON,Toronto Pearson International Airport YYZ ACARS,ARINC Toronto,ARINC TO,,AM,F,Data
+131.550000,0.00000,Multiple,Peel,ON,Toronto Pearson International Airport YYZ ACARS,ARINC Toronto,ARINC TO,,AM,F,Data
+131.575000,0.00000,VAX309,Hamilton,ON,John C Munro International Airport YHM Airport Services,Esso  Hanger 3,Esso,,AM,BM,Aircraft
+131.650000,0.00000,VDS839,Peel,ON,Toronto Pearson International Airport YYZ Airlines,US Airways,US Airways,CSQ,AM,BM,Business
+131.675000,0.00000,VEA364,Hamilton,ON,John C Munro International Airport YHM Airlines,WestJet,WestJet,,AM,BM,Aircraft
+131.725000,0.00000,Multiple,Peel,ON,Toronto Pearson International Airport YYZ ACARS,SITACOM Canada,SITA,,AM,F,Data
+131.875000,0.00000,VOC25,Peel,ON,Toronto Pearson International Airport YYZ Airlines,Air Transat,Air Transat,CSQ,AM,BM,Business
+131.925000,0.00000,CKC430,Peel,ON,Toronto Pearson International Airport YYZ Cargo Carriers,Federal Express,Fedex,,AM,BM,Aircraft
+131.925000,0.00000,Multiple,Hamilton,ON,John C Munro International Airport YHM Cargo Carriers,Federal Express Canada,Fedex,,AM,BM,Aircraft
+131.950000,0.00000,VXI69,Peel,ON,Toronto Pearson International Airport YYZ Airport Services,Central DeIcing Facility Back up,De-Icing B/U,,AM,BM,Aircraft
+132.800000,0.00000,XLJ738,Peel,ON,Toronto Pearson International Airport YYZ Toronto Centre  Terminal Control Unit,Arrivals 1,TCU Arr 1,,AM,BM,Aircraft
+133.100000,0.00000,XLJ738,Peel,ON,Toronto Pearson International Airport YYZ Air Traffic Control,ATIS Secondary,ATIS 2nd,,AM,F,Aircraft
+133.600000,0.00000,,Toronto,ON,Billy Bishop Toronto City Airport YTZ Air Traffic Control,ATIS,ATIS,,AM,F,Aircraft
+134.175000,0.00000,XLJ738,Peel,ON,Toronto Pearson International Airport YYZ Toronto Centre  Terminal Control Unit,ILS Monitor ,TCU ILS,,AM,BM,Aircraft
+136.575000,0.00000,,Peel,ON,Toronto Pearson International Airport YYZ Airlines,Airport Terminal Services,ATS,CSQ,AM,BM,Business
+136.875000,0.00000,CIY816,Toronto,ON,Billy Bishop Toronto City Airport YTZ CYTZ,Porter Airlines,Porter,,AM,BM,Aircraft
+136.975000,0.00000,CIE753,Peel,ON,Toronto Pearson International Airport YYZ ACARS,ARINC Toronto  VDL Mode 2,ARINC VDL -2,,AM,F,Data
+140.100000,0.00000,VCT372,Halton,ON,Business Georgetown,First Student Canada,First Canada,CSQ,FM,BM,Transportation
+140.280000,0.00000,VCX694,Halton,ON,Business Burlington,First Student Canada,First Canada,CSQ,FM,BM,Transportation
+140.340000,0.00000,VCR587,York,ON,Business Markham,First Canada ULC,FirstCanada,255 DPL,FM,BM,Schools
+140.910000,143.56500,CFV376,York,ON,Business King City,Sharp Bus Lines Ch 1,Sharp BL 1,203.5 PL,FM,RM,Transportation
+141.030000,0.00000,VCX663,Peel,ON,Transportation Caledon East,First Student Canada,First Canada,CSQ,FM,BM,Transportation
+141.150000,0.00000,CKO328,Halton,ON,Business Oakville,First Student Canada,First Canada,412 DPL,FM,BM,Transportation
+141.150000,0.00000,CKO328,Peel,ON,Transportation Brampton,Stock Transportation,Stock Transp,412 DPL,FM,BM,Transportation
+141.195000,0.00000, ,York,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 039 King City 39KING, , ,Motorola, ,TRS
+141.225000,0.00000,VCR585,Peel,ON,Transportation Mississauga,First Student Canada ,First Canada,CSQ,FM,BM,Transportation
+141.300000,0.00000, ,Toronto,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 040 Mowat 40MOWT Toronto, , ,Motorola, ,TRS
+141.360000,0.00000, ,Halton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 005 Ballinafad 05BALL, , ,Motorola, ,TRS
+141.390000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 037 Whitby 37WHIT, , ,Motorola, ,TRS
+141.405000,0.00000, ,Hamilton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 007 Charlton 07CHAR Hamilton, , ,Motorola, ,TRS
+141.420000,0.00000, ,Peel,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 009 Britannia 09BRIT Mississauga, , ,Motorola, ,TRS
+141.435000,0.00000, ,Toronto,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 040 Mowat 40MOWT Toronto, , ,Motorola, ,TRS
+141.450000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 026 Sunderland 26SUND, , ,Motorola, ,TRS
+141.495000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 038 Pontypool 38PONT, , ,Motorola, ,TRS
+141.540000,0.00000, ,Halton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 005 Ballinafad 05BALL, , ,Motorola, ,TRS
+141.630000,0.00000, ,Hamilton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 007 Charlton 07CHAR Hamilton, , ,Motorola, ,TRS
+141.675000,0.00000, ,York,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 039 King City 39KING, , ,Motorola, ,TRS
+141.705000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 038 Pontypool 38PONT, , ,Motorola, ,TRS
+141.720000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 026 Sunderland 26SUND, , ,Motorola, ,TRS
+141.735000,0.00000, ,Halton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 005 Ballinafad 05BALL, , ,Motorola, ,TRS
+141.930000,0.00000, ,Hamilton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 007 Charlton 07CHAR Hamilton, , ,Motorola, ,TRS
+142.050000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 037 Whitby 37WHIT, , ,Motorola, ,TRS
+142.110000,0.00000, ,Toronto,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 040 Mowat 40MOWT Toronto, , ,Motorola, ,TRS
+142.140000,0.00000, ,York,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 039 King City 39KING, , ,Motorola, ,TRS
+142.185000,0.00000, ,Peel,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 009 Britannia 09BRIT Mississauga, , ,Motorola, ,TRS
+142.215000,0.00000, ,Hamilton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 007 Charlton 07CHAR Hamilton, , ,Motorola, ,TRS
+142.245000,0.00000, ,Halton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 005 Ballinafad 05BALL, , ,Motorola, ,TRS
+142.290000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 037 Whitby 37WHIT, , ,Motorola, ,TRS
+142.320000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 026 Sunderland 26SUND, , ,Motorola, ,TRS
+142.335000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 037 Whitby 37WHIT, , ,Motorola, ,TRS
+142.350000,0.00000, ,Hamilton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 007 Charlton 07CHAR Hamilton, , ,Motorola, ,TRS
+142.365000,0.00000, ,Peel,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 009 Britannia 09BRIT Mississauga, , ,Motorola, ,TRS
+142.380000,0.00000, ,York,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 039 King City 39KING, , ,Motorola, ,TRS
+142.425000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 037 Whitby 37WHIT, , ,Motorola, ,TRS
+142.455000,0.00000, ,Halton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 005 Ballinafad 05BALL, , ,Motorola, ,TRS
+142.590000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 038 Pontypool 38PONT, , ,Motorola, ,TRS
+142.605000,0.00000, ,Halton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 005 Ballinafad 05BALL, , ,Motorola, ,TRS
+142.635000,0.00000, ,Hamilton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 007 Charlton 07CHAR Hamilton, , ,Motorola, ,TRS
+142.650000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 026 Sunderland 26SUND, , ,Motorola, ,TRS
+142.665000,0.00000, ,Peel,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 009 Britannia 09BRIT Mississauga, , ,Motorola, ,TRS
+142.680000,0.00000, ,Toronto,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 040 Mowat 40MOWT Toronto, , ,Motorola, ,TRS
+142.755000,0.00000, ,Peel,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 009 Britannia 09BRIT Mississauga, , ,Motorola, ,TRS
+142.785000,0.00000, ,York,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 039 King City 39KING, , ,Motorola, ,TRS
+142.800000,0.00000, ,Hamilton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 007 Charlton 07CHAR Hamilton, , ,Motorola, ,TRS
+142.830000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 037 Whitby 37WHIT, , ,Motorola, ,TRS
+142.860000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 026 Sunderland 26SUND, , ,Motorola, ,TRS
+142.890000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 038 Pontypool 38PONT, , ,Motorola, ,TRS
+142.905000,0.00000, ,Toronto,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 040 Mowat 40MOWT Toronto, , ,Motorola, ,TRS
+142.920000,0.00000, ,York,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 039 King City 39KING, , ,Motorola, ,TRS
+142.980000,0.00000, ,York,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 039 King City 39KING, , ,Motorola, ,TRS
+142.995000,0.00000, ,Peel,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 009 Britannia 09BRIT Mississauga, , ,Motorola, ,TRS
+143.055000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 038 Pontypool 38PONT, , ,Motorola, ,TRS
+143.070000,0.00000, ,Peel,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 009 Britannia 09BRIT Mississauga, , ,Motorola, ,TRS
+143.085000,0.00000, ,Hamilton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 007 Charlton 07CHAR Hamilton, , ,Motorola, ,TRS
+143.100000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 026 Sunderland 26SUND, , ,Motorola, ,TRS
+143.145000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 037 Whitby 37WHIT, , ,Motorola, ,TRS
+143.265000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 038 Pontypool 38PONT, , ,Motorola, ,TRS
+143.280000,0.00000, ,Durham,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 026 Sunderland 26SUND, , ,Motorola, ,TRS
+143.295000,0.00000, ,Halton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 005 Ballinafad 05BALL, , ,Motorola, ,TRS
+143.310000,0.00000, ,Peel,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 009 Britannia 09BRIT Mississauga, , ,Motorola, ,TRS
+143.325000,0.00000, ,Halton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 005 Ballinafad 05BALL, , ,Motorola, ,TRS
+143.340000,0.00000, ,Toronto,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 040 Mowat 40MOWT Toronto, , ,Motorola, ,TRS
+143.355000,0.00000, ,York,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 039 King City 39KING, , ,Motorola, ,TRS
+143.370000,0.00000, ,York,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 039 King City 39KING, , ,Motorola, ,TRS
+143.385000,0.00000, ,Hamilton,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 007 Charlton 07CHAR Hamilton, , ,Motorola, ,TRS
+143.505000,0.00000, ,Peel,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 009 Britannia 09BRIT Mississauga, , ,Motorola, ,TRS
+143.640000,0.00000, ,Toronto,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 040 Mowat 40MOWT Toronto, , ,Motorola, ,TRS
+143.730000,0.00000, ,Peel,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 009 Britannia 09BRIT Mississauga, , ,Motorola, ,TRS
+143.775000,0.00000, ,York,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 039 King City 39KING, , ,Motorola, ,TRS
+144.940000,0.00000,VE3YYZ,Toronto,ON,2 M Band,VE3YYZ DSTAR  Toronto,VE3YYZ-C,,D-STAR,RM,Ham
+145.110000,144.51000,VE3WOO,Toronto,ON,2 M Band,VE3WOO  Toronto,VE3WOO,82.5 PL,FM,RM,Ham
+145.130000,144.53000,VA3GTU,Toronto,ON,2 M Band,VA3GTU  Toronto,VA3GTU,,FM,RM,Ham
+145.230000,144.63000,VE3OBN,Toronto,ON,2 M Band,VE3OBN  Toronto,VE3OBN,,FM,RM,Ham
+145.310000,144.71000,VE3GSR,York,ON,2 M Band,VE3GSR  King City,VE3GSR,,FM,RM,Ham
+145.350000,144.75000,VE3YRA,York,ON,2 M Band,VE3YRA  King City,VE3YRA,103.5 PL,FM,RM,Ham
+145.370000,144.77000,VE3CTV,Toronto,ON,2 M Band,VE3CTV  Toronto,VE3CTV,,FM,RM,Ham
+145.410000,144.81000,VE3TWR,Toronto,ON,2 M Band,VE3TWR  Toronto,VE3TWR,103.5 PL,FM,RM,Ham
+145.430000,144.83000,VE3MIS,Peel,ON,2 M Band,VE3MIS  Mississauga,VE3MIS,,FM,RM,Ham
+145.450000,144.85000,VE3PYL,Peel,ON,2 M Band,VE3PYL  Mississauga,VE3PYL,,FM,RM,Ham
+145.470000,144.87000,VE3ULR,York,ON,2 M Band,VE3ULR  Ballantrae,VE3ULR,,FM,RM,Ham
+146.610000,146.01000,VE3WAS,York,ON,2 M Band,VE3WAS  King City,VE3WAS,,FM,RM,Ham
+146.700000,146.10000,VE3RDP,Peel,ON,2 M Band,VE3RDP  Inglewood,VE3RDP,,FM,RM,Ham
+146.715000,146.11500,VE3WIK,Hamilton,ON,2 M Band,VE3WIK  Carlisle,VE3WIK,,FM,RM,Ham
+146.745000,146.14500,VA3RTC,Toronto,ON,2 M Band,VA3RTC  Toronto,VA3RTC,136.5 PL,FM,RM,Ham
+146.760000,146.16000,VE3NCF,Hamilton,ON,2 M Band,VE3NCF  Hamilton,VE3NCF,,FM,RM,Ham
+146.880000,146.28000,VE3PRC,Peel,ON,2 M Band,VE3PRC Brampton,VE3PRC,,FM,RM,Ham
+146.895000,147.49500,VE3RAE,Halton,ON,2 M Band,VE3RAE Burlington ARES Backup,VE3RAE,,FM,RM,Ham
+146.940000,146.34000,VE3TOR,Toronto,ON,2 M Band,VE3TOR  Toronto,VE3TOR,,FM,RM,Ham
+146.970000,146.37000,VA3SUP,Durham,ON,2 M Band,VA3SUP  Whitby,VA3SUP,156.7 PL,FM,RM,Ham
+146.985000,146.38500,VE3SKY,Toronto,ON,2 M Band,VE3SKY  Toronto,VE3SKY,103.5 PL,FM,RM,Ham
+147.015000,147.61500,VE3OAK,Halton,ON,2 M Band,VE3OAK  Oakville,VE3OAK,,FM,RM,Ham
+147.030000,147.63000,VE3RSS,Halton,ON,2 M Band,VE3RSS  Acton,VE3RSS,,FM,RM,Ham
+147.060000,147.66000,VE3RPT,Durham,ON,2 M Band,VE3RPT  Uxbridge,VE3RPT,103.5 PL,FM,RM,Ham
+147.120000,147.72000,VE3OSH,Durham,ON,2 M Band,VE3OSH  Oshawa,VE3OSH,156.7 PL,FM,RM,Ham
+147.135000,147.73500,VE3OD,Halton,ON,2 M Band,VE3OD  Georgetown  Halton ARES,VE3OD,,FM,RM,Ham
+147.150000,147.75000,VE3WOM,Durham,ON,2 M Band,VE3WOM  Whitby,VE3WOM,103.5 PL,FM,RM,Ham
+147.180000,147.78000,,York,ON,2 M Band,VE3YRK DSTAR,VE3YRK,,D-STAR,RM,Ham
+147.180000,147.78000,VE3MOT,York,ON,2 M Band,VE3MOT  Richmond Hill,VE3MOT,,FM,RM,Ham
+147.210000,147.81000,VE3RSB,Halton,ON,2 M Band,VE3RSB  Burlington ARES,VE3RSB,,FM,RM,Ham
+147.225000,147.82500,VE3YRC,York,ON,2 M Band,VE3YRC  Aurora,VE3YRC,103.5 PL,FM,RM,Ham
+147.270000,147.87000,VE3TNC,Toronto,ON,2 M Band,VE3TNC  Toronto,VECTNC,,FM,RM,Ham
+147.330000,147.93000,VA3BAL,York,ON,2 M Band,VA3BAL  Ballantrae,VA3BAL,103.5 PL,FM,RM,Ham
+147.345000,147.94500,VE3PDX,Hamilton,ON,2 M Band,VE3PDX  Stoney Creek,VE3PDX,,FM,RM,Ham
+147.375000,147.97500,VE3SPA,Durham,ON,2 M Band,VE3SPA  Pickering,VE3SPA,103.5 PL,FM,RM,Ham
+148.030000,0.00000,VCX663,Peel,ON,Transportation Caledon East,First Student Canada,First Canada,162.2 PL,FM,BM,Transportation
+148.195000,143.21000,VEU942,York,ON,Business Vaughan,Maloron Communications ,MaloronComms,146.2 PL,FM,RM,Business
+148.435000,0.00000,VBV409,Toronto,ON,Business School Buses,Cardinal ,Cardinal ,103.5 PL,FM,BM,Transportation
+148.555000,0.00000,CIM345,Toronto,ON,Business Taxi,OnTime taxi,On-Time,155 DPL,FM,BM,Transportation
+149.110000,0.00000,,Toronto,ON,Education Toronto District School Board,Second St Middle,Second St MS,118.8 PL,FM,BM,Schools
+149.170000,149.60500,XMJ707,Durham,ON,Clarington,Darlington Provincial Park,DarlingtonPP,,FM,BM,Multi-Talk
+149.290000,0.00000,XOH437,Durham,ON,Ontario Power Generation  Pickering,Ontario Power Generation  Paging ,OPG Pickrng,,FM,B,Data
+149.770000,0.00000,VBE302,Durham,ON,Business Clarington,Bell Mobile Paging,Bell Paging,,FM,F,Data
+150.070000,164.31000,XNB39,Durham,ON,Business Oshawa,TaxiTaxi,Taxi-Taxi,123.0 PL,FM,RM,Transportation
+150.215000,0.00000,CFF200,Toronto,ON,Business Taxi,Crown Taxi,Crown Taxi,127.3 PL,FM,BM,Transportation
+150.280000,0.00000,CIZ510,Toronto,ON,Business Taxi,Beck Taxi subcontract for WheelTrans Cars,Beck/Wheeltr,223 DPL,FM,BM,Transportation
+150.310000,0.00000,VCK449,Toronto,ON,Business Taxi,Able Atlantic Taxi,AbleAtlantic,123.0 PL,FM,BM,Transportation
+150.425000,157.63500,VAF579,Durham,ON,Whitby Hydro Energy Services Corporation,Whitby Hydro Energy Services Corporation,WHES Corp,136.5 PL,FM,RM,Utilities
+150.455000,0.00000,,Halton,ON,Golf Courses Burlington Golf and Country Club,Operations,BG & CC,,FM,BM,Business
+150.485000,0.00000,VCK450,Toronto,ON,Business Taxi,Able Atlantic Taxi,AbleAtlantic,123.0 PL,FM,BM,Transportation
+150.575000,0.00000,,Hamilton,ON,Regionwide,Hamilton EMS  Paging,HEMS,,FM,F,EMS Dispatch
+150.670000,151.79000,CJY731,Toronto,ON,Media Rogers Communications,Traffic,Rogers,110.9 PL,FM,RM,Media
+150.695000,0.00000,XMI934,Hamilton,ON,Regionwide,Hamilton EMS  Paging ,HEMS ,,FMN,F,EMS Dispatch
+150.800000,0.00000,VCR540,Toronto,ON,Media Rogers Communications,Darryl Dahmer  Skymaster 1,DarrylDahmer,110.9 PL,FM,BM,Media
+150.815000,163.87500,,Toronto,ON,Business Taxi,Metro Cab,Metro Cab,,FM,RM,Transportation
+150.845000,164.85000,CFY202,Peel,ON,Transportation Mississauga,The Cab Company,CabCompany,107.2 PL,FM,RM,Transportation
+150.845000,0.00000,,Peel,ON,Transportation Mississauga,A Black Cab,A Black Cab,107.2 PL,FMN,BM,Transportation
+150.965000,0.00000,CFV376,York,ON,Business King City,Sharp Bus Lines Ch 2,Sharp BL 2,203.5 PL,FM,BM,Transportation
+151.055000,0.00000,,Durham,ON,Ontario Community Emergency Assistance Program,Ontario Community Emergency Assistance Program,OCEAP,,FM,M,Emergency Ops
+151.055000,0.00000,,Durham,ON,Business Whitby,LocPipe,Loc-Pipe,107.2 PL,FM,BM,Business
+151.070000,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,CTMP Ch 1 TowerKarting Track Operations,CTMP 1,115 DPL,FM,M,Business
+151.070000,0.00000,VFN326,Peel,ON,Bolton,Peel Regional Road 50 Weigh Scales ,PR Scales,123.0 PL,FM,BM,Public Works
+151.085000,0.00000,,Durham,ON,Ontario Community Emergency Assistance Program,Ontario Community Emergency Assistance Program,OCEAP,,FM,M,Emergency Ops
+151.085000,0.00000,,Durham,ON,Business Oshawa,Miller Paving,Miller Paving,,FM,BM,Business
+151.085000,0.00000,,Durham,ON,Business Brock Township,Canada Building Materials,CBM,103.5 PL,FM,BM,Business
+151.085000,0.00000,,Durham,ON,Business Oshawa,Morris Chemicals,Morris Chem,,FM,BM,Business
+151.085000,0.00000,,Hamilton,ON,African Lion Safari African Lion Safari,Tour Guides  Wardens,Guides,156.7 PL,FM,M,Business
+151.100000,0.00000,,Hamilton,ON,Hamilton General,Cardiac Ward Paging,HGH - paging,,FM,F,Hospital
+151.100000,0.00000,,Durham,ON,Attractions The Clarington Family Outdoor Adventure Park,The Clarington Family Outdoor Adventure Park,ClarFamilyPark,226 DPL,FM,M,Business
+151.155000,0.00000,,Durham,ON,Ontario Community Emergency Assistance Program,Ontario Community Emergency Assistance Program,OCEAP,,FM,M,Emergency Ops
+151.295000,0.00000, ,Toronto,ON,  MetroNET,Site 001 MetroNET, , ,DMR, ,TRS
+151.565000,152.03000,CZX87,Toronto,ON,Business Construction,Dufferin Concrete ,DufferinConc,162.2 PL,FM,RM,Business
+151.580000,0.00000,,Durham,ON,Attractions The Clarington Family Outdoor Adventure Park,Bowmanville Zoo ,Bow Zoo,226 DPL,FM,M,Business
+151.580000,0.00000,,Durham,ON,Business Clarington,Algoma Orchards,Algoma,167.9 PL,FM,M,Business
+151.580000,0.00000,CGH933,Hamilton,ON,Business Waterdown,Connon Nurseries Ch 1,Connon Ch.1,118.8 PL,FM,BM,Business
+151.580000,0.00000,,Hamilton,ON,African Lion Safari African Lion Safari,Channel 2,Ch. 2,156.7 PL,FMN,M,Business
+151.760000,0.00000,VCS681,Durham,ON,Business Oshawa,City Wide Taxi,City Wide,123.0 PL,FM,BM,Transportation
+151.925000,0.00000,Multiple,Toronto,ON,Toronto Transit Commission,Streetcar Maintenance of Way,TTC Maint,,P25,BM,Transportation
+152.000000,0.00000, ,Toronto,ON,  Bell FleetNet  Ontario Provincial Government Zone 1,Site 040 Mowat 40MOWT Toronto, , ,Motorola, ,TRS
+152.015000,0.00000,VCZ34,Hamilton,ON,Business Waterdown,Connon Nurseries Ch 2,Connon Ch.2,118.8 PL,FM,BM,Business
+152.045000,0.00000,XNI525,Durham,ON,Business Clarington,Dufferin Concrete,Dufferin,250.3 PL,FM,BM,Business
+152.090000,0.00000,CJY420,Toronto,ON,Media Bell Media Queen Street Bureau,CTV CP24  Mobile Link,CTV-CP24,136.5 PL,FM,BM,Media
+152.240000,0.00000,,Toronto,ON,Attractions Live Nation,Food and Beverage  Warehouse ,F/B WH,CC 1|TG 1|SL 1,DMR,BM,Business
+152.270000,0.00000,XNH35,Durham,ON,Business Whitby,Pilgrim Transportation Services,Pilgrim Tran,110.9 PL,FM,BM,Transportation
+152.345000,0.00000,XJM601,Halton,ON,Regionwide,Fire Dispatch  Regional South,Appleby Disp,,FM,BM,Fire Dispatch
+152.525000,159.76500,CKR834,Hamilton,ON,Business Hamilton,Sharp Bus Lines,Sharp B L,205 DPL,FMN,RM,Transportation
+152.585000,0.00000, ,Hamilton,ON,  Horizon Utilities Corporation ,Site 001 Hamilton, , ,DMR, ,TRS
+153.125000,0.00000,XJM673,Durham,ON,Clarington,Clarington Fire Services  Paging,CFES PAGE,74.4 PL,FM,B,Fire Dispatch
+153.470000,0.00000, ,Hamilton,ON,  Horizon Utilities Corporation ,Site 001 Hamilton, , ,DMR, ,TRS
+153.500000,0.00000,,Hamilton,ON,McMaster University,Maintenance,Maintenance,,FM,BM,Schools
+153.545000,0.00000,XJJ56,Hamilton,ON,Hamilton,Work Channel,Work Channel,179.9 PL,FM,BM,Utilities
+153.590000,153.09500,XJI33,Durham,ON,Oshawa PUC Networks,Oshawa PUC Networks,OSH PUC,151.4 PL,FM,RM,Utilities
+153.620000,0.00000,VCS867,Hamilton,ON,Business Waterdown,Connon Nurseries Ch 3,Connon Ch.3,118.8 PL,FM,BM,Business
+153.665000,0.00000,,York,ON,Richmond Hill,Central York Fire Service  Paging,CYFS - Pg,CSQ,FM,B,Fire Dispatch
+153.740000,0.00000,,Durham,ON,Oshawa PUC Networks,Oshawa PUC Networks  Simplex,OSH PUC SIM,151.4 PL,FM,BM,Utilities
+153.860000,0.00000,CFF552,Durham,ON,Townships of Brock Scugog Town of Uxbridge Fire Services,North Durham Region Fire  Paging,NDRF PAGE,,FM,RM,Fire Dispatch
+153.950000,0.00000, ,Peel,ON,  Caledon Town,Site 001 Concession 6, , ,LTR, ,TRS
+154.160000,0.00000,XJF647,Halton,ON,Milton,Fire Dispatch ,MiltonFD VHF,,FM,BM,Fire Dispatch
+154.160000,0.00000,VFX658,Halton,ON,Halton Hills,Town Fire Department,Tof HH FD,,FM,BM,Fire Dispatch
+154.205000,0.00000,XJM921,Halton,ON,Burlington,Fire Dispatch  Simulcast,Appleby Disp,,FM,B,Fire Dispatch
+154.250000,0.00000,,Hamilton,ON,Regionwide,Fire Dispatch Trunk Simulcast,HFS Disptch,,FM,B,Fire Dispatch
+154.490000,0.00000,VX9AI,Hamilton,ON,Business Hamilton,Kenneth R Awrey,K R Awrey,412 DPL,FMN,BM,Business
+154.570000,0.00000,,Toronto,ON,Attractions Live Nation,Guest Services,Guest Serv,CC 4|TG 1|SL 1,DMR,BM,Business
+154.570000,0.00000,,Durham,ON,Business Pickering,Royal Ashburn Golf Club,Royal Ashburn,,FM,BM,Business
+154.570000,151.08500,XKT565,Hamilton,ON,African Lion Safari African Lion Safari,Channel 1  Main,Ch. 1 Main,156.7 PL,FM,RM,Business
+154.570000,0.00000,,Peel,ON,Business Various,Town II Condominium  Property Management ,Town II PM,CSQ,FMN,BM,Business
+154.570000,0.00000,,Toronto,ON,Attractions Live Nation,Food and Beverage,F/B,CC 1|TG 1|SL 2,DMR,BM,Business
+154.600000,0.00000,XJJ56,Hamilton,ON,Hamilton,Horizon Utilities,Horizon Util,136.5 PL,FM,BM,Utilities
+154.800000,168.55500,CIY564,York,ON,Business King City,A Cab Taxi Services,A Cab Taxi,141.3 PL,FM,RM,Transportation
+154.845000,0.00000,CIZ510,Toronto,ON,Business Taxi,Beck Taxi subcontract for WheelTrans Dispatch,Beck/Wheeltr,223 DPL,FM,BM,Transportation
+154.920000,0.00000,CIK489,Toronto,ON,Business Taxi,Royal Taxi ,Royal Taxi,156.7 PL,FM,BM,Transportation
+154.950000,163.06500,,Toronto,ON,Business Construction,Dufferin Concrete,DufferinConc,CC 10|TG 1|SL 1,DMR,RM,Business
+155.415000,151.10000,,Hamilton,ON,African Lion Safari African Lion Safari,Koho Food Services,Koho Food,606 DPL,FMN,RM,Business
+155.520000,0.00000,CZJ307,Toronto,ON,Business Taxi,Beck Taxi subcontract for WheelTrans Cars,Beck Taxi ,223 DPL,FMN,BM,Transportation
+155.550000,0.00000,,York,ON,Business Newmarket,Switzer Carty Bus,SwitzerCarty,265 DPL,FM,BM,Transportation
+155.550000,0.00000,,Peel,ON,Transportation Brampton,Switzer Carty,SwitzerCarty,265 DPL,FMN,BM,Transportation
+155.700000,158.71500,XNH662,Hamilton,ON,City Services,Hamilton Port Authority,HPA,CC 1|TG 1|SL 1,DMR,RM,Federal
+155.700000,158.71500,XNH662,Hamilton,ON,City Services,Hamilton Port Authority  GPS location data,HPA GPS,CC 1|TG 16776415|SL 1,DMR,RM,Data
+156.150000,0.00000,,Peel,ON,Region Wide,Dispatch  MississaugaBrampton and Caledon,PeelStnPage,CSQ,FM,B,Data
+157.500000,0.00000,,Peel,ON,Retail Mississauga,Lowes  5348 Mavis Road,Lowe's Mavis,CSQ,FMN,BM,Business
+157.545000,0.00000,VBT349,Toronto,ON,Business School Buses,Stock Transportation,Stock,127.3 PL,FM,BM,Transportation
+158.175000,0.00000,VCT356,Hamilton,ON,Business Hamilton,Dufferin Concrete,Dufferin ,411 DPL,FM,BM,Business
+158.175000,0.00000,,Durham,ON,Business Whitby,Dufferin Concrete,Dufferin,,FM,BM,Business
+158.505000,0.00000,VCT585,Peel,ON,Transportation Brampton,Parkinson Coach Lines ,Parkinson CL,156.7 PL,FM,BM,Transportation
+158.610000,0.00000,CIK493,Peel,ON,Transportation Mississauga,Trott Transit,TrottTransit,88.5 PL,FM,BM,Transportation
+158.610000,0.00000,,Peel,ON,Transportation Mississauga,Switzer Carty  Long Bus ,SC Long,88.5 PL,FMN,BM,Transportation
+158.790000,0.00000,XJG580,York,ON,Vaughan,Vaughan Parks Joint Operations Centre,VaughnParks,67.0 PL,FM,BM,Public Works
+158.925000,0.00000,CKO327,Toronto,ON,Business School Buses,Stock Transportation,Stock,127.3 PL,FM,BM,Transportation
+159.135000,0.00000,CIM237,Toronto,ON,Business Taxi,Beck Taxi ,Beck Taxi,94.8 PL,FM,BM,Transportation
+159.405000,168.63000,XJJ442,York,ON,Vaughan,Vaughan Works Joint Operations Centre,VaughnWorks2,,FM,RM,Public Works
+159.810000,0.00000,,Durham,ON,Government of Canada,Industry Canada,IC,,FM,BM,Federal
+159.990000,0.00000,,Toronto,ON,Business Taxi,AAA Best Choice Taxi,AAA Best Chc,136.5 PL,FM,BM,Transportation
+162.060000,0.00000,VFR494,Toronto,ON,Business School Buses,Cardinal ,Cardinal,103.5 PL,FM,BM,Transportation
+162.165000,0.00000,VAX564,Hamilton,ON,Business Hamilton,Caledonia Transportation,Caledonia Tr,110.9 PL,FM,BM,Transportation
+162.165000,0.00000,VAX564,Hamilton,ON,Business Hamilton,Caledonia Transportation,Caledonia,110.9 PL,FM,BM,Business
+162.240000,166.32000,XKX726,Toronto,ON,Business Couriers,Jesk Enterprises Ltd,Jesk Entrps,146.2 PL,FM,RM,Business
+162.255000,0.00000, ,Hamilton,ON,  Talk Wireless LTR VHF Hamilton,Site 001 Confirmed LCN, , ,LTR, ,TRS
+162.570000,0.00000,CFU364,Hamilton,ON,Business Cranston,Caledonia Transportation ,Caledonia Tr,110.9 PL,FM,BM,Transportation
+162.720000,150.36500,CKL761,Toronto,ON,Business Taxi,Beck Taxi,Beck Taxi,114.8 PL,FM,RM,Transportation
+162.735000,0.00000,CFU256,Hamilton,ON,Regionwide,Hamilton Regional Conservation Authority,HRCA 1,151.4 PL,FM,M,Public Works
+162.780000,0.00000,CYE432,Toronto,ON,Business Taxi,Beck Taxi subcontract for WheelTrans Cars,Beck Taxi,71.9 PL,FM,BM,Transportation
+162.810000,0.00000,VCL915,Hamilton,ON,Business Dundas,Carmeuse Lime and Stone,Carmeuse,103.5 PL,FM,BM,Business
+163.020000,0.00000,VOT603,Hamilton,ON,Business Hamilton,Lafarge Paving and Costruction,Lafarge,110.9 PL,FM,BM,Business
+163.065000,0.00000,VFV251,Hamilton,ON,Business Hamilton,Dufferin Concrete,Dufferin ,77.0 PL,FM,BM,Business
+163.080000,0.00000,VBE858,York,ON,Business Vaughan,Astro Taxi COOP,Astro Taxi,123.0 PL,FM,BM,Transportation
+163.170000,168.67500,CHC985,Hamilton,ON,Regionwide,Region Plows,HamiltonPlow,114.8 PL,FM,RM,Public Works
+163.200000,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,Bobs Towing wCTMP,Bob's Towing,114.8 PL,FM,M,Business
+163.200000,0.00000,VCX676,Durham,ON,Business Oshawa,Bobs Towing,Bob's Tow,114.8 PL,FM,BM,Business
+163.230000,167.34000,VOV227,Toronto,ON,Business Taxi,Crown Taxi,Crown Taxi,107.2 PL,FM,RM,Transportation
+163.290000,150.87500,CKL760,Toronto,ON,Business Taxi,Beck Taxi,Beck Taxi,94.8 PL,FM,RM,Transportation
+163.500000,167.16000,VFW483,Toronto,ON,Business Couriers,TransOntario Express,TransOntario,146.2 PL,FM,RM,Business
+163.590000,150.56500,VOX272,Toronto,ON,Business Taxi,Beck Taxi subcontract for WheelTrans Cars,Beck Taxi,88.5 PL,FMN,RM,Transportation
+163.650000,0.00000,CYE388,Toronto,ON,Business Airport Taxi and Limousine,Aerofleet Taxi,Aerofleet,167.9 PL,FMN,BM,Transportation
+163.770000,0.00000,,Halton,ON,Business Milton,Union Gas ,Union Gas,118.8 PL,FM,BM,Utilities
+163.785000,0.00000,VBE578,Toronto,ON,Business Taxi,Crown Taxi 2 Bloor Street E,Crown Taxi,156.7 PL,FM,BM,Transportation
+163.800000,0.00000,CYB683,Hamilton,ON,Business Lynden,Joost AH Dr Blieck Josnar Acres,Josnar Acres,192.8 PL,FM,BM,Business
+163.875000,150.81500,XNI61,Toronto,ON,Business Taxi,Beck Taxi  Central Dispatch  ,Beck Disptch,88.5 PL,FM,RM,Transportation
+163.905000,0.00000, ,York,ON,  Telequip Systems King City,Site 001 King City, , ,LTR, ,TRS
+164.025000,0.00000,VFC837,Toronto,ON,Business Taxi,Crown Taxi Inc,Crown Taxi,114.8 PL,FM,BM,Transportation
+164.190000,0.00000,VCR587,Toronto,ON,Business School Buses,First Student Canada,FirstCanada,CSQ,FMN,BM,Schools
+164.265000,168.69000,XJL432,York,ON,Richmond Hill,Works Operations,RHWORKS,162.2 PL,FM,BM,Public Works
+164.325000,165.21000,VCO580,York,ON,Business Bradford,Parkview Transit ,ParkviewTrns,141.3 PL,FM,RM,Transportation
+164.355000,168.37500,VCL598,Halton,ON,Business Limehouse,Fred J Anthony   Agricultural Chemicals,FredJAnthony,241.8 PL,FM,RM,Business
+164.460000,168.48000,,Toronto,ON,Business Taxi,AAA Best Choice Taxi,AAA Best Chc,,FM,RM,Transportation
+164.550000,0.00000, ,Hamilton,ON,  Talk Wireless LTR VHF Hamilton,Site 001 Confirmed LCN, , ,LTR, ,TRS
+164.580000,0.00000, ,York,ON,  Telequip Systems King City,Site 001 King City, , ,LTR, ,TRS
+164.730000,169.14000,CHC985,Hamilton,ON,Regionwide,Region Plows,HamiltonPlow,100.0 PL,FM,RM,Public Works
+164.775000,171.27000,Multiple,York,ON,Region Wide,Municipal Works Dept,YR WorksDept,136.5 PL,FM,RM,Public Works
+164.790000,167.01000,CZY495,Halton,ON,Business Burlington,Dufferin Concrete  ,Dufferin ,143 DPL,FM,RM,Business
+164.790000,167.01000,VCT356,Hamilton,ON,Business Hamilton,Dufferin Concrete,Dufferin ,114.8 PL,FM,BM,Business
+164.850000,0.00000,,Peel,ON,Transportation Mississauga,A Black Cab,A Black Cab,107.2 PL,FMN,BM,Transportation
+165.030000,0.00000,,Durham,ON,Business Whitby,Circle Taxi,CircleTaxi,115 DPL,FM,BM,Transportation
+165.315000,0.00000,VCL754,York,ON,Business King City,First Student Canada,FirstCanada,71.9 PL,FM,BM,Schools
+165.345000,162.73500,CFU256,Hamilton,ON,Regionwide,Hamilton Regional Conservation Authority,HRCA 2,162.2 PL,FM,BM,Public Works
+165.360000,0.00000,VAJ451,Peel,ON,Transportation Brampton,Stock Transportation,Stock Transp,192.8 PL,FM,BM,Transportation
+165.420000,0.00000,VCZ415,Durham,ON,Business Pickering,Dufferin Concrete,Dufferin,123.0 PL,FM,BM,Business
+165.420000,0.00000,XNX491,Toronto,ON,Business Construction,Dufferin Concrete ,DufferinConc,123.0 PL,FM,BM,Business
+165.585000,0.00000,XKS497,Hamilton,ON,Business Vinemount,Waterford Sand and Gravel,Waterford SG,100.0 PL,FM,BM,Business
+165.600000,0.00000, ,Toronto,ON,  Yorkdale Shopping Centre,Site 001 Yorkdale, , ,DMR, ,TRS
+165.630000,0.00000,VFU,York,ON,Business King City,Stock Transportation,StockTrans,127.3 PL,FM,BM,Transportation
+165.735000,171.10500,CKR915,Durham,ON,Business Clarington,Student Transportation of Canada,STC,423 DPL,FM,RM,Schools
+165.870000,0.00000,XNE92,York,ON,Business Markham,Markham Taxi,MarkhamTaxi,88.5 PL,FM,BM,Transportation
+165.930000,170.88000,XNF804,Toronto,ON,Attractions North York,Ontario Science Centre  Security,OSC Security,118.8 PL,FM,RM,Security
+166.005000,171.40500,VOZ485,Durham,ON,Business Clarington,Phoenix Transportation,Phoenix,107.2 PL,FM,RM,Schools
+166.125000,0.00000, ,Hamilton,ON,  Talk Wireless LTR VHF Hamilton,Site 001 Confirmed LCN, , ,LTR, ,TRS
+166.200000,171.45000,CHD383,Toronto,ON,Business School Buses,Maloron Communications Leased  Dispatch,Maloron Comm,CC 5|TG 101|SL *,DMR,RM,Transportation
+166.200000,171.45000,CHD383,Toronto,ON,Business School Buses,Maloron Communications Leased  Dispatch,Maloron Comm,CC 5|TG 102|SL *,DMR,RM,Transportation
+166.380000,0.00000,XNC75,Halton,ON,Business Oakville,Halton Taxi,Halton Taxi,412 DPL,FM,BM,Transportation
+166.440000,0.00000, ,York,ON,  Telequip Systems King City,Site 001 King City, , ,LTR, ,TRS
+166.560000,0.00000,VOT229,Peel,ON,Transportation Mississauga,Switzer Carty  Short BusVans ,SC Short/Van,162.2 PL,FMN,BM,Transportation
+166.620000,0.00000,,Durham,ON,Business Pickering,Dufferin Ready Mix,Dufferin RM,411 DPL,FM,BM,Business
+166.620000,0.00000, ,Toronto,ON,  Yorkdale Shopping Centre,Site 001 Yorkdale, , ,DMR, ,TRS
+166.710000,0.00000,Multiple,Toronto,ON,Business Airport Taxi and Limousine,Airflight Service,Airflight,131.8 PL,FMN,BM,Transportation
+166.800000,0.00000,,Hamilton,ON,African Lion Safari African Lion Safari,Safari Outfitters,Outfitters,156.7 PL,FMN,BM,Business
+166.800000,0.00000,,Hamilton,ON,African Lion Safari African Lion Safari,Operations,Operations,156.7 PL,FM,M,Business
+166.890000,167.61000,XJL408,Durham,ON,Scugog Township,Township Roads Dept ,Scugog Rds,203.5 PL,FM,RM,Public Works
+167.130000,0.00000,XKX727,York,ON,Business Richmond Hill,Stock Transportation,Stock Trans,127.3 PL,FM,BM,Transportation
+167.250000,0.00000,VCM797,Hamilton,ON,Business Ancaster,First Student Canada,FirstCanada,CSQ,FM,BM,Transportation
+167.400000,0.00000,CYE388,Toronto,ON,Business Airport Taxi and Limousine,Aerofleet Taxi,Aerofleet,167.9 PL,FMN,BM,Transportation
+167.985000,0.00000,VCZ868,Peel,ON,Transportation Mississauga,First Student Canada ,First Canada,CSQ,FM,BM,Transportation
+168.045000,0.00000,VFS841,Halton,ON,Business Oakville,Stock Transportation,Stock Trans,127.3 PL,FM,BM,Transportation
+168.210000,0.00000,VFT841,Peel,ON,Transportation Brampton,Kwik Cab ,Kwik Cab ,146.2 PL,FM,BM,Transportation
+168.660000,0.00000,VEQ705,Toronto,ON,Business Taxi,COOP Cabs,CO-OP Cabs ,103.5 PL,FM,BM,Transportation
+168.765000,0.00000,,Peel,ON,Business Construction,Canadian Building Materials,CBM,100.0 PL,FMN,BM,Business
+168.810000,0.00000,,Peel,ON,Transportation Brampton,Bram City Taxi,Bram City,103.5 PL,FMN,BM,Transportation
+168.900000,0.00000,VAF753,Durham,ON,Business Clarington,First Student Canada,First Student,,FM,BM,Schools
+168.960000,168.27000,Multiple,Durham,ON,Regionwide,Durham Region Works Alarms,D Rgn Works ,123.0 PL,FM,RM,Data
+168.990000,0.00000,XJJ25,Halton,ON,Oakville REACT,Special Events,REACT Sp Events,CSQ,FMN,BM,Ham
+169.155000,0.00000, ,Peel,ON,  Caledon Town,Site 001 Concession 6, , ,LTR, ,TRS
+169.275000,0.00000,,Toronto,ON,Business Taxi,5 Star Taxi,5 Star Taxi,250.3 PL,FM,,Transportation
+169.290000,165.27000,VEA309,Halton,ON,Burlington,Hydro,BurlingHyd,151.4 PL,FM,RM,Utilities
+169.290000,172.03500,XJF881,Durham,ON,Pickering,Engineering  Public Works,Public Works,110.9 PL,FM,RM,Public Works
+169.350000,0.00000,Multiple,York,ON,Aurora,Town Works Dept,Aurora Works,156.7 PL,FM,BM,Public Works
+169.500000,0.00000,XJF538,York,ON,Markham,Town Works Dept,MarkhamWorks,,FM,BM,Public Works
+169.950000,0.00000,VCK879,Hamilton,ON,Business Westover,BrennBFarms,BrennBFarms,141.3 PL,FM,BM,Business
+169.950000,0.00000,VCK879,Hamilton,ON,Business Waterdown,BrennBFarms  Westover,Brenn-B-Farm,141.3 PL,FMN,BM,Business
+169.950000,0.00000,,Peel,ON,Volunteer Organizations Special Events,Respond Search and Rescue,Respond SAR,146.2 PL,FMN,BM,Business
+170.010000,0.00000,,Peel,ON,Business Construction,Innocon Concrete  Mississauga Yard ,Innocon ,110.9 PL,FMN,BM,Business
+170.010000,0.00000,CZX66,Durham,ON,Business Ajax,Innocon Inc,Innocon,,FM,BM,Business
+170.070000,0.00000,VAJ955,Toronto,ON,Business Taxi,Beck Taxi  WheelTrans,Beck Taxi,82.5 PL,FM,BM,Transportation
+170.250000,0.00000,VCT509,Hamilton,ON,Business Flamborough,Airway Transit Service,Airway Trans,146.2 PL,FM,BM,Transportation
+170.310000,0.00000,CZY394,Toronto,ON,Business School Buses,Stock Transportation,Stock,CSQ,FM,BM,Transportation
+170.415000,0.00000,XKS500,Durham,ON,Business Oshawa,Durhamway School Bus,Durhamway,,FM,BM,Schools
+170.550000,0.00000,VCV845,Toronto,ON,Business Taxi,Maple Leaf Cabs,Maple Leaf,100.0 PL,FM,BM,Transportation
+170.580000,0.00000,,Peel,ON,Business Construction,Innocon Concrete  Data,Innocon ,110.9 PL,FMN,BM,Data
+170.790000,0.00000,VCK444,York,ON,Business Newmarket,Stock Transportation,Stock Trans,127.3 PL,FMN,BM,Transportation
+170.820000,0.00000,,Toronto,ON,Business Taxi,City Taxi  Central Dispatch,City Taxi,131.8 PL,FMN,BM,Transportation
+171.060000,0.00000,CKC502,Toronto,ON,Business Taxi,Beck Taxi ,Beck Taxi,97.4 PL,FM,BM,Transportation
+171.105000,165.73500,CHF658,Durham,ON,Business Pickering,Student Transportation of Canada,Student Trnsp,,FM,RM,Transportation
+171.180000,0.00000,VCP386,Toronto,ON,Business School Buses,First Student Canada,FirstCanada,141.3 PL,FM,BM,Schools
+171.360000,0.00000,XNB33,Toronto,ON,Business Taxi,Beck Taxi ,Beck Taxi,CSQ,FM,BM,Transportation
+171.465000,0.00000,XNG561,Peel,ON,Transportation Mississauga,First Student Canada ,First Canada,CSQ,FM,BM,Transportation
+171.480000,0.00000,XNE605,Durham,ON,Business Ajax,First Student Canada,First Student,,FM,BM,Schools
+171.570000,0.00000,CIY818,Toronto,ON,Business Taxi,Kingsboro Taxi ,Kingsboro,103.5 PL,FM,BM,Transportation
+171.630000,0.00000,,Toronto,ON,Business Construction,Teskey Construction ,Teskey Const,136.5 PL,FM,BM,Business
+171.930000,0.00000,CJO350,Toronto,ON,Business Construction,CBM Concrete,CBM Conc,110.9 PL,FM,BM,Business
+171.930000,0.00000,CJN617,Halton,ON,Business Burlington,Canadian Building Materials ,CBM,114.8 PL,FM,BM,Business
+171.930000,0.00000,CJO350,Durham,ON,Business Clarington,Canada Building Materials,CBM,123.0 PL,FM,BM,Business
+171.975000,0.00000,VCN730,Durham,ON,Business Uxbridge Township,Stock Transportation,Stock Trans,,FM,BM,Transportation
+172.080000,0.00000,XNX38,Toronto,ON,Business School Buses,First Student Canada,FirstCanada,CSQ,FM,BM,Schools
+172.470000,0.00000,,York,ON,Business Woodbridge,National Golf Club of Canada ,National GC,229.1 PL,FMN,BM,Business
+172.590000,0.00000,,Toronto,ON,Event Medical Services,Spectrum Event Medical Services,Spectrum EMS,131.8 PL,FM,M,EMS-Talk
+172.590000,0.00000,,Halton,ON,Business Oakville,BOT Construction ,BOT Const,203.5 PL,FM,BM,Business
+172.845000,0.00000,VBV471,York,ON,Business Richmond Hill,Advance Unique Taxi,Advance,179.9 PL,FMN,BM,Transportation
+172.980000,0.00000,,Durham,ON,Business Oshawa,GenAuto Shippers,Gen-Auto,127.3 PL,FM,BM,Business
+172.980000,0.00000,,Halton,ON,Business Oakville,BOT Construction ,BOT Const,203.5 PL,FM,BM,Business
+172.980000,0.00000,,Toronto,ON,Event Medical Services,Spectrum Event Medical Services,Spectrum EMS,131.8 PL,FM,M,EMS-Talk
+173.820000,0.00000,XJV736,Halton,ON,Business Milton,Oak Concrete ,Oak Concrete,110.9 PL,FM,BM,Business
+224.240000,222.64000,VE3RSD,Halton,ON,125 M Band,VE3RSD  Oakville,VE3RSD,,FM,RM,Ham
+224.240000,222.64000,VE3RSD,Peel,ON,125 M Band,VE3RSD  Brampton  IRLP ,VE3RSD -IRLP,,FM,RM,Ham
+224.300000,222.70000,VA3WHQ,Toronto,ON,125 M Band,VA3WHQ  SSPBD Network,VA3WHQ,,FM,RM,Ham
+224.520000,222.92000,VE3WIK,Hamilton,ON,125 M Band,VE3WIK  Hamilton,VE3WIK,,FM,RM,Ham
+224.620000,223.02000,VE3RSD,Peel,ON,125 M Band,VE3RSD  Mississauga  IRLP,VE3RSD -IRLP,,FM,RM,Ham
+224.720000,223.12000,VE3PAQ,Halton,ON,125 M Band,VE3PAQ  Acton,VE3PAQ,,FM,RM,Ham
+224.740000,223.14000,VE3RSB,Halton,ON,125 M Band,VE3RSB  Burlington,VE3RSB,,FM,RM,Ham
+224.860000,223.26000,VE3BEG,Durham,ON,125 M Band,VE3BEG  Uxbridge,VE3BEG,,FM,RM,Ham
+224.960000,223.36000,VE3WIK,Hamilton,ON,125 M Band,VE3WIK  Carlisle,VE3WIK,,FM,RM,Ham
+246.500000,0.00000,,Toronto,ON,Canadian International Air Show CNE Waterfront,Snowbirds,Snowbirds,,AM,BM,Aircraft
+268.000000,0.00000,,Toronto,ON,Canadian International Air Show CNE Waterfront,Tiger Ops,Tiger Ops,,AM,BM,Aircraft
+272.100000,0.00000,,Toronto,ON,Canadian International Air Show CNE Waterfront,Snowbirds,Snowbirds,,AM,BM,Aircraft
+333.300000,0.00000,,Toronto,ON,Canadian International Air Show CNE Waterfront,Hornets,Hornets,,AM,BM,Aircraft
+406.112500,0.00000,,Toronto,ON,Toronto Transit Commission,Security Simplex,TTC Sec Simp,136.5 PL,FM,M,Security
+406.162500,0.00000,CKR831,Toronto,ON,Business Taxi,Scarborough Taxi,ScarboroTaxi,85.4 PL,FMN,BM,Transportation
+407.037500,0.00000,,Durham,ON,Veridian Connections,Veridian Connections Paging  ,Veridian Pg,,FMN,B,Utilities
+407.387500,0.00000,XND73,Halton,ON,Business Burlington,Burlington Taxi,BurlngtnTaxi,123.0 PL,FM,BM,Transportation
+407.662500,0.00000,,Toronto,ON,Business Etobicoke,Swifttrans Airport Shuttle,Swiftrans,100.0 PL,FM,BM,Transportation
+407.912500,0.00000,CIG844,Hamilton,ON,Business Flamborough,Airways Transit Services,AirwaysTrans,226 DPL,FMN,BM,Transportation
+408.012500,0.00000,,Peel,ON,Peel Region Attractions Powerade Centre,Centre 1,PAC 1,,FM,BM,Business
+408.012500,0.00000,XKE588,Toronto,ON,Business Etobicoke,Holiday Inn  Airport,HI Airport,115 DPL,FM,BM,Business
+408.012500,0.00000,,Halton,ON,Business Burlington,Contro Valve,Contro Valve,,NXDN,BM,Business
+408.012500,0.00000,,Hamilton,ON,John C Munro International Airport YHM Airlines,Westjet  Ops,Westjet,97.4 PL,FM,M,Aircraft
+408.112500,0.00000,CZD283,Toronto,ON,Business Taxi,Scarborough Taxi,ScarboroTaxi,,FM,BM,Transportation
+408.537500,406.53750,VEU921,York,ON,Markham ,Markham Stouffville Hospital  Security,Mark/Stffvle,031 DPL,FM,RM,Security
+409.012500,0.00000, ,Toronto,ON,  Ryerson University,Site 001 Ryerson, , ,LTR, ,TRS
+409.212500,0.00000, ,Toronto,ON,  Ryerson University,Site 001 Ryerson, , ,LTR, ,TRS
+409.412500,0.00000, ,Toronto,ON,  Ryerson University,Site 001 Ryerson, , ,LTR, ,TRS
+410.062500,0.00000, ,Toronto,ON,  Metrolinx  GO Transit,Site 001 East Simulcast, , ,Project 25, ,TRS
+410.137500,0.00000, ,Hamilton,ON,  McMaster University,Site 001 MAC, , ,DMR, ,TRS
+410.162500,0.00000, ,York,ON,  Alectra Utilities,Site 005 Markham, , ,DMR, ,TRS
+410.212500,0.00000, ,Toronto,ON,  Metrolinx  GO Transit,Site 001 East Simulcast, , ,Project 25, ,TRS
+410.237500,415.23750,CZD317,Toronto,ON,Business North York,CBRE Facilities Management  Wilson Complex  Ministry of Transportation ,CBRE MTO,123.0 PL,FMN,RM,Business
+410.237500,415.23750,CHD380,Toronto,ON,Business Downtown,CBRE Facilities Management  Mowat Block,CBRE Mowat,179.9 PL,FMN,RM,Business
+410.237500,415.23750,VBO415,Toronto,ON,Business Etobicoke,CBRE Facilities Management  Resources Road Complex ,CBRE - RR,110.9 PL,FMN,RM,Business
+410.262500,0.00000, ,York,ON,  Alectra Utilities,Site 006 Richmond Hill, , ,DMR, ,TRS
+410.287500,415.28750,XLQ616,Toronto,ON,Attractions Core,Royal Ontario Museum  City of Toronto Security,ROM Security,118.8 PL,FM,RM,Security
+410.287500,415.28750,Multiple,Halton,ON,Halton Hills,Hydro,HH Hydro,,FMN,RM,Utilities
+410.287500,0.00000,XLQ616,Toronto,ON,Business Downtown,City of Toronto Properties  Security Ch 1,TorCityHall1,82.5 PL,FM,BM,Security
+410.312500,0.00000, ,Durham,ON,  Metrolinx  GO Transit,Site 006 Uxbridge, , ,Project 25, ,TRS
+410.337500,0.00000, ,Toronto,ON,  Metrolinx  GO Transit,Site 001 East Simulcast, , ,Project 25, ,TRS
+410.512500,0.00000, ,Toronto,ON,  Metrolinx  GO Transit,Site 001 East Simulcast, , ,Project 25, ,TRS
+410.537500,0.00000, ,Hamilton,ON,  Metrolinx  GO Transit,Site 002 West Simulcast, , ,Project 25, ,TRS
+410.562500,415.56250,VFW946,Toronto,ON,Business Downtown,Union Station  Security Office,Union Stn,411 DPL,FM,RM,Security
+410.587500,0.00000,,Halton,ON,Milton,Maplehurst Correctional Complex,MaplehurstCC,141.3 PL,FM,RM,Corrections
+410.662500,0.00000, ,Toronto,ON,  The Hospital For Sick Children,Site 001 HSC, , ,DMR, ,TRS
+410.787500,415.78750,VCK775,Hamilton,ON,City Services,Hamilton Street Railway Dispatch,HSR Dispatch,107.2 PL,FM,RM,Transportation
+410.837500,415.83750,XOH458,Durham,ON,Ontario Power Generation  Darlington,Ontario Power Generation  Darlington ,OPGDarlingtn,,FMN,RM,Utilities
+410.837500,415.83750,,Toronto,ON,Ontario Power Generation,OPG  800 Kipling Avenue,OPG 800 Kip,94.8 PL,FMN,RM,Utilities
+410.912500,0.00000, ,Durham,ON,  Metrolinx  GO Transit,Site 006 Uxbridge, , ,Project 25, ,TRS
+410.931250,0.00000, ,Toronto,ON,  Toronto South Detention Centre,Site 001 Toronto South DC, , ,NXDN, ,TRS
+411.037500,0.00000, ,Hamilton,ON,  Metrolinx  GO Transit,Site 002 West Simulcast, , ,Project 25, ,TRS
+411.087500,416.08750,XJL429,Durham,ON,Uxbridge ,Town Roads Department,Roads Dept.,,FMN,RM,Public Works
+411.087500,416.08750,VOF268,Hamilton,ON,City Services,Hamilton Street Railway  Supervisors,HSR Supervsr,114.8 PL,FM,RM,Transportation
+411.162500,0.00000, ,Toronto,ON,  Metrolinx  GO Transit,Site 001 East Simulcast, , ,Project 25, ,TRS
+411.262500,0.00000,XJH216,Halton,ON,Milton,Hydro,Milton Hydro,,DMR,BM,Utilities
+411.287500,0.00000, ,Toronto,ON,  Metrolinx  GO Transit,Site 001 East Simulcast, , ,Project 25, ,TRS
+411.337500,416.33750,XJM506,Hamilton,ON,City Services,Waste Management,Waste Mgmt,141.3 PL,FM,RM,Public Works
+411.412500,416.41250,XJF209,Halton,ON,Oakville,Hydro Ch 1  TG 100,OakvlHydro 1,40 RAN,NXDN,RM,Utilities
+411.456250,0.00000, ,Toronto,ON,  Toronto South Detention Centre,Site 001 Toronto South DC, , ,NXDN, ,TRS
+411.537500,416.53750,VCK775,Hamilton,ON,City Services,Hamilton Street Railway,HSR 1,97.4 PL,FM,RM,Transportation
+411.562500,0.00000, ,Toronto,ON,  Metrolinx  GO Transit,Site 001 East Simulcast, , ,Project 25, ,TRS
+411.587500,0.00000, ,Toronto,ON,  KELCOM Toronto,Site 001 CN Tower, , ,LTR, ,TRS
+411.587500,0.00000, ,Toronto,ON,  FleetConnect ,Site 012 Toronto, , ,DMR, ,TRS
+411.637500,416.63750,VCK776,Hamilton,ON,City Services,Hamilton Street Railway,HSR 2,,FM,RM,Transportation
+411.712500,0.00000,,Halton,ON,Oakville,Hydro Ch 2  Stringing,OakvlHydro 2,103.5 PL,FMN,BM,Utilities
+411.737500,0.00000,,Toronto,ON,Correctional Facilities,Toronto East Detention Centre,TEDC,141.3 PL,FM,BM,Corrections
+411.737500,416.73750,,Halton,ON,Milton,Vanier Centre For Women Maplehurst,VanierCC,,FMN,BM,Corrections
+411.887500,416.88750,,Hamilton,ON,Ontario Government Agencies,Hamilton Wentworth Detention Centre,HWDC 1,141.3 PL,FM,RM,Corrections
+411.906250,0.00000, ,Toronto,ON,  Toronto South Detention Centre,Site 001 Toronto South DC, , ,NXDN, ,TRS
+412.037500,417.03750,Multiple,Toronto,ON,Toronto Transit Commission,Surface Ch1 Transit Control,TTC Surf Ch1,136.5 PL,FM,RM,Transportation
+412.062500,417.06250,Multiple,Toronto,ON,Toronto Transit Commission,Surface Ch2 WheelTrans,TTC Surf Ch2,203.5 PL,FM,RM,Transportation
+412.087500,417.08750,XJJ374,York,ON,Newmarket,Newmarket  Tay Power Distribution,NewmrktHydro,CC 1|TG 1|SL 1,DMR,RM,Utilities
+412.112500,417.11250,Multiple,Toronto,ON,Toronto Transit Commission,Surface Ch3 ,TTC Surf Ch3,136.5 PL,FM,RM,Transportation
+412.187500,417.18750,XJM964,Toronto,ON,Toronto Transit Commission,RT Yard,RT Yard,136.5 PL,FM,RM,Transportation
+412.262500,0.00000, ,Hamilton,ON,  McMaster University,Site 001 MAC, , ,DMR, ,TRS
+412.262500,417.26250,VCL987,Hamilton,ON,McMaster University Medical Centre,Security and Parking,MUMC,,DMR,RM,Security
+412.287500,0.00000, ,Toronto,ON,  Metrolinx  GO Transit,Site 001 East Simulcast, , ,Project 25, ,TRS
+412.312500,0.00000,,Peel,ON,Transportation Mississauga,Golden Taxi,Golden Taxi,141.3 PL,FM,BM,Transportation
+412.337500,417.33750,VEK508,Halton,ON,Oakville,Works Department,Oakvll Works,167.9 PL,FM,RM,Public Works
+412.412500,0.00000,XLQ616,Toronto,ON,Business Downtown,City of Toronto Properties  Security Ch 2,TorCityHall2,146.2 PL,FM,RM,Security
+412.437500,417.43750,,Hamilton,ON,Ontario Government Agencies,Hamilton Wentworth Detention Centre,HWDC 2,141.3 PL,FM,RM,Corrections
+412.537500,417.53750,VEK508,Halton,ON,Oakville,Parks  Rec,Oakville P&R,167.9 PL,FM,RM,Public Works
+412.587500,417.58750,Multiple,Toronto,ON,Toronto Transit Commission,Surface Ch 4 ,TTC Surf Ch4,136.5 PL,FM,RM,Transportation
+412.612500,417.61250,Multiple,Toronto,ON,Toronto Transit Commission,Surface Ch5 Streetcars,TTC Surf Ch5,136.5 PL,FM,RM,Transportation
+412.687500,417.68750,XJG520,Durham,ON,Veridian Connections,Veridian Connections Operations,Veridian Ops,CC 1|TG 1|SL 1,DMR,RM,Utilities
+412.737500,0.00000,,Durham,ON,Veridian Connections,Veridian Connections Paging ,Veridian Pg,,FMN,B,Utilities
+412.962500,417.96250,XJM963,Toronto,ON,Toronto Transit Commission,RT Line,RT Line,136.5 PL,FM,RM,Transportation
+413.187500,418.18750,,Toronto,ON,Toronto Transit Commission,Surface Ch6 SubwaySRT Yard,TTC Surf Ch6,136.5 PL,FM,RM,Transportation
+413.212500,0.00000,,Durham,ON,Ontario Shores Centre for Mental Health Sciences,Ontario Shores Centre for Mental Health Sciences,OSC,,FMN,BM,Hospital
+413.262500,418.26250,,Peel,ON,Brampton, Roy McMurtry Youth Centre ,RMYC,141.3 PL,FMN,RM,Corrections
+413.337500,0.00000, ,Hamilton,ON,  Metrolinx  GO Transit,Site 002 West Simulcast, , ,Project 25, ,TRS
+413.462500,0.00000, ,Toronto,ON,  Metrolinx  GO Transit,Site 001 East Simulcast, , ,Project 25, ,TRS
+413.487500,0.00000, ,Hamilton,ON,  Metrolinx  GO Transit,Site 002 West Simulcast, , ,Project 25, ,TRS
+413.512500,0.00000, ,Toronto,ON,  Metrolinx  GO Transit,Site 001 East Simulcast, , ,Project 25, ,TRS
+413.537500,418.53750,,Halton,ON,Burlington,OPP Rebroadcast,OPP BEAT,107.2 PL,FMN,RM,Law Dispatch
+413.537500,418.53750,,Toronto,ON,Toronto Hydro Electric System,Toronto Hydro Electric System  Underground,Underground,023 DPL,FM,RM,Utilities
+413.562500,0.00000, ,Hamilton,ON,  Metrolinx  GO Transit,Site 002 West Simulcast, , ,Project 25, ,TRS
+413.587500,0.00000, ,Toronto,ON,  Metrolinx  GO Transit,Site 001 East Simulcast, , ,Project 25, ,TRS
+413.612500,0.00000, ,Toronto,ON,  KELCOM Toronto,Site 001 CN Tower, , ,LTR, ,TRS
+413.662500,0.00000, ,Hamilton,ON,  Metrolinx  GO Transit,Site 002 West Simulcast, , ,Project 25, ,TRS
+413.712500,0.00000, ,Hamilton,ON,  Metrolinx  GO Transit,Site 002 West Simulcast, , ,Project 25, ,TRS
+413.912500,0.00000, ,Toronto,ON,  KELCOM Toronto,Site 001 CN Tower, , ,LTR, ,TRS
+413.937500,0.00000, ,Durham,ON,  Metrolinx  GO Transit,Site 006 Uxbridge, , ,Project 25, ,TRS
+413.962500,0.00000, ,York,ON,  Alectra Utilities,Site 004 Vaughan, , ,DMR, ,TRS
+414.037500,0.00000,XJF647,Halton,ON,Milton,Fire Dispatch  UHF link,MiltonFD UHF,,FM,BM,Fire Dispatch
+414.587500,0.00000,Multiple,Peel,ON,Caledon Fire  Emergency Services,Fire  Station 302 Dispatch,BoltonFSPge,,FM,B,Data
+414.587500,0.00000,Multiple,Peel,ON,Mississauga Fire Service,Station Dispatch,MFS Dsptch,103.5 PL,FM,B,Fire Dispatch
+414.712500,0.00000,,Peel,ON,Region Wide,MOH Base Station Paging,PeelMOH,CSQ,FM,F,EMS Dispatch
+415.037500,410.03750,,Durham,ON,Ontario Shores Centre for Mental Health Sciences,Ontario Shores Centre for Mental Health Sciences,OSC,,FMN,RM,Hospital
+418.212500,413.21250,,Durham,ON,Ontario Shores Centre for Mental Health Sciences,Ontario Shores Centre for Mental Health Sciences,OSC,,FMN,RM,Hospital
+418.587500,0.00000,,Toronto,ON,Toronto Transit Commission,Surface Ch7 Subway Maintenance,TTC Surf Ch7,156.7 PL,FM,M,Transportation
+420.075000,0.00000, ,Hamilton,ON,  FleetConnect ,Site 011 Hamilton, , ,DMR, ,TRS
+420.100000,0.00000, ,Toronto,ON,  Fairmont Royal York Hotel,Site 001 Royal York Hotel, , ,LTR, ,TRS
+420.100000,0.00000, ,Peel,ON,  Suncor Energy Mississauga,Site 001 Suncor Energy, , ,DMR, ,TRS
+420.100000,0.00000, ,Toronto,ON,  OLGC  Woodbine Racetrack Slots,Site 001 OLGC Woodbine, , ,DMR, ,TRS
+420.200000,0.00000, ,Peel,ON,  Suncor Energy Mississauga,Site 001 Suncor Energy, , ,DMR, ,TRS
+420.200000,0.00000, ,Toronto,ON,  OLGC  Woodbine Racetrack Slots,Site 001 OLGC Woodbine, , ,DMR, ,TRS
+420.200000,0.00000, ,Toronto,ON,  Fairmont Royal York Hotel,Site 001 Royal York Hotel, , ,LTR, ,TRS
+420.262500,0.00000, ,Hamilton,ON,  FleetConnect ,Site 011 Hamilton, , ,DMR, ,TRS
+420.300000,0.00000, ,Toronto,ON,  OLGC  Woodbine Racetrack Slots,Site 001 OLGC Woodbine, , ,DMR, ,TRS
+420.300000,0.00000, ,Toronto,ON,  Fairmont Royal York Hotel,Site 001 Royal York Hotel, , ,LTR, ,TRS
+420.300000,0.00000, ,Peel,ON,  Suncor Energy Mississauga,Site 001 Suncor Energy, , ,DMR, ,TRS
+420.400000,0.00000, ,Peel,ON,  Suncor Energy Mississauga,Site 001 Suncor Energy, , ,DMR, ,TRS
+420.400000,0.00000, ,Toronto,ON,  OLGC  Woodbine Racetrack Slots,Site 001 OLGC Woodbine, , ,DMR, ,TRS
+420.400000,0.00000, ,Toronto,ON,  Fairmont Royal York Hotel,Site 001 Royal York Hotel, , ,LTR, ,TRS
+420.475000,0.00000, ,Hamilton,ON,  FleetConnect ,Site 011 Hamilton, , ,DMR, ,TRS
+420.500000,0.00000, ,Halton,ON,  FleetConnect ,Site 010 Milton, , ,DMR, ,TRS
+420.537500,0.00000, ,Hamilton,ON,  OnQue,Site 003 Hamilton, , ,NXDN, ,TRS
+420.550000,0.00000, ,Toronto,ON,  Rogers Centre,Site 001 001, , ,DMR, ,TRS
+420.612500,0.00000, ,Hamilton,ON,  Talk Wireless LTR UHF,Site 001 Hamilton, , ,LTR, ,TRS
+420.637500,0.00000, ,Hamilton,ON,  OnQue,Site 003 Hamilton, , ,NXDN, ,TRS
+420.650000,0.00000, ,Toronto,ON,  Rogers Centre,Site 001 001, , ,DMR, ,TRS
+420.737500,0.00000, ,Hamilton,ON,  OnQue,Site 003 Hamilton, , ,NXDN, ,TRS
+420.750000,0.00000, ,Toronto,ON,  Rogers Centre,Site 001 001, , ,DMR, ,TRS
+420.812500,0.00000, ,Halton,ON,  FleetConnect ,Site 010 Milton, , ,DMR, ,TRS
+420.837500,0.00000, ,Hamilton,ON,  OnQue,Site 003 Hamilton, , ,NXDN, ,TRS
+420.850000,0.00000, ,Toronto,ON,  Rogers Centre,Site 001 001, , ,DMR, ,TRS
+420.912500,0.00000, ,Halton,ON,  FleetConnect ,Site 010 Milton, , ,DMR, ,TRS
+420.937500,0.00000, ,Hamilton,ON,  OnQue,Site 003 Hamilton, , ,NXDN, ,TRS
+420.950000,0.00000, ,Toronto,ON,  Rogers Centre,Site 001 001, , ,DMR, ,TRS
+421.025000,0.00000, ,York,ON,  RCMP O Division,Site 036 Ballantrae, , ,Project 25, ,TRS
+421.050000,0.00000, ,Toronto,ON,  RCMP O Division,Site 016 Toronto  West , , ,Project 25, ,TRS
+421.087500,0.00000, ,Toronto,ON,  RCMP O Division,Site 017 Toronto  East, , ,Project 25, ,TRS
+421.112500,0.00000, ,Hamilton,ON,  RCMP O Division,Site 035 Hamilton, , ,Project 25, ,TRS
+421.137500,0.00000, ,Durham,ON,  RCMP O Division,Site 041 Clarington, , ,Project 25, ,TRS
+421.137500,0.00000, ,York,ON,  RCMP O Division,Site 004 Newmarket, , ,Project 25, ,TRS
+421.250000,0.00000, ,Toronto,ON,  RCMP O Division,Site 024 Toronto  South, , ,Project 25, ,TRS
+421.262500,0.00000, ,Durham,ON,  RCMP O Division,Site 041 Clarington, , ,Project 25, ,TRS
+421.275000,0.00000, ,Toronto,ON,  RCMP O Division,Site 016 Toronto  West , , ,Project 25, ,TRS
+421.337500,0.00000, ,York,ON,  RCMP O Division,Site 004 Newmarket, , ,Project 25, ,TRS
+421.400000,0.00000, ,Peel,ON,  RCMP O Division,Site 023 Airway Centre  Toronto Pearson Airport, , ,Project 25, ,TRS
+421.425000,0.00000, ,Hamilton,ON,  RCMP O Division,Site 035 Hamilton, , ,Project 25, ,TRS
+421.437500,0.00000, ,Peel,ON,  RCMP O Division,Site 023 Airway Centre  Toronto Pearson Airport, , ,Project 25, ,TRS
+421.487500,0.00000, ,Durham,ON,  RCMP O Division,Site 041 Clarington, , ,Project 25, ,TRS
+421.500000,0.00000, ,Toronto,ON,  RCMP O Division,Site 024 Toronto  South, , ,Project 25, ,TRS
+421.575000,0.00000, ,Hamilton,ON,  RCMP O Division,Site 035 Hamilton, , ,Project 25, ,TRS
+421.600000,0.00000, ,Toronto,ON,  RCMP O Division,Site 017 Toronto  East, , ,Project 25, ,TRS
+421.712500,0.00000, ,Toronto,ON,  RCMP O Division,Site 016 Toronto  West , , ,Project 25, ,TRS
+421.775000,0.00000, ,Toronto,ON,  RCMP O Division,Site 024 Toronto  South, , ,Project 25, ,TRS
+421.812500,0.00000, ,Halton,ON,  RCMP O Division,Site 027 Milton, , ,Project 25, ,TRS
+421.837500,0.00000, ,Hamilton,ON,  RCMP O Division,Site 035 Hamilton, , ,Project 25, ,TRS
+421.875000,0.00000, ,Peel,ON,  RCMP O Division,Site 023 Airway Centre  Toronto Pearson Airport, , ,Project 25, ,TRS
+421.962500,0.00000, ,Toronto,ON,  RCMP O Division,Site 016 Toronto  West , , ,Project 25, ,TRS
+421.975000,0.00000, ,York,ON,  RCMP O Division,Site 009 King City, , ,Project 25, ,TRS
+422.037500,0.00000, ,Halton,ON,  RCMP O Division,Site 027 Milton, , ,Project 25, ,TRS
+422.175000,0.00000, ,York,ON,  RCMP O Division,Site 009 King City, , ,Project 25, ,TRS
+422.187500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  B,Site 001 2 Bloor St E, , ,LTR, ,TRS
+422.200000,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.206250,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.212500,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.218750,0.00000, ,Durham,ON,  OnQue,Site 004 Clarington, , ,NXDN, ,TRS
+422.225000,0.00000, ,Hamilton,ON,  Mobile Business  Hamilton 420 MHz,Site 001 Confirmed LCN, , ,LTR, ,TRS
+422.225000,0.00000, ,Toronto,ON,  Toronto Transit Commission PowerTrunk,Site 001 Toronto, , ,TETRA, ,TRS
+422.231250,0.00000, ,Toronto,ON,  OnQue,Site 007 Scarborough, , ,NXDN, ,TRS
+422.237500,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.262500,0.00000, ,Toronto,ON,  Toronto Transit Commission PowerTrunk,Site 001 Toronto, , ,TETRA, ,TRS
+422.287500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  B,Site 001 2 Bloor St E, , ,LTR, ,TRS
+422.300000,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.306250,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.312500,0.00000, ,Hamilton,ON,  Mobile Business  Hamilton 420 MHz,Site 001 Confirmed LCN, , ,LTR, ,TRS
+422.312500,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.318750,0.00000, ,York,ON,  OnQue,Site 008 Aurora, , ,NXDN, ,TRS
+422.325000,0.00000, ,Toronto,ON,  Toronto Transit Commission PowerTrunk,Site 001 Toronto, , ,TETRA, ,TRS
+422.337500,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.337500,0.00000, ,Hamilton,ON,  Mobile Business  Hamilton 420 MHz,Site 001 Confirmed LCN, , ,LTR, ,TRS
+422.350000,0.00000, ,York,ON,  Point to Point,Site 002 King City, , ,DMR, ,TRS
+422.362500,0.00000, ,Toronto,ON,  Toronto Transit Commission PowerTrunk,Site 001 Toronto, , ,TETRA, ,TRS
+422.387500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  B,Site 001 2 Bloor St E, , ,LTR, ,TRS
+422.400000,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.406250,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.412500,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.418750,0.00000, ,Durham,ON,  OnQue,Site 004 Clarington, , ,NXDN, ,TRS
+422.425000,0.00000, ,Toronto,ON,  Toronto Transit Commission PowerTrunk,Site 001 Toronto, , ,TETRA, ,TRS
+422.431250,0.00000, ,Halton,ON,  OnQue,Site 006 Milton, , ,NXDN, ,TRS
+422.437500,0.00000, ,Hamilton,ON,  Mobile Business  Hamilton 420 MHz,Site 001 Confirmed LCN, , ,LTR, ,TRS
+422.437500,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.462500,0.00000, ,Toronto,ON,  Toronto Transit Commission PowerTrunk,Site 001 Toronto, , ,TETRA, ,TRS
+422.487500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  B,Site 001 2 Bloor St E, , ,LTR, ,TRS
+422.500000,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.506250,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.512500,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.518750,0.00000, ,York,ON,  OnQue,Site 008 Aurora, , ,NXDN, ,TRS
+422.525000,0.00000, ,Toronto,ON,  Toronto Transit Commission PowerTrunk,Site 001 Toronto, , ,TETRA, ,TRS
+422.531250,0.00000, ,Toronto,ON,  OnQue,Site 007 Scarborough, , ,NXDN, ,TRS
+422.537500,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.550000,0.00000, ,York,ON,  Point to Point,Site 002 King City, , ,DMR, ,TRS
+422.562500,0.00000, ,Toronto,ON,  Toronto Transit Commission PowerTrunk,Site 001 Toronto, , ,TETRA, ,TRS
+422.587500,0.00000, ,Hamilton,ON,  Mobile Business  Hamilton 420 MHz,Site 001 Confirmed LCN, , ,LTR, ,TRS
+422.587500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  B,Site 001 2 Bloor St E, , ,LTR, ,TRS
+422.600000,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.606250,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.612500,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.612500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  B,Site 001 2 Bloor St E, , ,LTR, ,TRS
+422.618750,0.00000, ,York,ON,  OnQue,Site 008 Aurora, , ,NXDN, ,TRS
+422.625000,0.00000, ,Toronto,ON,  Toronto Transit Commission PowerTrunk,Site 001 Toronto, , ,TETRA, ,TRS
+422.625000,0.00000, ,Hamilton,ON,  Mobile Business  Hamilton 420 MHz,Site 001 Confirmed LCN, , ,LTR, ,TRS
+422.631250,0.00000, ,Halton,ON,  OnQue,Site 006 Milton, , ,NXDN, ,TRS
+422.637500,0.00000, ,Hamilton,ON,  Mobile Business  Hamilton 420 MHz,Site 001 Confirmed LCN, , ,LTR, ,TRS
+422.637500,0.00000, ,Toronto,ON,  OnQue,Site 001 CN Tower, , ,NXDN, ,TRS
+422.662500,0.00000, ,Toronto,ON,  Toronto Transit Commission PowerTrunk,Site 001 Toronto, , ,TETRA, ,TRS
+422.687500,0.00000, ,Toronto,ON,  Toronto Transit Commission PowerTrunk,Site 001 Toronto, , ,TETRA, ,TRS
+422.712500,0.00000, ,Halton,ON,  RCMP O Division,Site 027 Milton, , ,Project 25, ,TRS
+422.725000,0.00000, ,Toronto,ON,  RCMP O Division,Site 017 Toronto  East, , ,Project 25, ,TRS
+422.750000,0.00000, ,Peel,ON,  RCMP O Division,Site 023 Airway Centre  Toronto Pearson Airport, , ,Project 25, ,TRS
+422.800000,0.00000, ,Toronto,ON,  Toronto Transit Commission PowerTrunk,Site 001 Toronto, , ,TETRA, ,TRS
+422.837500,0.00000, ,York,ON,  RCMP O Division,Site 009 King City, , ,Project 25, ,TRS
+422.925000,0.00000, ,Toronto,ON,  RCMP O Division,Site 024 Toronto  South, , ,Project 25, ,TRS
+422.937500,0.00000, ,Halton,ON,  OnQue,Site 006 Milton, , ,NXDN, ,TRS
+422.968750,0.00000, ,Durham,ON,  OnQue,Site 004 Clarington, , ,NXDN, ,TRS
+422.987500,0.00000, ,York,ON,  Point to Point,Site 002 King City, , ,DMR, ,TRS
+423.150000,0.00000, ,Toronto,ON,  RCMP O Division,Site 017 Toronto  East, , ,Project 25, ,TRS
+423.500000,428.50000,,Toronto,ON,TTC  CIS ,22  CN Tower,CN Tower,CSQ,FMN,RM,Transportation
+423.637500,428.63750,XJM983,Toronto,ON,TTC  CIS ,33  Finch ,Finch ,CSQ,FMN,RM,Transportation
+423.662500,428.66250,XJM987,Toronto,ON,TTC  CIS ,35  Arrow ,Arrow,CSQ,FMN,RM,Transportation
+423.675000,428.67500,XJM990,Toronto,ON,TTC  CIS ,36  Malvern,Malvern,CSQ,FMN,RM,Transportation
+423.687500,428.68750,XJM985,Toronto,ON,TTC  CIS ,37  Hillcrest ,Hillcrest,CSQ,FMN,RM,Transportation
+423.700000,428.70000,XJL849,Toronto,ON,TTC  CIS ,38  Greenwood ,Greenwood,CSQ,FMN,RM,Transportation
+423.712500,428.71250,XJM990,Toronto,ON,TTC  CIS ,39  Wilson , Wilson,CSQ,FMN,RM,Transportation
+423.725000,428.72500,XJM985,Toronto,ON,TTC  CIS ,40  Pharmacy,Pharmacy,CSQ,FMN,RM,Transportation
+423.737500,428.73750,XJM989,Toronto,ON,TTC  CIS ,41  Shipp,Shipp,CSQ,FMN,RM,Transportation
+423.750000,428.75000,XJM984,Toronto,ON,TTC  CIS ,42  Birchmount ,Birchmount,CSQ,FMN,RM,Transportation
+423.762500,428.76250,XJM988,Toronto,ON,TTC  CIS ,43  Davisville,Davisville,CSQ,FMN,RM,Transportation
+441.950000,0.00000, ,Toronto,ON,  DMRMARC Ontario Amateur Repeater Network,Site 302321 VA3XFT Toronto, , ,DMR, ,TRS
+442.025000,447.02500,VE3ULR,York,ON,70 cm Band,VE3ULR  Aurora,VE3ULR,,FM,RM,Ham
+442.100000,447.10000,VE3RPT,Durham,ON,70 cm Band,VE3RPT  Uxbridge,VE3RPT,103.5 PL,FM,RM,Ham
+442.125000,447.12500,VE3PAQ,Halton,ON,70 cm Band,VE3PAQ  Acton,VE3PAQ,,FM,RM,Ham
+442.137500,0.00000, ,Durham,ON,  DMRMARC Ontario Amateur Repeater Network,Site 302319 VE3OBI Raglan, , ,DMR, ,TRS
+442.175000,447.17500,VA3UKW,Toronto,ON,70 cm Band,VA3UKW  Toronto,VA3UKW,,FM,RM,Ham
+442.225000,447.22500,VA3ODX,Halton,ON,70 cm Band,VA3ODX  Burlington  Echolink,VA3ODX,,FM,RM,Ham
+442.275000,447.27500,VA3CTR,York,ON,70 cm Band,VA3CTR  Unionville,VA3CTR,,FM,RM,Ham
+442.300000,447.30000,VE3HAL,Halton,ON,70 cm Band,VE3HAL  Milton,VE3HAL,,FM,RM,Ham
+442.337500,0.00000, ,Toronto,ON,  DMRMARC Ontario Amateur Repeater Network,Site 302303 VA3XPR Toronto, , ,DMR, ,TRS
+442.375000,447.37500,VA3GTU,Toronto,ON,70 cm Band,VA3GTU  Toronto,VA3GTU,,FM,RM,Ham
+442.450000,447.45000,VE3OKR,Halton,ON,70 cm Band,VE3OKR  Oakville,VE3OKR,,FM,RM,Ham
+442.475000,447.47500,VA3URU,York,ON,70 cm Band,VA3URU  Ballantrae,VA3URU,,FM,RM,Ham
+442.500000,447.50000,VE3RDM,Hamilton,ON,70 cm Band,VE3RDM  Hamilton,VE3RDM,,FM,RM,Ham
+442.525000,447.52500,VE3UHM,Hamilton,ON,70 cm Band,VE3UHM  Hamilton,VE3UHM,,FM,RM,Ham
+442.550000,447.55000,VE3GIV,Hamilton,ON,70 cm Band,VE3GIV  Hamilton,VE3GIV,,FM,RM,Ham
+442.600000,447.60000,VE3CAY,Toronto,ON,70 cm Band,VE3CAY  Toronto,VE3CAY,,FM,RM,Ham
+442.650000,447.65000,VA3GTU,Toronto,ON,70 cm Band,VA3GTU  Toronto,VA3GTU,,FM,RM,Ham
+442.700000,447.20000,VE3YYZ,Toronto,ON,70 cm Band,VE3YYZ   DSTAR  Toronto,VE3YYZ-B,,D-STAR,RM,Ham
+442.750000,447.75000,VE3WOO,Toronto,ON,70 cm Band,VE3WOO  Toronto,VE3WOO,,FM,RM,Ham
+442.775000,447.77500,VA3GTU,Toronto,ON,70 cm Band,VA3GTU  Etobicoke,VA3GTU,,FM,RM,Ham
+442.800000,447.80000,VA3GTU,Toronto,ON,70 cm Band,VA3GTU  Etobicoke,VA3GTU,,FM,RM,Ham
+442.825000,447.82500,VA3GTU,Halton,ON,70 cm Band,VA3GTU  Acton,VA3GTU,,FM,RM,Ham
+442.850000,447.85000,VE3SNM,York,ON,70 cm Band,VE3SNM  Ballantrae,VE3SNM,136.5 PL,FM,RM,Ham
+442.875000,0.00000, ,Durham,ON,  BrandMeister Canada Amateur Repeater Network,Site 302327 VE3OUR Durham, , ,DMR, ,TRS
+442.975000,447.97500,VA3GTU,Toronto,ON,70 cm Band,VA3GTU  Toronto,VA3GTU,,FM,RM,Ham
+443.000000,448.00000,VE3NAA,Durham,ON,70 cm Band,VE3NAA  Oshawa,VE3NAA,,FM,RM,Ham
+443.025000,448.02500,VA3SCR,Toronto,ON,70 cm Band,VA3SCR  Toronto,VA3SCR,,FM,RM,Ham
+443.050000,448.05000,VE3YYZ,Toronto,ON,70 cm Band,VE3YYZ  Toronto,VE3YYZ,103.5 PL,FM,RM,Ham
+443.075000,448.07500,VE3ZOE,Hamilton,ON,70 cm Band,VE3ZOE  Hamilton,VE3ZOE,,FM,RM,Ham
+443.100000,448.10000,VE3SKI,Toronto,ON,70 cm Band,VE3SKI  Toronto,VE3SKI,,FM,RM,Ham
+443.125000,448.12500,VE3RAK,Toronto,ON,70 cm Band,VE3RAK  Toronto,VE3RAK,,FM,RM,Ham
+443.150000,448.15000,VE3BUR,Halton,ON,70 cm Band,VE3BUR  Burlington,VE3BUR,,FM,RM,Ham
+443.200000,448.20000,VA3BUR,Halton,ON,70 cm Band,VA3BUR  Southwest  Aldershot  Hamilton ,VA3BUR,,FM,RM,Ham
+443.250000,448.25000,VE3RFI,Hamilton,ON,70 cm Band,VE3RFI,VE3RFI,,FM,RM,Ham
+443.275000,448.27500,VA3PWR,York,ON,70 cm Band,VA3PWR  Newmarket,VA3PWR,103.5 PL,FM,RM,Ham
+443.325000,448.32500,VE3VOP,Toronto,ON,70 cm Band,VE3VOP  Toronto,VE3VOP,,FM,RM,Ham
+443.350000,448.35000,VE3RTC,Toronto,ON,70 cm Band,VE3RTC  Scarborough,VE3RTC,,FM,RM,Ham
+443.425000,448.42500,VA3HR,Halton,ON,70 cm Band,VA3HR  Milton  Halton ARES,VA3HR,,FM,RM,Ham
+443.475000,448.47500,VE3WOM,Durham,ON,70 cm Band,VE3WOM  Whitby,VE3WOM,103.5 PL,FM,RM,Ham
+443.500000,448.50000,VE3NIB,Toronto,ON,70 cm Band,VE3NIB  Toronto,VE3NIB,,FM,RM,Ham
+443.550000,448.55000,VE3PRC,Peel,ON,70 cm Band,VE3PRC  Brampton,VE3PRC,,FM,RM,Ham
+443.600000,448.60000,,Peel,ON,70 cm Band,VE3UPR,VE3UPR,,FM,RM,Ham
+443.650000,448.65000,VE3NOR,Toronto,ON,70 cm Band,VE3NOR  Toronto,VE3NOR,,FM,RM,Ham
+443.675000,448.67500,VE3WIK,Hamilton,ON,70 cm Band,VE3WIK  Carlisle,VE3WIK,,FM,RM,Ham
+443.700000,448.70000,VA3BAL,York,ON,70 cm Band,VA3BAL  Ballantrae,VA3BAL,103.5 PL,FM,RM,Ham
+443.750000,448.75000,VA3GTU,Toronto,ON,70 cm Band,VA3GTU  Scarborough,VA3GTU,,FM,RM,Ham
+443.775000,448.77500,VE3JOP,York,ON,70 cm Band,VE3JOP  Vaughan,VE3JOP,,FM,RM,Ham
+443.812500,448.81250,VA3PMO,Peel,ON,70 cm Band,VA3PMO  Mississauga,VA3PMO,,FM,RM,Ham
+443.825000,448.82500,VA3TVB,Toronto,ON,70 cm Band,VA3TVB  Scarborough,VA3TVB,,FM,RM,Ham
+443.900000,448.90000,VE3OBN,Toronto,ON,70 cm Band,VE3OBN   Toronto,VE3OBN,127.3 PL,FM,RM,Ham
+443.950000,448.95000,VE3ZRB,Halton,ON,70 cm Band,VE3ZRB  Halton Hills,VE3ZRB,,FM,RM,Ham
+444.037500,449.03750,VE3UHM,Hamilton,ON,70 cm Band,VE3UHM  Hamilton DMR,VE3UHM-DMR,CC 1|TG *|SL 2,DMR,RM,Ham
+444.037500,0.00000, ,Hamilton,ON,  DMRMARC Ontario Amateur Repeater Network,Site 302315 VE3UHM Hamilton, , ,DMR, ,TRS
+444.075000,449.07500,VE3NCF,Hamilton,ON,70 cm Band,VE3NCF  Hamilton,VE3NCF,,FM,RM,Ham
+444.100000,449.10000,VE3WDX,York,ON,70 cm Band,VE3WDX  Aurora,VE3WDX,,FM,RM,Ham
+444.175000,449.17500,VE3WOO,Peel,ON,70 cm Band,VE3WOO  Caledon,VE3WOO,,FM,RM,Ham
+444.225000,449.22500,VE3YRC,York,ON,70 cm Band,VE3YRC  Richmond Hill,VE3YRC,103.5 PL,FM,RM,Ham
+444.325000,449.32500,VE3OAK,Halton,ON,70 cm Band,VE3OAK  Oakville ,VE3OAK ,,FM,RM,Ham
+444.375000,449.37500,VE3WOQ,Durham,ON,70 cm Band,VE3WOQ  Whitby,VE3WOQ,,FM,RM,Ham
+444.400000,449.40000,VE3TWR,Toronto,ON,70 cm Band,VE3TWR  Toronto,VE3TWR,103.5 PL,FM,RM,Ham
+444.450000,449.45000,VA3BMI,Toronto,ON,70 cm Band,VA3BMI  Toronto,VA3BMI,,FM,RM,Ham
+444.475000,449.47500,VE3URU,Toronto,ON,70 cm Band,VE3URU  Toronto,VE3URU,,FM,RM,Ham
+444.512500,449.51250,VE3YRK,York,ON,70 cm Band,VE3YRK DSTAR,VE3YRK,,D-STAR,RM,Ham
+444.525000,449.52500,VE3OBI,Durham,ON,70 cm Band,VE3OBI  Raglan,VE3OBI,103.5 PL,FM,RM,Ham
+444.575000,449.57500,VE3MIS,Peel,ON,70 cm Band,VE3MIS  Mississauga,VE3MIS,,FM,RM,Ham
+444.600000,449.60000,VE3DAX,Durham,ON,70 cm Band,VE3DAX  Pickering,VE3DAX,103.5 PL,FM,RM,Ham
+444.637500,0.00000, ,Toronto,ON,  BrandMeister Canada Amateur Repeater Network,Site 302321 VE3YYZ Toronto, , ,DMR, ,TRS
+444.775000,449.77500,VA3ATL,Toronto,ON,70 cm Band,VA3ATL  Toronto,VA3ATL,110.9 PL,FM,RM,Ham
+444.825000,449.82500,VE3RSB,Halton,ON,70 cm Band,VE3RSB  Burlington ,VE3RSB ,,FM,RM,Ham
+444.850000,449.85000,VE3UKW,Toronto,ON,70 cm Band,VE3UKW  Toronto,VE3UKW,,FM,RM,Ham
+444.950000,449.95000,VA3OPR,Peel,ON,70 cm Band,VA3OPR  Brampton,VA3OPR,,FM,RM,Ham
+450.212500,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,Speed TV crews,SPEED 1,,FMN,M,Business
+450.312500,0.00000,CJZ624,Durham,ON,Media Oshawa,CKDO Studio Link,CKDO STU LNK,,FMN,F,Media
+450.587500,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,Speed TV crews,SPEED 2,,FMN,M,Business
+450.975000,455.98750,CFY255,Toronto,ON,Media Shaw Media,Global News Helicopter CFMTE,GlobalTVNews,192.8 PL,FM,RM,Media
+451.012500,456.01250,Multiple,Peel,ON,Mississauga,Community Centre Operations Ch1 ,Miss CC Ops1,743 DPL,FM,RM,Public Works
+451.037500,0.00000, ,Toronto,ON,  Mobile Business Communications ,Site 001 CN Tower, , ,NXDN, ,TRS
+451.087500,456.08750,VOV905,Halton,ON,Business Oakville,Oakville Place  Security  ,Oakville Pl,CC 7|TG 201|SL 1,DMR,RM,Security
+451.125000,0.00000, ,Toronto,ON,  Purolator,Site 001 Ontario Hub, , ,DMR, ,TRS
+451.137500,456.13750,VCM719,Hamilton,ON,Business Hamilton,Jackson Square Mall,Jackson Sq,CC 5|TG 125|SL 1,DMR,RM,Business
+451.137500,456.13750,VCM719,Hamilton,ON,Business Hamilton,Jackson Square Mall,Jackson Sq,CC 5|TG 123|SL 1,DMR,RM,Business
+451.137500,456.13750,VCM719,Hamilton,ON,Business Hamilton,Jackson Square Mall,Jackson Sq,CC 5|TG 124|SL 1,DMR,RM,Business
+451.162500,0.00000, ,Hamilton,ON,  GOTRBO Network,Site 011 Fennell, , ,DMR, ,TRS
+451.187500,0.00000,,Halton,ON,Business Burlington,Burlington Mall  Security,Burl Mall Sec,CC 1|TG 1|SL *,DMR,BM,Security
+451.187500,0.00000,,Hamilton,ON,FirstOntario Centre Operations,Operations,Operations,CC 1|TG 1|SL 1,DMR,BM,Business
+451.187500,456.18750,,Toronto,ON,Attractions Etobicoke,Woodbine Race Track  Champions ,Track -Champ,172 DPL,FM,RM,Business
+451.187500,0.00000,,Halton,ON,Business Milton,CoSteel Recycling,Co-Steel Rec,69.3 PL,FM,BM,Business
+451.187500,0.00000,,Hamilton,ON,Business Hamilton,Cineplex  Silvercity Ancaster ,Silvercity ,131.8 PL,FM,BM,Business
+451.187500,0.00000, ,Toronto,ON,  Metro Toronto Convention Centre,Site 001 MTCC, , ,DMR, ,TRS
+451.187500,456.18750,CFU779,Toronto,ON,Business Scarborough,Malvern Town Centre,MalvernTwn,186.2 PL,FM,RM,Security
+451.187500,0.00000, ,Halton,ON,  OLGC  Mohawk Racetrack Slots,Site 001 Site 1, , ,DMR, ,TRS
+451.187500,456.78750,VCK784,Hamilton,ON,Business Hamilton,Limeridge Mall  Security,Limeridge,186.2 PL,FM,RM,Security
+451.187500,0.00000,,Toronto,ON,Environment Canada 4905 Dufferin Street,In House  Security,Security,127.3 PL,FMN,BM,Security
+451.187500,0.00000,CFU681,Toronto,ON,Business Scarborough,Parkway Mall,ParkwayMall,152 DPL,FM,BM,Security
+451.187500,0.00000,,Toronto,ON,Education Toronto District School Board,Mowat CI,Mowat CI,054 DPL,FM,BM,Schools
+451.237500,0.00000, ,Toronto,ON,  GOTRBO Network,Site 007 CN Tower, , ,DMR, ,TRS
+451.275000,456.27500,Multiple,Toronto,ON,Business Airport Taxi and Limousine,Airline Limousine,Airline Limo,136.5 PL,FMN,RM,Transportation
+451.312500,456.31250,CHA728,Hamilton,ON,Business Hamilton,Bunge Canada  Maintenance,Bunge,71.9 PL,FM,RM,Business
+451.337500,456.33750,,Toronto,ON,Attractions Etobicoke,OLG Slots Security ,WEG Security,CC 11|TG 100|SL *,DMR,RM,Security
+451.337500,456.33750,VXE364,Hamilton,ON,Federal Offices Hamilton,CRA Security,CRA Security,,FM,RM,Security
+451.350000,0.00000, ,Toronto,ON,  University of Toronto,Site 001 55 Harbord Street, , ,DMR, ,TRS
+451.387500,456.38750,CIK933,Toronto,ON,Business Taxi,ABC Ambassadors Taxi,ABCAmbssdrs,125 DPL,FM,RM,Transportation
+451.437500,456.43750,VFP257,Toronto,ON,Hatzoloh Toronto ,Dispatch,Hatzoloh EMS,103.5 PL,FM,RM,EMS Dispatch
+451.512500,0.00000, ,Toronto,ON,  FleetConnect ,Site 012 Toronto, , ,DMR, ,TRS
+451.662500,456.66250,CFF631,Toronto,ON,Healthcare North York Branson Urgent Care ,Maintenance,Branson Ch.2,263 DPL,FM,RM,Hospital
+451.662500,0.00000,,Hamilton,ON,City Services,City Parking Enforcement,City Parking,,FM,BM,Public Works
+451.662500,0.00000,,Peel,ON,Business Various,Locus Electric ,Locus ,134 DPL,FMN,BM,Business
+451.662500,0.00000,,Toronto,ON,Healthcare Scarborough Hospital  General and Grace sites ,Security,Scarb Hosp,205 DPL,FM,BM,Security
+451.662500,0.00000,,Hamilton,ON,Flamboro Downs Slots Flamborough,Slot Technicians,FDC ST,165 DPL,FMN,BM,Business
+451.662500,456.66250,CKC512,Toronto,ON,Healthcare Sunnybrook Health Sciences Centre,Security 2,SHSC Sec 2,412 DPL,FM,RM,Security
+451.662500,0.00000,,Hamilton,ON,West 5th Campus,Security,St J W 5th,CC 5|TG 10|SL *,DMR,BM,Security
+451.725000,456.72500,VFC425,Toronto,ON,Business Downtown,VIA Rail Canada  Union Station Porters,VIA Rail,114.8 PL,FM,RM,Business
+451.737500,0.00000, ,Hamilton,ON,  National Communications Site Services DMR,Site 002 Area 2, , ,DMR, ,TRS
+451.750000,0.00000, ,Halton,ON,  Sheridan College Oakville,Site 001 Sheridan, , ,DMR, ,TRS
+451.775000,456.78750,XNG658,Hamilton,ON,McMaster University Medical Centre,Security and Parking,MUMC,,NXDN,RM,Security
+451.787500,0.00000, ,Peel,ON,  Maple Lodge Farms,Site 001 Brampton, , ,DMR, ,TRS
+451.787500,0.00000,,Halton,ON,Oakville,The Marquee  Bouncer Office,Marquee B Off,143 DPL,FMN,M,Business
+451.787500,456.78750,,Durham,ON,Business Clarington,Dufferin Concrete,Dufferin,,FMN,RM,Business
+451.787500,0.00000,,York,ON,Business Thornhill,Glen Park Apartments  Property Maintenance ,7411 Yonge,023 DPL,FM,BM,Business
+451.787500,0.00000,,Toronto,ON,Event Medical Services,Spectrum Event Medical Services  on site,Spectrum onsite,179.9 PL,FM,M,EMS-Tac
+451.787500,0.00000, ,Toronto,ON,  Humber College,Site 001 North Campus, , ,DMR, ,TRS
+451.787500,0.00000,,Durham,ON,Business Whitby,Liquor Control Board Ontario  Durham Warehouse Ch 1 ,LCBO DW 1,,FMN,BM,Business
+451.787500,0.00000,,Toronto,ON,Business Downtown,KoolHaus,KoolHaus,365 DPL,FM,BM,Business
+451.787500,0.00000,,Toronto,ON,Healthcare Holland Bloorview Childrens Rehabilitaion Centre,Operations,Bloorview,156.7 PL,FM,BM,Hospital
+451.787500,0.00000, ,Toronto,ON,  Metro Toronto Convention Centre,Site 001 MTCC, , ,DMR, ,TRS
+451.787500,456.78750,VEK576,Halton,ON,Business Oakville,Hopedale Mall  Security ,Hopedale,,FM,RM,Security
+451.787500,0.00000,,Durham,ON,Education Clarington,Charles Bowman Public School,Charles Bowman,026 DPL,FMN,M,Schools
+451.787500,0.00000,,York,ON,Canadas Wonderland Vaughan,Ch 9  Speedcity Raceway,Wonderland 9,173.8 PL,FM,BM,Business
+451.787500,456.78750,CYD342,Toronto,ON,Healthcare Michael Garron Hospital,Security ,TEGH Sec,179.9 PL,FM,RM,Security
+451.787500,0.00000,,Toronto,ON,Attractions Core,Harbourfront Centre,Harbourfront,155 DPL,FM,BM,Business
+451.787500,0.00000,,Durham,ON,Attractions Oshawa Ski Club,BrimacombeOshawa Ski Club Ch 2,OshawaSki 2,526 DPL,FMN,BM,Business
+451.787500,456.18750,XKE248,Toronto,ON,Business Downtown,Delta Chelsea Hotel,DeltaChelsea,026 DPL,FM,RM,Business
+451.837500,456.83750,VCR582,Toronto,ON,Business Couriers,Flying Dutchman,FlyDutchman,136.5 PL,FM,RM,Business
+451.850000,0.00000, ,Hamilton,ON,  National Communications Site Services Motorola,Site 001 Site1, , ,Motorola, ,TRS
+451.887500,0.00000, ,Hamilton,ON,  ICOM Canada ,Site 009 Hamilton, , ,NXDN, ,TRS
+451.937500,456.93750,VAX321,Hamilton,ON,FirstOntario Centre Operations,Centre Events,Events,CC 3|TG 1|SL 1,DMR,RM,Business
+451.937500,456.93750,VAX321,Hamilton,ON,FirstOntario Centre Operations,FirstOntario TG 2,FOC TG 2,CC 3|TG 2|SL 1,DMR,RM,Business
+451.937500,456.93750,VAX321,Hamilton,ON,FirstOntario Centre Operations,FirstOntario TG 4,FOC TG 4,CC 3|TG 4|SL 1,DMR,RM,Business
+451.937500,456.93750,VAX321,Hamilton,ON,FirstOntario Centre Operations,HP Events,HP Events,CC 3|TG 1|SL 2,DMR,RM,Business
+451.937500,456.93750,VAX321,Hamilton,ON,FirstOntario Centre Operations,FirstOntario TG 3,FOC TG 3,CC 3|TG 3|SL 1,DMR,RM,Business
+451.962500,456.96250,XMJ447,Hamilton,ON,Mohawk College,Security,Mohawk Sec,,FM,RM,Security
+452.025000,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,Pratt  Miller Engineering and Fabrication,Pratt & Miller,306 DPL,FMN,M,Business
+452.062500,457.06250,,Toronto,ON,Business Etobicoke,CF Sherway Gardens  Property Management,SherwayGdns,3 RAN,NXDN,RM,Business
+452.062500,457.06250,XKU255,Toronto,ON,Healthcare North York General,Security,NYGH - Sec,179.9 PL,FM,RM,Security
+452.062500,457.06250,CIL791,York,ON,Business Vaughan,Vaughan Mills  Security ,VgnMillsSec,CC 1|TG 10|SL 1,DMR,RM,Security
+452.062500,0.00000,VEU932,York,ON,Markham ,Markham Stouffville Hospital  Maintenance,Mark/Stffvle,88.5 PL,FM,BM,Hospital
+452.062500,0.00000,,Hamilton,ON,FirstOntario Centre Operations,Administration,Administrn,CC 2|TG 1|SL 1,DMR,BM,Business
+452.062500,457.06250,XJV911,York,ON,Business Newmarket,Upper Canada Mall ,UpperCdaMall,123.0 PL,FM,RM,Business
+452.087500,0.00000, ,Toronto,ON,  Purolator,Site 001 Ontario Hub, , ,DMR, ,TRS
+452.112500,457.11250,XKH944,Toronto,ON,Business Airport Taxi and Limousine,Aeroport Taxi,Aeroport,103.5 PL,FMN,RM,Transportation
+452.137500,457.13750,VDS713,Hamilton,ON,Federal Offices Hamilton,CRA Security ,CRA Security,,FM,RM,Security
+452.150000,457.16250,Multiple,Toronto,ON,Business Couriers,Arrowspeed Delivery,ArrowspdDlvr,91.5 PL,FM,RM,Business
+452.175000,0.00000, ,Toronto,ON,  University Health Network  Toronto General Hospital,Site 001 Toronto General Hospital, , ,DMR, ,TRS
+452.187500,0.00000, ,Hamilton,ON,  National Communications Site Services Motorola,Site 001 Site1, , ,Motorola, ,TRS
+452.212500,457.21250,CGW994,Hamilton,ON,Golf and Country Clubs Hamilton Golf and Country Club,Security  Fairway Grooming,Sec / Frway,,FM,RM,Business
+452.225000,457.22500,,Durham,ON,Attractions Canadian Tire Motorsport Park,CTMP Control,CTMP Control,CC 1|TG 2|SL *,DMR,RM,Business
+452.262500,0.00000, ,Toronto,ON,  Porter Airlines,Site 001 Billy Bishop Toronto Island Airport, , ,DMR, ,TRS
+452.262500,0.00000, ,Toronto,ON,  CF Toronto Eaton Centre,Site 001 Eaton Centre, , ,DMR, ,TRS
+452.262500,0.00000,,York,ON,Golf Beacon Hall Golf Club,Gatehouse and Valet,BHGC GH/VAL,CC 11|TG *|SL 1,DMR,BM,Business
+452.262500,0.00000, ,Toronto,ON,  Ritz Carlton Hotel,Site 001 Ritz Carlton Hotel, , ,DMR, ,TRS
+452.262500,0.00000, ,Durham,ON,  Oshawa Centre,Site 001 Oshawa Centre, , ,DMR, ,TRS
+452.262500,457.26250,,Durham,ON,Attractions Canadian Tire Motorsport Park,NASCAR Ch 1 Safety,NASCAR Safety,445 DPL,FMN,M,Business
+452.262500,0.00000, ,Peel,ON,  FedEx Pearson International Distribution,Site 001 FedEx PIA, , ,DMR, ,TRS
+452.262500,0.00000, ,Toronto,ON,  Toronto Zoo,Site 001 Toronto Zoo, , ,DMR, ,TRS
+452.287500,0.00000, ,Hamilton,ON,  ICOM Canada ,Site 009 Hamilton, , ,NXDN, ,TRS
+452.312500,0.00000, ,Toronto,ON,  Mobile Business Communications ,Site 001 CN Tower, , ,NXDN, ,TRS
+452.362500,457.36250,VCM646,Toronto,ON,Attractions Etobicoke,Woodbine Race Track  Maintenance ,WoodbineMtc,69.3 PL,FM,RM,Business
+452.362500,0.00000,,Toronto,ON,Business North York,Holiday Inn  Yorkdale  Housekeeping Paging,HI Yorkdale,CSQ,FM,F,Business
+452.362500,457.36250,VEQ710,Toronto,ON,Education York University,Keele Campus Security ,YU Security,CC 4|TG 10002|SL 1,DMR,RM,Security
+452.362500,457.36250,,Toronto,ON,Business Downtown,Hazelton Lanes,HazeltonLns,412 DPL,FM,RM,Business
+452.362500,0.00000,VAJ429,Toronto,ON,Attractions Core,Art Gallery of Ontario ,AGO Security,103.5 PL,FM,BM,Security
+452.362500,0.00000,,Toronto,ON,Business North York,The Oaks  Property Management  Chalkfarm Drive,The Oaks,023 DPL,FM,BM,Business
+452.362500,0.00000,,York,ON,Business Thornhill,Glen Park Apartments  Property Security,7411 Yonge,,FM,BM,Security
+452.362500,457.36250,VOX692,Toronto,ON,Business Etobicoke,Albion Centre,AlbionCentre,151.4 PL,FM,RM,Security
+452.362500,457.36250,,Toronto,ON,Business Etobicoke,CF Sherway Gardens  Security,SherwayGdns,3 RAN,NXDN,RM,Security
+452.400000,0.00000, ,Toronto,ON,  Purolator,Site 001 Ontario Hub, , ,DMR, ,TRS
+452.437500,0.00000, ,Hamilton,ON,  National Communications Site Services Motorola,Site 001 Site1, , ,Motorola, ,TRS
+452.437500,0.00000,,Hamilton,ON,Business Hamilton,Caledonia Transportation,Caledonia Tr,662 DPL,FMN,BM,Transportation
+452.487500,0.00000, ,Toronto,ON,  GOTRBO Network,Site 007 CN Tower, , ,DMR, ,TRS
+452.500000,0.00000, ,Halton,ON,  OLGC  Mohawk Racetrack Slots,Site 001 Site 1, , ,DMR, ,TRS
+452.512500,457.51250,VCX557,Durham,ON,Business Clarington,Bowmanville Taxi,Bow Taxi,364 DPL,FMN,RM,Business
+452.537500,457.36250,VOV465,Toronto,ON,Business North York,Fairview Mall,FairviewMall,167.9 PL,FM,RM,Security
+452.537500,0.00000,VBE894,Toronto,ON,Business Downtown,Sheraton Centre,Sheraton Ctr,,FM,BM,Business
+452.537500,0.00000,VAD624,Peel,ON,Business Various,Toronto Ontario Temple  The Church of Jesus Christ of Latterday Saints,Mormons,103.5 PL,FMN,BM,Business
+452.537500,457.53750,VOV205,York,ON,Business Vaughan,United Parcel Service  Trailers,UPS Trailers,110.9 PL,FM,RM,Business
+452.537500,0.00000, ,Peel,ON,  Maple Lodge Farms,Site 001 Brampton, , ,DMR, ,TRS
+452.587500,0.00000, ,York,ON,  GOTRBO Network,Site 004 Ballantrae, , ,DMR, ,TRS
+452.612500,0.00000,VCZ693,Peel,ON,Transportation Mississauga,Blue  White Taxi,Blue&White,245 DPL,FM,BM,Transportation
+452.637500,0.00000, ,Toronto,ON,  ICOM Canada ,Site 003 Toronto, , ,NXDN, ,TRS
+452.675000,0.00000, ,Toronto,ON,  ICOM Canada ,Site 003 Toronto, , ,NXDN, ,TRS
+452.737500,457.73750,VFS831,Peel,ON,Transportation Brampton,Attridge Transportation,Attridge Bus,118.8 PL,FM,RM,Transportation
+452.787500,457.78750,CGZ888,Halton,ON,Business Burlington,Attridge Transportation ,Attridge ,118.8 PL,FM,RM,Transportation
+452.812500,457.81250,VAD609,Toronto,ON,Business Downtown,Hotel InterContinental,Htl Int Cont,413 DPL,FM,BM,Business
+452.812500,0.00000,,Durham,ON,Education Clarington,St Elizabeth Catholic School,St. Elizabeth,103.5 PL,FMN,M,Schools
+452.812500,457.81250,VFK814,Halton,ON,Oakville,Oakville Trafalgar Memorial Hospital ,OTMH,315 DPL,FM,RM,Hospital
+452.812500,457.81250,XKU202,Toronto,ON,Business Etobicoke,Woodbine Centre  Security,WoodbineCtr,179.9 PL,FM,RM,Security
+452.812500,457.81250,XKU202,Toronto,ON,Business Etobicoke,Woodbine Centre  Property Management,WoodbineCtr,311 DPL,FM,RM,Business
+452.812500,0.00000, ,Durham,ON,  Pickering Town Centre,Site 001 PTC, , ,DMR, ,TRS
+452.812500,0.00000,,Toronto,ON,Business Downtown,77 Bloor Street West  Property Management,77 Bloor W,065 DPL,FM,BM,Business
+452.812500,457.81250,XKU202,Toronto,ON,Business Downtown,The Crossways  Property Management,Crossways,116 DPL,FM,RM,Business
+452.812500,0.00000, ,Hamilton,ON,  Federal Marine Terminals,Site 001 Terminal, , ,DMR, ,TRS
+452.862500,0.00000, ,Durham,ON,  GOTRBO Network,Site 006 Clarington, , ,DMR, ,TRS
+452.975000,0.00000, ,Toronto,ON,  University of Toronto,Site 001 55 Harbord Street, , ,DMR, ,TRS
+452.987500,0.00000, ,Durham,ON,  GOTRBO Network,Site 006 Clarington, , ,DMR, ,TRS
+453.012500,458.01250,VCO998,Toronto,ON,Business School Buses,McCluskey,McCluskey,136.5 PL,FM,RM,Transportation
+453.037500,0.00000, ,York,ON,  GOTRBO Network,Site 004 Ballantrae, , ,DMR, ,TRS
+453.087500,462.45000,VFW951,Toronto,ON,Education Ontario College of Art and Design,Operations,OCAD,051 DPL,FM,RM,Schools
+453.212500,0.00000, ,Durham,ON,  FleetConnect ,Site 014 Blackstock, , ,DMR, ,TRS
+453.250000,0.00000, ,York,ON,  Communitronics,Site 001 Confirmed LCN, , ,LTR, ,TRS
+453.262500,0.00000,,Hamilton,ON,Flamboro Downs Slots Flamborough,Emergency,FDC Emrg,071 DPL,FMN,BM,Business
+453.337500,0.00000,,Halton,ON,Business Burlington,Mapleview Centre  Security,MC Security,CC 3|TG 201|SL *,DMR,BM,Security
+453.362500,0.00000, ,Toronto,ON,  Mobile Business Communications ,Site 001 CN Tower, , ,NXDN, ,TRS
+453.412500,0.00000, ,Durham,ON,  FleetConnect ,Site 014 Blackstock, , ,DMR, ,TRS
+453.437500,458.43750,CYD708,Hamilton,ON,Business Hamilton,Cardi Construction,Cardi,186.2 PL,FMN,BM,Business
+453.450000,458.45000,CZY344,York,ON,Business Thornhill,The Promenade  Security ,PromSecurity,97.4 PL,FM,RM,Security
+453.450000,0.00000,,Toronto,ON,Healthcare St Michaels Hospital,Security,SMH Security,203.5 PL,FM,BM,Security
+453.450000,0.00000,,Toronto,ON,Education Toronto District School Board,Rawlinson Community School,RawlinsonCS,205 DPL,FM,BM,Schools
+453.450000,0.00000,,Halton,ON,Business Oakville,Trafalgar Heights  Property Management,TrafHts P/M,79.7 PL,FM,BM,Business
+453.450000,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,Bridgestone Racing Academy,Bridgestone,250.3 PL,FMN,M,Business
+453.450000,0.00000,,Peel,ON,Business Construction,Daniels,Daniel's,506 DPL,FMN,BM,Business
+453.450000,0.00000,,Peel,ON,Brampton,Corporate Properties,Bram CP,,FMN,BM,Public Works
+453.450000,0.00000,VCL760,Toronto,ON,Healthcare Rouge Valley  Centennary Hospital,Security,RV Centry,203.5 PL,FM,BM,Security
+453.450000,0.00000,,Toronto,ON,Attractions Live Nation,Food and Beverage  Venue,F/B V,CC 7|TG 1|SL 1,DMR,BM,Business
+453.450000,0.00000,,Peel,ON,Peel Region Attractions Powerade Centre,Centre 2,PAC 2,,FM,BM,Business
+453.450000,0.00000,,Durham,ON,Business Clarington,Petro Canada,Petro Canada,125 DPL,FMN,BM,Data
+453.450000,0.00000,VEA734,Durham,ON,Attractions Great Blue Heron Charity Casino  Port Perry,Great Blue Heron Charity Casino F2,GBHC 2,,FMN,M,Business
+453.450000,0.00000,,Peel,ON,Peel Region Attractions Hershey Centre,Channel 2,HC 2,703 DPL,FM,M,Business
+453.612500,0.00000, ,Toronto,ON,  ICOM Canada ,Site 003 Toronto, , ,NXDN, ,TRS
+453.637500,0.00000,,Toronto,ON,Education Toronto District School Board,Rivercrest Junior School,RivercrestJS,413 DPL,FMN,BM,Schools
+453.700000,0.00000,,Peel,ON,Brampton,Corporate Properties,Bram CP,,FMN,BM,Public Works
+453.700000,458.70000,CFF588,Toronto,ON,Healthcare Sunnybrook Health Sciences Centre,Security 1,SHSC  Sec 1,173.8 PL,FM,RM,Security
+453.700000,0.00000,,Hamilton,ON,FirstOntario Centre Operations,HP Stage,HP Stage,CC 4|TG 1|SL 1,DMR,BM,Business
+453.700000,0.00000,VEA734,Durham,ON,Attractions Great Blue Heron Charity Casino  Port Perry,Great Blue Heron Charity Casino F3,GBHC 3,,FMN,M,Business
+453.700000,0.00000, ,Toronto,ON,  Humber College,Site 001 North Campus, , ,DMR, ,TRS
+453.700000,0.00000,,Toronto,ON,Business North York,JaneFinch Mall,Jane Finch,103.5 PL,FM,BM,Security
+453.700000,0.00000,,Durham,ON,Education Clarington,John M James Public School,John M James,754 DPL,FMN,M,Schools
+453.725000,0.00000,,Durham,ON,Attractions Jungle Cat World Wildlife Park,Jungle Cat World Wildlife Park,Cat World Pk,734 DPL,FM,M,Business
+453.725000,458.72500,VCW24,Toronto,ON,Business Downtown,Cumberland Terrace  Security,CumbTerrace,218.1 PL,FM,RM,Security
+453.725000,0.00000,,Peel,ON,Brampton,Corporate Properties,Bram CP ,,FMN,BM,Public Works
+453.725000,0.00000,,Toronto,ON,Attractions Core,YongeDundas Square  Security Simplex 2,YDS SIM 2,CC 8|TG 1|SL 1,DMR,BM,Security
+453.725000,0.00000,,Hamilton,ON,FirstOntario Centre Operations,Emergency,Emergency,CC 12|TG 1|SL 1,DMR,BM,Business
+453.725000,0.00000,,Toronto,ON,Business Downtown,2 Bloor Street West  Property Management,2 Bloor West,67.0 PL,FMN,BM,Business
+453.725000,458.72500,CIG801,Durham,ON,Attractions Great Blue Heron Charity Casino  Port Perry,Great Blue Heron Charity Casino F1,GBHC 1,,FMN,RM,Business
+453.725000,0.00000, ,Toronto,ON,  Humber College,Site 001 North Campus, , ,DMR, ,TRS
+453.725000,458.72500,VCW24,Toronto,ON,Business Downtown,Cumberland Terrace  Property Management,CumbTerrace,233.6 PL,FM,RM,Business
+453.812500,0.00000, ,Toronto,ON,  GOTRBO Network,Site 007 CN Tower, , ,DMR, ,TRS
+453.837500,458.83750,VBE532,Toronto,ON,Media Canadian Broadcasting Corporation  Broadcast Centre,CBC News,CBC News,,FM,BM,Media
+453.837500,0.00000, ,Halton,ON,  Ford Motor Company Oakville ,Site 001 Oakville, , ,DMR, ,TRS
+453.862500,0.00000,CZJ320,Peel,ON,Transportation Brampton,A Seven Eleven Taxi ,Seven Eleven,203.5 PL,FM,BM,Transportation
+453.887500,0.00000,CGZ701,Toronto,ON,Attractions Scarborough,Security Backup,Zoo Sec B/U,CC 1|TG 90|SL 1,DMR,BM,Security
+453.887500,0.00000, ,Peel,ON,  Trillium Health Partners,Site 003 Mississauga Hospital, , ,DMR, ,TRS
+453.887500,0.00000, ,Peel,ON,  FedEx Pearson International Distribution,Site 001 FedEx PIA, , ,DMR, ,TRS
+453.887500,0.00000, ,Toronto,ON,  Porter Airlines,Site 001 Billy Bishop Toronto Island Airport, , ,DMR, ,TRS
+453.887500,458.88750,XNF548,Toronto,ON,Business Downtown,Commerce Court Ch 2,ComCrt 2,110.9 PL,FM,RM,Security
+453.887500,458.88750,XKU247,Toronto,ON,Business Downtown,Richmond  Adelaide Centre  Property Management,Rich /Adlde,,FM,RM,Business
+453.887500,0.00000, ,Peel,ON,  Sheridan College Peel Region,Site 002 Hazel McCallion Campus, , ,DMR, ,TRS
+453.925000,0.00000, ,Halton,ON,  Magna Karmax ,Site 001 Milton, , ,DMR, ,TRS
+453.987500,0.00000, ,Hamilton,ON,  GOTRBO Network,Site 011 Fennell, , ,DMR, ,TRS
+454.037500,0.00000,,Halton,ON,Milton,Kelso Conservation Area,CH Kelso,CC 13|TG 2000|SL *,DMR,BM,Business
+454.037500,0.00000, ,Toronto,ON,  Billy Bishop Toronto City Airport,Site 001 Toronto Island, , ,DMR, ,TRS
+454.125000,0.00000,,Hamilton,ON,Juravinski Hospital,Juravinski Hospital ,Juravinski ,1 RAN,NXDN,BM,Hospital
+454.137500,0.00000, ,Toronto,ON,  Exhibition Place,Site 001 Exhibition Place, , ,LTR, ,TRS
+454.162500,0.00000, ,Toronto,ON,  FleetConnect ,Site 012 Toronto, , ,DMR, ,TRS
+454.200000,0.00000,,Toronto,ON,Environment Canada 4905 Dufferin Street,In House  Emergency,Emergency,127.3 PL,FMN,BM,Emergency Ops
+454.200000,0.00000,,Peel,ON,Peel Region Attractions Powerade Centre,Centre 3,PAC 3,,FM,BM,Business
+454.200000,459.20000,,Peel,ON,Retail Mississauga,Dixie Outlet Mall  Security ,DOM 1,664 DPL,FMN,RM,Security
+454.200000,459.20000,CYD342,Toronto,ON,Healthcare Michael Garron Hospital,Security ,TEGH Sec,100.0 PL,FM,RM,Security
+454.200000,459.20000,VOV205,York,ON,Business Vaughan,United Parcel Service  Hub Control,UPS Hub Ctrl,110.9 PL,FM,RM,Business
+454.200000,459.20000,,Toronto,ON,Attractions Core,Harbourfront Centre,Harbourfront,155 DPL,FM,RM,Business
+454.200000,0.00000, ,Peel,ON,  CRH Canada  Holcim,Site 001 Mississauga, , ,DMR, ,TRS
+454.200000,0.00000, ,Durham,ON,  OLGC  Ajax Downs Racetrack Slots,Site 001 Ajax Downs, , ,DMR, ,TRS
+454.200000,0.00000,,Hamilton,ON,FirstOntario Centre Operations,Bulldogs,Bulldogs,CC 6|TG 1|SL 1,DMR,BM,Business
+454.200000,459.20000,VBE881,Toronto,ON,Downsview Airport YZD Bombardier Aerospace,Plant Operations,Bombdr Aero,627 DPL,FM,RM,Business
+454.200000,0.00000, ,Halton,ON,  Magna Karmax ,Site 001 Milton, , ,DMR, ,TRS
+454.200000,0.00000,,Peel,ON,Retail Mississauga,Dixie Outlet Mall  Maintenance,DOM 2,664 DPL,FMN,BM,Business
+454.225000,459.22500,XKC57,Hamilton,ON,Chedoke Campus,Chedoke Campus  Security,Security,141.3 PL,FM,RM,Security
+454.225000,0.00000,,Halton,ON,Oakville,The Marquee  Low Power,Marquee DMR,CC 1|TG 1|SL *,DMR,M,Business
+454.225000,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,CTMP Driver Development Track,CTMP DriverDev,546 DPL,FMN,M,Business
+454.225000,459.22500,VEU735,York,ON,Canadas Wonderland Vaughan,Ch 4  Entertainment Theatre Group Sales Administration Marketing Finance,Wonderland 4,173.8 PL,FM,RM,Business
+454.225000,459.22500,XJV978,Peel,ON,Retail Brampton,Shoppers World Ch 1,SW 1,,FMN,RM,Business
+454.225000,0.00000,,Halton,ON,Oakville,The Marquee  Bouncer Talkaround,Marquee B T/A,143 DPL,FMN,M,Business
+454.225000,0.00000,CGZ701,Toronto,ON,Attractions Scarborough,Toronto Zoo  Simplex,Zoo  Simplex,CC 1|TG 80|SL 1,DMR,BM,Business
+454.225000,459.22500,CYD303,Toronto,ON,Business Downtown,Atrium On Bay  Security,AtriumBay,123.0 PL,FM,RM,Security
+454.225000,0.00000,,Durham,ON,Business Clarington,Kobes Nurseries,Kobes,251 DPL,FMN,M,Business
+454.225000,459.22500,CIH601,Halton,ON,Oakville,Syl Apps Youth Treatment Centre  Kinark Services,SAYTC Kinark,186.2 PL,FM,RM,Corrections
+454.225000,0.00000,,Toronto,ON,Business Downtown,Four Seasons Hotel,FourSeasons,CC 8|TG 10|SL 1,DMR,BM,Business
+454.225000,459.22500,,Hamilton,ON,Hamilton General,Security,HGH,CC 4|TG 401|SL 1,DMR,RM,Security
+454.225000,0.00000,,Durham,ON,Business Whitby,Liquor Control Board Ontario  Durham Warehouse Ch 2,LCBO DW 2,,FMN,BM,Business
+454.225000,0.00000,,Peel,ON,Mississauga,Gordon Graydon Memorial SS  Ch 1 Administration,GGMSS1 Admin,411 DPL,FMN,BM,Schools
+454.262500,0.00000,,Hamilton,ON,Business Hamilton,Hamilton Cab ,Hamilton Cab,103.5 PL,FM,BM,Transportation
+454.362500,0.00000, ,Peel,ON,  Honeywell Aerospace,Site 001 Mississauga, , ,DMR, ,TRS
+454.362500,0.00000, ,Peel,ON,  Sheridan College Peel Region,Site 001 Davis Campus, , ,DMR, ,TRS
+454.362500,0.00000, ,Peel,ON,  Erin Mills Town Center,Site 001 Erin Mills, , ,DMR, ,TRS
+454.362500,0.00000,,Toronto,ON,Attractions Core,Metro Toronto Convention Centre Security,MTCCSecurity,254.1 PL,FMN,BM,Security
+454.362500,0.00000,,York,ON,Golf Beacon Hall Golf Club,Operations,BHGC Ops,CC 10|TG 10013|SL 1,DMR,BM,Business
+454.362500,0.00000, ,Toronto,ON,  CF Toronto Eaton Centre,Site 001 Eaton Centre, , ,DMR, ,TRS
+454.362500,0.00000, ,Toronto,ON,  Ritz Carlton Hotel,Site 001 Ritz Carlton Hotel, , ,DMR, ,TRS
+454.362500,0.00000, ,Toronto,ON,  Toronto Zoo,Site 001 Toronto Zoo, , ,DMR, ,TRS
+454.362500,0.00000, ,Peel,ON,  FedEx Pearson International Distribution,Site 001 FedEx PIA, , ,DMR, ,TRS
+454.462500,0.00000, ,Toronto,ON,  Mobile Business Communications ,Site 001 CN Tower, , ,NXDN, ,TRS
+454.537500,0.00000,,Halton,ON,Milton,Rattlesnake Point Conservation Area,Rattlesnake,CC 11|TG 2000|SL *,DMR,BM,Business
+454.562500,0.00000, ,York,ON,  Communitronics,Site 001 Confirmed LCN, , ,LTR, ,TRS
+454.587500,0.00000, ,Toronto,ON,  Fleetcom DMR,Site 001 500 Duplex, , ,DMR, ,TRS
+456.012500,0.00000,,Peel,ON,Peel Region Attractions Meadowvale Theatre,Medowvale Theatre,MDV Theatre,606 DPL,FMN,BM,Business
+456.187500,0.00000,,Hamilton,ON,Federal Offices Hamilton,EC  Canadian Centre Inland Waters,Security,,FM,BM,Federal
+456.187500,0.00000,,Peel,ON,Peel Region Attractions Hershey Centre,Channel 1,HC 1,703 DPL,FM,M,Business
+456.787500,451.78750,XKE248,Toronto,ON,Business Downtown,Delta Chelsea Hotel,DeltaChelsea,173.8 PL,FM,RM,Business
+457.062500,452.06250,VEQ710,Toronto,ON,Education York University,Keele Campus Security ,YU Security,,FM,RM,Security
+457.262500,0.00000, ,Toronto,ON,  Ritz Carlton Hotel,Site 001 Ritz Carlton Hotel, , ,DMR, ,TRS
+457.537500,468.48750,XLD203,Toronto,ON,Media Bell Media Queen Street Bureau,CP24  Wireless,CP24Wireless,82.5 PL,FM,RM,Media
+457.575000,0.00000,,Toronto,ON,Attractions Rogers Centre,Stadium  Roof Control,Stadium Roof,,FM,BM,Business
+457.587500,468.76250,VEF988,Toronto,ON,Media Bell Media Queen Street Bureau,CP24  Wireless ,CP24Wireless,82.5 PL,FM,RM,Media
+458.062500,0.00000,,Halton,ON,Business Oakville,United Taxi,United Taxi,218.1 PL,FMN,BM,Transportation
+458.662500,0.00000,,Hamilton,ON,John C Munro International Airport YHM Airlines,Air Transat Operations,AirTransatOp,023 DPL,FMN,BM,Aircraft
+458.662500,0.00000,,Peel,ON,Brampton,Corporate Properties,Bram CP,,FMN,BM,Public Works
+458.662500,0.00000,,York,ON,Business Newmarket,Best Buy,Best Buy,79.7 PL,FMN,BM,Business
+458.662500,0.00000,,Peel,ON,Retail Mississauga,Heartland Town Centre  Michaels,Michael'sHTC,67.0 PL,FMN,BM,Business
+458.662500,0.00000,,Toronto,ON,Business Canada Computers,Red,CC Red,67.0 PL,FMN,M,Business
+458.662500,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,CTMP Ch 5,CTMP 5,074 DPL,FMN,BM,Business
+458.662500,0.00000,,Peel,ON,Retail Mississauga,Winston Argentia Centre  Best Buy,Best Buy WAC,192.8 PL,FMN,BM,Business
+458.662500,0.00000,,Peel,ON,Peel Region Attractions Hershey Centre,Channel 3,HC 3,703 DPL,FM,M,Business
+458.662500,0.00000,,Peel,ON,Retail Mississauga,Square One  Microsoft Store,Sq1Microsoft,67.0 PL,FMN,BM,Business
+458.662500,0.00000,,York,ON,Business Newmarket,Michaels,Michaels,67.0 PL,FMN,BM,Business
+458.662500,0.00000,,Halton,ON,Business Oakville,Holiday Inn Select ,HI Select,,FM,BM,Business
+458.662500,0.00000,,Peel,ON,Retail Mississauga,Heartland Town Centre  Old Navy,OldNavy HTC,74.4 PL,FMN,BM,Business
+458.662500,0.00000,,Toronto,ON,Business Canada Computers,Yellow,CC Yellow,71.9 PL,FMN,M,Business
+458.662500,0.00000,,Peel,ON,Retail Mississauga,Erin Mills Town Centre  Old Navy,Old Navy ,74.4 PL,FMN,BM,Business
+458.700000,0.00000,,Peel,ON,Peel Region Attractions Hershey Centre,Channel 4,HC 4,703 DPL,FM,M,Business
+458.700000,0.00000,,Halton,ON,Business Milton,CoSteel Recycling,Co-Steel Rec,69.3 PL,FM,BM,Business
+458.725000,0.00000,,Toronto,ON,Business Scarborough,The Greens at Tam OShanter  Condo Security,Greens Sec.,031 DPL,FMN,M,Business
+458.912500,0.00000,,Toronto,ON,Business Taxi,Bee Line Taxi,BeeLineTaxi,,FM,BM,Transportation
+458.937500,0.00000,,Peel,ON,Transportation Brampton,Airline Limo,Airline Limo,94.8 PL,FMN,BM,Transportation
+459.225000,0.00000,,Durham,ON,Business Whitby,Liquor Control Board Ontario  Durham Warehouse Ch 3,LCBO DW 3,,FMN,BM,Business
+459.362500,0.00000, ,Toronto,ON,  Ritz Carlton Hotel,Site 001 Ritz Carlton Hotel, , ,DMR, ,TRS
+460.025000,0.00000, ,Halton,ON,  Manheim Auto Auctions,Site 001 Milton, , ,DMR, ,TRS
+460.037500,465.03750,VCN500,Durham,ON,Business Clarington,St Marys Cement Plant,St. Marys Cement,136.5 PL,FMN,RM,Business
+460.050000,465.08750,XNE630,Toronto,ON,Business Armoured Car Transportation,Brinks Canada Armoured Cars,Brinks  A C,110.9 PL,FM,RM,Security
+460.100000,0.00000, ,Halton,ON,  Roxul,Site 001 Milton, , ,DMR, ,TRS
+460.112500,0.00000, ,York,ON,  FleetConnect ,Site 013 King City, , ,DMR, ,TRS
+460.125000,0.00000, ,Toronto,ON,  University Health Network  Toronto Western Hospital,Site 001 Toronto Western Hospital, , ,DMR, ,TRS
+460.137500,0.00000, ,Hamilton,ON,  National Communications Site Services DMR,Site 000 Area 0, , ,DMR, ,TRS
+460.162500,465.16250,CFO588,Durham,ON,Attractions Canadian Tire Motorsport Park,CTMP MedicalSecurity,CTMP Med/Sec,CC 8|TG 202|SL *,DMR,RM,Business
+460.162500,0.00000, ,Peel,ON,  Honeywell Aerospace,Site 001 Mississauga, , ,DMR, ,TRS
+460.162500,0.00000,,Toronto,ON,Education George Brown College,St James Campus  Security,GB St James,,DMR,BM,Security
+460.162500,0.00000, ,Toronto,ON,  Toronto Zoo,Site 001 Toronto Zoo, , ,DMR, ,TRS
+460.162500,0.00000, ,Toronto,ON,  Scarborough Town Centre,Site 001 STC, , ,DMR, ,TRS
+460.162500,0.00000, ,Peel,ON,  FedEx Pearson International Distribution,Site 001 FedEx PIA, , ,DMR, ,TRS
+460.162500,0.00000, ,Toronto,ON,  MaRS Discovery Centre,Site 001 661 University Avenue, , ,DMR, ,TRS
+460.162500,0.00000,,York,ON,Business Newmarket,Upper Canada Mall  Security,UCM Security,CC 5|TG 10001|SL 1,DMR,M,Security
+460.200000,0.00000, ,Peel,ON,  Maple Lodge Farms,Site 001 Brampton, , ,DMR, ,TRS
+460.212500,0.00000,,Toronto,ON,Billy Bishop Toronto City Airport YTZ Operations,Toronto Port Authority  City Airport  Runway Snow Clearing ,TPA /BBTCA,136.5 PL,FM,BM,Aircraft
+460.237500,0.00000,,Peel,ON,Mississauga,StGonzaga Secondary SchoolErin Meadows Community Centre,StAGSS/EMCC,631 DPL,FMN,BM,Schools
+460.237500,0.00000,,Peel,ON,Malton,Ascension of Our Lord Secondary School ,Ascension SS,532 DPL,FM,BM,Schools
+460.262500,465.26250,VCY764,Peel,ON,Retail Mississauga,Square One  Property Management ,Sq One PM,CC 1|TG 2001|SL 2,DMR,RM,Business
+460.262500,465.26250,VCY764,Peel,ON,Retail Mississauga,Square One  Security,Sq One Sec,CC 1|TG 2000|SL 1,DMR,RM,Security
+460.287500,465.28750,VCW408,Halton,ON,Business Milton,Dufferin Aggregates,Dufferin,CC 9|TG 9902|SL 1,DMR,RM,Business
+460.287500,465.28750,VCW408,Halton,ON,Business Milton,Dufferin Aggregates,Dufferin,CC 9|TG 9903|SL 2,DMR,RM,Business
+460.337500,0.00000,,Hamilton,ON,Business Hamilton,Eastgate Square,Eastgate Sq,103.5 PL,FM,BM,Business
+460.412500,465.41250,CYC830,Hamilton,ON,Charlton Campus,St Josephs Health Care,StJ Charlton,CC 1|TG 11201530|SL 1,DMR,RM,Hospital
+460.412500,465.41250,CYC830,Hamilton,ON,Charlton Campus,St Josephs Health Care,StJ Charlton,CC 1|TG 11205132|SL 1,DMR,RM,Hospital
+460.675000,465.68750,XNF548,Toronto,ON,Business Downtown,Commerce Court Ch 1,ComCrt 1,110.9 PL,FM,RM,Security
+460.775000,465.77500,VCO911,York,ON,Canadas Wonderland Vaughan,Ch 1  Park Safety and Security,Wonderland 1,173.8 PL,FM,RM,Security
+460.837500,0.00000, ,Hamilton,ON,  GOTRBO Network,Site 011 Fennell, , ,DMR, ,TRS
+460.875000,0.00000, ,Peel,ON,  Air Transat ,Site 001 Terminal 3, , ,DMR, ,TRS
+460.925000,465.92500,XJV978,Peel,ON,Retail Brampton,Shoppers World Ch 2,SW 2,,FMN,RM,Business
+460.925000,0.00000,,Durham,ON,Business Whitby,Liquor Control Board Ontario  Durham Warehouse Ch 4,LCBO DW 4,,FMN,BM,Business
+460.925000,0.00000,,Toronto,ON,Business Downtown,Town Inn Suites,Town Inn,043 DPL,FM,BM,Business
+460.925000,0.00000,,Toronto,ON,Healthcare Scarborough Hospital  General and Grace sites ,Maintenance,Scarb Hosp,205 DPL,FM,BM,Hospital
+460.925000,0.00000,,Toronto,ON,Attractions Core,Metro Toronto Convention Centre Shuttle,MTCC Shuttle,143 DPL,FMN,BM,Transportation
+460.925000,0.00000,,York,ON,Business Newmarket,Silver City Theatre,SilverCity,532 DPL,FMN,BM,Business
+460.925000,465.92500,CYD203,Toronto,ON,Business Downtown,Atrium on Bay  Property Management,AtriumBay,233.6 PL,FM,RM,Business
+460.925000,0.00000,VEA734,Durham,ON,Attractions Great Blue Heron Charity Casino  Port Perry,Great Blue Heron Charity Casino F4,GBHC 4,,FMN,M,Business
+460.925000,0.00000,CFV398,Toronto,ON,Business North York,Lawrence Square Mall,Lwrnce Sq,40 RAN,NXDN,BM,Security
+460.925000,0.00000,,Peel,ON,Peel Region Attractions Powerade Centre,Centre 4,PAC 4,,FM,BM,Business
+460.925000,0.00000,,Toronto,ON,Education York University,Seneca  York  Campus Security,Sen@York Sec,71.9 PL,FM,BM,Security
+460.925000,0.00000,CFF670,Toronto,ON,Education George Brown College,Casa Loma Campus  Security,GB Casa Loma,116 DPL,FM,BM,Security
+460.925000,465.92500,XLD840,Toronto,ON,Business North York,Toronto Emergency Services  4300 Dufferin St  Maintenance,TES Maint,69.3 PL,FM,RM,Business
+460.925000,0.00000,,Toronto,ON,Attractions Rogers Centre,Stadium  Roof Control,Stadium Roof,,FM,BM,Business
+460.925000,465.92500,,Toronto,ON,Business North York,Shops at Don Mills,Don Mills,115 DPL,FM,RM,Security
+460.925000,0.00000,,Toronto,ON,Attractions Core,Harbourfront Centre,Harbourfront,155 DPL,FM,BM,Business
+460.987500,465.98750,VEK513,Halton,ON,Business Burlington,Attridge Transportation ,Attridge ,118.8 PL,FM,RM,Transportation
+460.987500,465.98750,VEK513,Peel,ON,Transportation Mississauga,Attridge Transportation,AttridgeBus,118.8 PL,FM,BM,Transportation
+461.012500,466.01250,VCX810,Toronto,ON,Business Construction,Amherst Crane Rental,AmherstCrane,100.0 PL,FM,RM,Business
+461.162500,0.00000, ,Halton,ON,  Ford Motor Company Oakville ,Site 001 Oakville, , ,DMR, ,TRS
+461.200000,466.20000,VCO911,York,ON,Canadas Wonderland Vaughan,Ch 2  Attractions Maintenance Ecology and Utility,Wonderland 2,173.8 PL,FM,RM,Business
+461.200000,0.00000, ,Hamilton,ON,  McMaster University,Site 001 MAC, , ,DMR, ,TRS
+461.237500,466.23750,CKU631,Halton,ON,Business Halton Hills,Toronto Premium Outlets,TPO,CC 2|TG 10|SL 1,DMR,RM,Business
+461.237500,0.00000, ,Toronto,ON,  Billy Bishop Toronto City Airport,Site 001 Toronto Island, , ,DMR, ,TRS
+461.237500,466.23750,CFF632,Toronto,ON,Healthcare North York Branson Urgent Care ,Security,Branson Ch.1,225.7 PL,FM,RM,Security
+461.237500,0.00000, ,Peel,ON,  Trillium Health Partners,Site 003 Credit Valley Hospital , , ,DMR, ,TRS
+461.237500,466.23750,CFO588,Durham,ON,Attractions Canadian Tire Motorsport Park,CTMP OperationsSafety,CTMP TrackSafety,CC 15|TG 201|SL *,DMR,RM,Business
+461.262500,0.00000, ,Halton,ON,  Roxul,Site 001 Milton, , ,DMR, ,TRS
+461.312500,466.31250,CFF372,Toronto,ON,Business Construction,Stacey Electric ,StaceyElec ,167.9 PL,FM,RM,Business
+461.650000,0.00000, ,Peel,ON,  Air Transat ,Site 001 Terminal 3, , ,DMR, ,TRS
+461.662500,0.00000,,Halton,ON,Royal Botanical Gardens Operations,SecurityMain,RBG Main,136.5 PL,FMN,BM,Security
+461.662500,0.00000,,Halton,ON,Royal Botanical Gardens Operations,Maintenance,RBG Maintnce,97.4 PL,FMN,BM,Business
+461.662500,0.00000,,Halton,ON,Royal Botanical Gardens Operations,Events,RBG Events,146.2 PL,FMN,BM,Business
+461.662500,0.00000, ,Toronto,ON,  Exhibition Place,Site 001 Exhibition Place, , ,LTR, ,TRS
+461.687500,466.68750,VDS900,Durham,ON,Business Clarington,Student Transportation Services of Central Ontario,STSCO,,FMN,RM,Schools
+461.737500,0.00000, ,Halton,ON,  Ford Motor Company Oakville ,Site 001 Oakville, , ,DMR, ,TRS
+461.787500,0.00000, ,York,ON,  FleetConnect ,Site 013 King City, , ,DMR, ,TRS
+461.837500,0.00000, ,Halton,ON,  Manheim Auto Auctions,Site 001 Milton, , ,DMR, ,TRS
+461.862500,466.81250,VCL818,Toronto,ON,Business Airport Taxi and Limousine,Aircab,Aircab,167.9 PL,FMN,RM,Transportation
+461.887500,0.00000,,Toronto,ON,Billy Bishop Toronto City Airport YTZ Operations,Toronto Port Authority  City Airport  Maintenance,TPA /BBTCA,136.5 PL,FM,BM,Business
+461.987500,466.98750,CHD373,Toronto,ON,Education York University,Glendon Campus Security ,Glendon,146.2 PL,FM,RM,Security
+462.037500,467.03750,CIM875,Peel,ON,Transportation Mississauga,Attridge Transportation,AttridgeBus,118.8 PL,FMN,RM,Transportation
+462.137500,0.00000, ,Hamilton,ON,  McMaster University,Site 001 MAC, , ,DMR, ,TRS
+462.162500,0.00000, ,Toronto,ON,  GOTRBO Network,Site 007 CN Tower, , ,DMR, ,TRS
+462.237500,0.00000,,Durham,ON,Business Whitby,Atlantic Packaging,Atlantic Pkg,67.0 PL,FMN,BM,Business
+462.237500,0.00000,,Toronto,ON,Attractions Exhibition Place,Medieval Times Dinner and Tournament,MT Tournament,,FMN,M,Business
+462.237500,0.00000,,Durham,ON,Attractions Oshawa Ski Club,BrimacombeOshawa Ski Club Ch 3,OshawaSki 3,526 DPL,FMN,BM,Business
+462.237500,467.23750,VBV568,Toronto,ON,Business Downtown,2 Bloor Street East,2 Bloor East,186.2 PL,FM,RM,Business
+462.237500,467.23750,VFK814,Halton,ON,Oakville,Oakville Trafalgar Memorial Hospital ,OTMH,051 DPL,FM,RM,Hospital
+462.237500,0.00000,,Peel,ON,Retail Bramalea,Bramalea City Centre  Security,BCC Security,CC 1|TG 10|SL 1,DMR,BM,Security
+462.262500,467.26250,CFF689,Toronto,ON,Education York University,Keele Campus Parking Enforcement,Parking Enfr,151.4 PL,FM,RM,Law Talk
+462.275000,467.27500,VAX236,Halton,ON,Milton,Halton Region Waste Management,HR WM,,FMN,RM,Public Works
+462.337500,467.33750,CIK286,Hamilton,ON,Business Waterdown,Attridge Transportation,Attridge,118.8 PL,FM,RM,Transportation
+462.362500,467.36250,VCL849,Toronto,ON,Business Couriers,DKR Courier Service,DKR Courier,123.0 PL,FM,RM,Business
+462.387500,467.38750,XNH672,Toronto,ON,Business Couriers,United Messengers ,Untd Messgrs,123.0 PL,FM,RM,Business
+462.450000,467.45000,VCO911,York,ON,Canadas Wonderland Vaughan,Ch 3  Resale and Admissions,Wonderland 3,173.8 PL,FM,RM,Business
+462.487500,467.48750,VFR569,York,ON,Region Wide,York Region District School Board,YRDSB,225.7 PL,FM,RM,Schools
+462.487500,0.00000,,York,ON,Business Newmarket,York District School Board,YDSB,94.8 PL,FMN,BM,Schools
+462.500000,0.00000,,Hamilton,ON,FirstOntario Centre Operations,Dispatch,Dispatch,CC 8|TG 1|SL 1,DMR,BM,Business
+462.500000,0.00000,,Toronto,ON,Business Etobicoke,Plant World,Plant World,612 DPL,FMN,BM,Business
+462.500000,0.00000,Multiple,Toronto,ON,Education Ontario College of Art and Design,Security,OCAD Sec,,FM,BM,Security
+462.537500,0.00000, ,Toronto,ON,  Fleetcom DMR,Site 001 500 Duplex, , ,DMR, ,TRS
+462.637500,0.00000,,York,ON,DriveIn Theatre Sharon,Theatre Operations FRS Ch4,SDI Ops,67.0 PL,FMN,BM,Business
+462.675000,0.00000,,Peel,ON,Mississauga,Community Centre Operations Ch2,Miss CC Ops2,743 DPL,FMN,BM,Public Works
+462.737500,0.00000, ,Toronto,ON,  FleetConnect ,Site 012 Toronto, , ,DMR, ,TRS
+462.812500,0.00000, ,Hamilton,ON,  National Communications Site Services DMR,Site 000 Area 0, , ,DMR, ,TRS
+462.825000,467.82500,CIL791,York,ON,Business Vaughan,Vaughan Mills  Property Management,VgnMills P M,,FM,RM,Business
+462.825000,0.00000,,Peel,ON,Retail Mississauga,Meadowvale Town Centre ,Meadwvale TC,261 DPL,FMN,BM,Business
+462.825000,0.00000,,Toronto,ON,Business Downtown,Carlton Tower,CarltonTower,244 DPL,FM,BM,Security
+462.825000,0.00000,,Toronto,ON,Business Etobicoke,Cloverdale Mall,Cloverdale,261 DPL,FM,BM,Security
+462.825000,467.82500,CFF454,York,ON,Business Markham,Markville Shopping Centre  Security ,Markvlle S C,251 DPL,FM,RM,Security
+462.825000,467.82500,VCM646,Toronto,ON,Attractions Etobicoke,Woodbine Race Track  Officials,Track Offcl,69.3 PL,FM,RM,Business
+462.825000,0.00000,,Toronto,ON,Healthcare Scarborough Hospital  General and Grace sites ,Security,Grace Site,67.0 PL,FM,BM,Security
+462.825000,467.82500,,Toronto,ON,Attractions Core,YongeDundas Square  Security ,YDS Sec,CC 8|TG 1|SL 1,DMR,RM,Security
+462.887500,0.00000, ,Hamilton,ON,  ICOM Canada ,Site 009 Hamilton, , ,NXDN, ,TRS
+462.987500,0.00000, ,Durham,ON,  FleetConnect ,Site 014 Blackstock, , ,DMR, ,TRS
+463.012500,0.00000, ,Durham,ON,  FleetConnect ,Site 014 Blackstock, , ,DMR, ,TRS
+463.062500,0.00000, ,Toronto,ON,  Exhibition Place,Site 001 Exhibition Place, , ,LTR, ,TRS
+463.125000,0.00000, ,Hamilton,ON,  McMaster University,Site 001 MAC, , ,DMR, ,TRS
+463.137500,0.00000, ,Toronto,ON,  Fleetcom DMR,Site 001 500 Duplex, , ,DMR, ,TRS
+463.187500,0.00000, ,Toronto,ON,  Mobile Business Communications ,Site 001 CN Tower, , ,NXDN, ,TRS
+463.237500,468.23750,VCS307,Peel,ON,Business Various,Freemont Landscaping,Freemont,118.8 PL,FMN,RM,Business
+463.237500,0.00000,,Halton,ON,Business Milton,A Black Cab,A Black Cab,103.5 PL,FMN,BM,Transportation
+463.287500,468.28750,VCW335,Hamilton,ON,Business Hamilton,ArcelorMittal Dofasco  Fire and EMS,DofascoFDEMS,151.4 PL,FM,RM,Multi-Dispatch
+463.287500,468.28750,VCM540,Toronto,ON,Business Couriers,Golden Arrow Courier,GoldenArrow,146.2 PL,FM,RM,Business
+463.312500,0.00000, ,Toronto,ON,  GOTRBO Network,Site 007 CN Tower, , ,DMR, ,TRS
+463.325000,468.32500,VAX529,Hamilton,ON,Business Hamilton,The Centre on Barton  Security,CoB Security,CC 1|TG 1|SL 1,DMR,RM,Security
+463.387500,0.00000, ,York,ON,  ICOM Canada ,Site 004 Ballantrae, , ,NXDN, ,TRS
+463.412500,0.00000,VCX442,York,ON,Newmarket,Town Public Works Dept,NewmarketWks,229.1 PL,FM,BM,Public Works
+463.487500,468.48750,VCW335,Hamilton,ON,Business Hamilton,ArcelorMittal Dofasco  Security,Dofasco-Scty,241.8 PL,FM,RM,Security
+463.587500,468.58750,XNB78,Hamilton,ON,Business Hamilton,Yellow Cab Company,YellowCab,CSQ,FM,RM,Transportation
+463.612500,0.00000, ,Toronto,ON,  Exhibition Place,Site 001 Exhibition Place, , ,LTR, ,TRS
+463.637500,468.63750,CZD292,Toronto,ON,Business Construction,Metrix Ready Mix,MetrixRdyMix,CC 6|TG 100|SL 1,DMR,RM,Business
+463.662500,0.00000, ,York,ON,  FleetConnect ,Site 013 King City, , ,DMR, ,TRS
+463.737500,0.00000, ,Halton,ON,  Ford Motor Company Oakville ,Site 001 Oakville, , ,DMR, ,TRS
+463.775000,468.76250,CHC211,Durham,ON,Business Clarington,Williams Communications,Williams,,FMN,RM,Business
+463.787500,0.00000, ,Toronto,ON,  CF TorontoDominion Centre,Site 001 TD Centre, , ,DMR, ,TRS
+463.812500,0.00000,,Toronto,ON,Business Downtown,Royal Bank Plaza  Security,RBP Sec,CC 12|TG 10|SL *,DMR,BM,Security
+463.825000,0.00000, ,Toronto,ON,  College Park,Site 001 Toronto College Park, , ,LTR, ,TRS
+463.850000,468.85000,CFF454,York,ON,Business Markham,Markville Shopping Centre  Property Management,Markvlle S C,251 DPL,FM,RM,Business
+463.850000,0.00000,,Halton,ON,Business Oakville,5 Drive In Theatre,5 Drive In,371 DPL,FM,BM,Business
+463.850000,468.85000,,Peel,ON,Business Various,TST Overland Express,TST Overland,CC 4|TG *|SL 1,DMR,RM,Business
+463.850000,468.85000,CIE462,Toronto,ON,Business North York,Fairview Mall  Property Management,FairviewMall,412 DPL,FM,RM,Business
+463.850000,468.85000,VCM646,Toronto,ON,Attractions Etobicoke,Woodbine Race Track  Guest Services,Guest Serv,662 DPL,FM,RM,Business
+463.850000,0.00000,,Peel,ON,Business Construction,AECON,AECON,464 DPL,FMN,BM,Business
+463.912500,0.00000, ,Toronto,ON,  Mobile Business Communications ,Site 001 CN Tower, , ,NXDN, ,TRS
+463.962500,0.00000, ,Toronto,ON,  CF TorontoDominion Centre,Site 001 TD Centre, , ,DMR, ,TRS
+463.962500,0.00000, ,Durham,ON,  OLGC  Ajax Downs Racetrack Slots,Site 001 Ajax Downs, , ,DMR, ,TRS
+464.100000,0.00000,,Hamilton,ON,Flamboro Downs Slots Flamborough,Track Security,FDC Sec,315 DPL,FMN,BM,Security
+464.137500,0.00000,,Peel,ON,Transportation Mississauga,All Star Taxi,AllStar Taxi,107.2 PL,FMN,BM,Transportation
+464.262500,0.00000,,Halton,ON,Business Oakville,Home Depot  2555 Bristol Circle,Home Depot,065 DPL,FM,BM,Business
+464.312500,0.00000,,Hamilton,ON,Flamboro Downs Slots Flamborough,Food Service,FDC FS,503 DPL,FMN,BM,Business
+464.312500,0.00000,,Hamilton,ON,Business Hamilton,First Response Environmental,1st Response,,FM,BM,Business
+464.337500,0.00000,,Hamilton,ON,Flamboro Downs Slots Flamborough,Valet,FDC Valet,115 DPL,FMN,BM,Business
+464.537500,0.00000,,Hamilton,ON,Flamboro Downs Slots Flamborough,Customer Service,FDC CS,143 DPL,FMN,BM,Business
+464.562500,0.00000,,Hamilton,ON,Federal Offices Hamilton,EC  Canadian Centre Inland Waters,Operations,,FM,BM,Federal
+464.637500,0.00000,,Durham,ON,Ontario Shores Centre for Mental Health Sciences,Ontario Shores Centre for Mental Health Sciences  Paging,OSC PAG,,FMN,B,Hospital
+464.637500,0.00000,,Durham,ON,Business Clarington,WalMart Canada,Wal-Mart,,FMN,M,Business
+464.637500,0.00000,,Durham,ON,Attractions Oshawa Ski Club,BrimacombeOshawa Ski Club Ch 1,OshawaSki 1,526 DPL,FMN,BM,Business
+464.637500,0.00000,,Durham,ON,Business Clarington,Shoppers Drug Mart  Longworth,Shoppers Drug,,FMN,M,Business
+464.712500,0.00000,,Durham,ON,Lakeridge Health  Oshawa General Hospital,Lakeridge Health  Oshawa General,OGH,,FMN,B,Hospital
+464.712500,0.00000,VDS853,Toronto,ON,Healthcare Trillium Health Centre  Queensway Ambulatory Centre,Security ,Trillium Qns,,FM,BM,Security
+464.837500,0.00000, ,Toronto,ON,  University of Toronto,Site 001 55 Harbord Street, , ,DMR, ,TRS
+464.912500,0.00000, ,Hamilton,ON,  National Communications Site Services DMR,Site 002 Area 2, , ,DMR, ,TRS
+464.962500,0.00000, ,Peel,ON,  Erin Mills Town Center,Site 001 Erin Mills, , ,DMR, ,TRS
+464.962500,0.00000,,Toronto,ON,Business Downtown,ShangriLa Hotel  Security,S-L Hotel Sec,CC 1|TG 10|SL 1,DMR,BM,Security
+464.962500,0.00000, ,Peel,ON,  Honeywell Aerospace,Site 001 Mississauga, , ,DMR, ,TRS
+464.962500,469.96250,,Durham,ON,Business Clarington,Covanta Durham York Renewable Energy,Covanta,CC 1|TG 1|SL *,DMR,RM,Business
+465.925000,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,CTMP OpsSafety OldBackup,CTMP Ops/Safety,67.0 PL,FMN,BM,Business
+465.925000,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,CTMP MedicalSecurity OldBackup,CTMP Med/Sec,143 DPL,FMN,BM,Business
+465.962500,0.00000,,Toronto,ON,Attractions Core,YongeDundas Square  Security Simplex 1 ,YDS SIM 1,CC 8|TG 1|SL 1,DMR,BM,Security
+465.962500,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,Flying Lizard Motorsport,FlyingLizard,243 DPL,FMN,M,Business
+467.012500,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,Star Mazda Series Racing Ch 2,MAZDA CH 2,032 DPL,FMN,M,Business
+467.587500,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,Star Mazda Series Racing Ch 1,MAZDA CH 1,032 DPL,FMN,M,Business
+467.962500,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,Flying Lizard Motorsport,FlyingLizard,664 DPL,FMN,M,Business
+468.150000,0.00000,,Durham,ON,Education Clarington,Harold Longworth Public School,Harold Longworth,116 DPL,FMN,M,Schools
+468.500000,0.00000,,Durham,ON,Attractions Canadian Tire Motorsport Park,CBS Sports Feed,CBS Sports,141.3 PL,FMN,M,Media
+468.537500,463.58750,CHC584,York,ON,Business Aurora,Diamond Landscaping ,Diamond,127.3 PL,FM,RM,Business
+468.762500,457.58750,VEF988,Toronto,ON,Media Bell Media Queen Street Bureau,CP24  Wireless ,CP24Wireless,82.5 PL,FM,RM,Media
+468.962500,0.00000,,Peel,ON,Business Construction,Daniels,Daniel's,025 DPL,FMN,BM,Business
+469.262500,0.00000,,Hamilton,ON,Business Hamilton,Empire Jackson Square 6 Theatres,Empire JSq6,71.9 PL,FM,BM,Business
+469.262500,0.00000,,Peel,ON,Retail Mississauga,Heartland Town Centre  Best Buy,BestBuy HTC,71.9 PL,FMN,BM,Business
+469.262500,0.00000,,Durham,ON,Education Clarington,St Stephen Catholic Secondary School,St. Stephen,82.5 PL,FMN,M,Schools
+469.262500,0.00000,,Peel,ON,Retail Mississauga,Erin Mills Town Plaza  HomeSense,HomeSense ,174 DPL,FMN,BM,Business
+469.262500,0.00000,,Hamilton,ON,McMaster University, Reactor,Reactor,,FM,BM,Other
+469.262500,0.00000,,Toronto,ON,Business Canada Computers,Green,CC Green,67.0 PL,FMN,M,Business
+469.262500,0.00000,,Peel,ON,Retail Bramalea,Bramalea City Centre  Best Buy,BestBuy BCC,67.0 PL,FMN,BM,Business
+469.262500,0.00000,,Durham,ON,Business Clarington,Cineplex Odeon,Cineplex,,FMN,M,Business
+469.262500,0.00000,,Peel,ON,Mississauga,Gordon Graydon Memorial SS  Ch 2 MaintenanceCustodial,GGMSS2 Maint,411 DPL,FMN,BM,Schools
+469.262500,0.00000,,Peel,ON,Brampton,Corporate Properties,Bram CP,,FMN,BM,Public Works
+469.262500,0.00000,,Toronto,ON,Business Etobicoke,Home Depot  1983 Kipling Ave,HomeDepot,754 DPL,FM,BM,Business
+469.262500,0.00000,,Peel,ON,Retail Mississauga,Costco  3180 Laird Road,Costco,664 DPL,FMN,BM,Business
+469.262500,0.00000,,Halton,ON,Business Burlington,Homestead LandHoldings  Maintenance,HLH Maint,110.9 PL,FMN,M,Business
+469.262500,0.00000,,Toronto,ON,Business Canada Computers,Blue,CC Blue,71.9 PL,FMN,M,Business
+469.262500,0.00000,,Peel,ON,Retail Mississauga,Winston Argentia Centre  Bed Bath and Beyond,BB&B WAC,82.5 PL,FMN,BM,Business
+469.292500,0.00000,,Peel,ON,Retail Mississauga,National Sports  2921 Eglinton AveWest,NatSports,026 DPL,FMN,BM,Business
+469.675000,0.00000,CKU631,Halton,ON,Business Halton Hills,Toronto Premium Outlets,TPO,,DMR,BM,Business
+469.712500,0.00000,,Durham,ON,Ajax,Town of Ajax,TwnAjax,,FMN,BM,Public Works
+470.050000,491.80000,XLD202,Toronto,ON,Media Bell Media Queen Street Bureau,CP24  Wireless ,CP24Wireless,82.5 PL,FM,RM,Media
+470.100000,492.52500,VEF871,Toronto,ON,Media Bell Media Queen Street Bureau,CP24  Wireless ,CP24Wireless,82.5 PL,FM,RM,Media
+476.050000,497.80000,VEF998,Toronto,ON,Media Bell Media Queen Street Bureau,CP24  Wireless ,CP24Wireless,82.5 PL,FM,RM,Media
+493.175000,0.00000,VEF871,Toronto,ON,Media Bell Media Queen Street Bureau,CP24  Wireless,CP24Wireless,82.5 PL,FM,BM,Media
+769.631250,0.00000, ,Durham,ON,  Durham NextGen,Site 010 South, , ,Project 25, ,TRS
+769.881250,0.00000, ,Durham,ON,  Durham NextGen,Site 010 South, , ,Project 25, ,TRS
+769.931250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+770.131250,0.00000, ,Durham,ON,  Durham NextGen,Site 010 South, , ,Project 25, ,TRS
+770.181250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+770.206250,0.00000, ,Durham,ON,  Durham NextGen,Site 010 North, , ,Project 25, ,TRS
+770.318750,0.00000, ,York,ON,  York Region ,Site 001 Site 1, , ,Project 25, ,TRS
+770.343750,0.00000, ,Durham,ON,  Durham NextGen,Site 010 South, , ,Project 25, ,TRS
+770.381250,0.00000, ,Durham,ON,  Durham NextGen,Site 010 East, , ,Project 25, ,TRS
+770.431250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+770.456250,0.00000, ,Durham,ON,  Durham NextGen,Site 010 North, , ,Project 25, ,TRS
+770.506250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+770.531250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 006 East, , ,Project 25, ,TRS
+770.556250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+770.581250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 008 West, , ,Project 25, ,TRS
+770.606250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 006 East, , ,Project 25, ,TRS
+770.631250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 008 West, , ,Project 25, ,TRS
+770.656250,0.00000, ,York,ON,  York Region ,Site 001 Site 1, , ,Project 25, ,TRS
+770.681250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+770.706250,0.00000, ,Durham,ON,  Durham NextGen,Site 010 North, , ,Project 25, ,TRS
+770.756250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+770.781250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 006 East, , ,Project 25, ,TRS
+770.806250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+770.831250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 008 West, , ,Project 25, ,TRS
+770.856250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+770.881250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 006 East, , ,Project 25, ,TRS
+771.006250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+771.031250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+771.056250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 006 East, , ,Project 25, ,TRS
+771.081250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 008 West, , ,Project 25, ,TRS
+771.106250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+771.143750,0.00000, ,York,ON,  York Region ,Site 001 Site 1, , ,Project 25, ,TRS
+771.168750,0.00000, ,Durham,ON,  Durham NextGen,Site 010 South, , ,Project 25, ,TRS
+771.206250,0.00000, ,Durham,ON,  Durham NextGen,Site 010 North, , ,Project 25, ,TRS
+771.256250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+771.281250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+771.306250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 006 East, , ,Project 25, ,TRS
+771.331250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 008 West, , ,Project 25, ,TRS
+771.356250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+771.393750,0.00000, ,York,ON,  York Region ,Site 001 Site 1, , ,Project 25, ,TRS
+771.418750,0.00000, ,Durham,ON,  Durham NextGen,Site 010 East, , ,Project 25, ,TRS
+771.456250,0.00000, ,Durham,ON,  Durham NextGen,Site 010 South, , ,Project 25, ,TRS
+771.506250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+771.531250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 006 East, , ,Project 25, ,TRS
+771.556250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 008 West, , ,Project 25, ,TRS
+771.581250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+771.606250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+771.668750,0.00000, ,Durham,ON,  Durham NextGen,Site 010 North, , ,Project 25, ,TRS
+772.368750,0.00000, ,York,ON,  York Region ,Site 001 Site 1, , ,Project 25, ,TRS
+772.393750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 008 West, , ,Project 25, ,TRS
+772.418750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+772.443750,0.00000, ,Durham,ON,  Durham NextGen,Site 010 East, , ,Project 25, ,TRS
+772.506250,0.00000, ,Durham,ON,  Durham NextGen,Site 010 North, , ,Project 25, ,TRS
+772.543750,0.00000, ,York,ON,  York Region ,Site 001 Site 1, , ,Project 25, ,TRS
+772.668750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+772.693750,0.00000, ,York,ON,  York Region ,Site 001 Site 1, , ,Project 25, ,TRS
+772.756250,0.00000, ,Durham,ON,  Durham NextGen,Site 010 South, , ,Project 25, ,TRS
+772.793750,0.00000, ,York,ON,  York Region ,Site 001 Site 1, , ,Project 25, ,TRS
+772.831250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+772.881250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 008 West, , ,Project 25, ,TRS
+772.943750,0.00000, ,York,ON,  York Region ,Site 001 Site 1, , ,Project 25, ,TRS
+773.143750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+773.168750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+773.268750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+773.293750,0.00000, ,York,ON,  York Region ,Site 001 Site 1, , ,Project 25, ,TRS
+773.318750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 006 East, , ,Project 25, ,TRS
+773.331250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 008 West, , ,Project 25, ,TRS
+773.393750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+773.418750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+773.518750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+773.543750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+773.581250,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 006 East, , ,Project 25, ,TRS
+773.618750,0.00000, ,Durham,ON,  Durham NextGen,Site 010 East, , ,Project 25, ,TRS
+773.643750,0.00000, ,York,ON,  York Region ,Site 001 Site 1, , ,Project 25, ,TRS
+773.768750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 008 West, , ,Project 25, ,TRS
+773.793750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+773.818750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+773.843750,0.00000, ,Durham,ON,  Durham NextGen,Site 010 North, , ,Project 25, ,TRS
+773.868750,0.00000, ,Durham,ON,  Durham NextGen,Site 010 East, , ,Project 25, ,TRS
+774.018750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+774.043750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 008 West, , ,Project 25, ,TRS
+774.068750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+774.118750,0.00000, ,Durham,ON,  Durham NextGen,Site 010 East, , ,Project 25, ,TRS
+774.268750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+774.293750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 008 West, , ,Project 25, ,TRS
+774.318750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 007 North, , ,Project 25, ,TRS
+774.318750,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 005 South, , ,Project 25, ,TRS
+774.368750,0.00000, ,Durham,ON,  Durham NextGen,Site 010 East, , ,Project 25, ,TRS
+851.025000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+851.075000,0.00000, ,Peel,ON,  Greater Toronto Airports Authority,Site 001 GTAA, , ,Project 25, ,TRS
+851.100000,0.00000, ,Hamilton,ON,  US Steel Canada  Stelco ,Site 001 Site1, , ,DMR, ,TRS
+851.125000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+851.150000,0.00000,,Peel,ON,Mississauga Fire Service,Talkaround,MFS TA 2,,FM,M,Fire-Tac
+851.175000,0.00000, ,Peel,ON,  Greater Toronto Airports Authority,Site 001 GTAA, , ,Project 25, ,TRS
+851.275000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+851.325000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+851.375000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+851.500000,0.00000, ,Peel,ON,  Greater Toronto Airports Authority,Site 001 GTAA, , ,Project 25, ,TRS
+851.525000,0.00000, ,Peel,ON,  Greater Toronto Airports Authority,Site 001 GTAA, , ,Project 25, ,TRS
+851.575000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+851.600000,0.00000, ,Hamilton,ON,  US Steel Canada  Stelco ,Site 001 Site1, , ,DMR, ,TRS
+851.625000,0.00000,,Peel,ON,Mississauga Fire Service,Talkaround,MFS TA 4,,FM,M,Fire-Tac
+851.700000,0.00000, ,Peel,ON,  Greater Toronto Airports Authority,Site 001 GTAA, , ,Project 25, ,TRS
+851.775000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+851.825000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+851.900000,0.00000,,York,ON,Vaughan,A1  Fire  Rescue   Simplex,VFRS A1,123.0 PL,FM,BM,Fire-Tac
+851.950000,0.00000,,York,ON,Richmond Hill,B1  Fire  Emergency Services  Simplex ,B1 RHES ,123.0 PL,FM,BM,Fire-Tac
+851.975000,0.00000, ,Peel,ON,  Greater Toronto Airports Authority,Site 001 GTAA, , ,Project 25, ,TRS
+852.000000,0.00000, ,Peel,ON,  Greater Toronto Airports Authority,Site 001 GTAA, , ,Project 25, ,TRS
+852.025000,0.00000,,York,ON,Markham,C1  Fire  Emergency Services  Simplex,MFES C1,123.0 PL,FM,BM,Fire-Tac
+852.050000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+852.150000,0.00000, ,Peel,ON,  Greater Toronto Airports Authority,Site 001 GTAA, , ,Project 25, ,TRS
+852.225000,0.00000, ,Hamilton,ON,  US Steel Canada  Stelco ,Site 001 Site1, , ,DMR, ,TRS
+852.250000,0.00000, ,Peel,ON,  Greater Toronto Airports Authority,Site 001 GTAA, , ,Project 25, ,TRS
+852.275000,0.00000,,Peel,ON,Mississauga Fire Service,Talkaround,MFS TA 1,,FM,M,Fire-Tac
+852.300000,807.30000,,York,ON,Vaughan,A16  Fire Repeater A,VFRS A16,67.0 PL,FM,RM,Fire-Tac
+852.425000,0.00000, ,Peel,ON,  Greater Toronto Airports Authority,Site 001 GTAA, , ,Project 25, ,TRS
+852.450000,0.00000, ,Hamilton,ON,  US Steel Canada  Stelco ,Site 001 Site1, , ,DMR, ,TRS
+852.475000,0.00000, ,Peel,ON,  Greater Toronto Airports Authority,Site 001 GTAA, , ,Project 25, ,TRS
+852.500000,807.50000,,York,ON,Richmond Hill,B16   Fire Repeater B,B16 RHES,67.0 PL,FM,RM,Fire-Tac
+852.550000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+852.675000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+852.725000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+852.750000,0.00000, ,Peel,ON,  Greater Toronto Airports Authority,Site 001 GTAA, , ,Project 25, ,TRS
+852.800000,807.80000,,York,ON,Markham,C16  Fire Repeater C,MFES C16,67.0 PL,FM,RM,Fire-Tac
+852.825000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+852.950000,0.00000,,Peel,ON,Mississauga Fire Service,Talkaround,MFS TA 3,,FM,M,Fire-Tac
+853.000000,0.00000, ,Hamilton,ON,  US Steel Canada  Stelco ,Site 001 Site1, , ,DMR, ,TRS
+853.050000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+853.075000,0.00000, ,Hamilton,ON,  US Steel Canada  Stelco ,Site 001 Site1, , ,DMR, ,TRS
+853.100000,0.00000, ,Hamilton,ON,  US Steel Canada  Stelco ,Site 001 Site1, , ,DMR, ,TRS
+853.150000,0.00000, ,Peel,ON,  Air Canada ,Site 001 Primary, , ,Motorola, ,TRS
+857.037500,0.00000, ,Halton,ON,  Halton Region ,Site 002 North, , ,Project 25, ,TRS
+857.062500,0.00000, ,Hamilton,ON,  Hamilton ,Site 001 Hamilton, , ,Project 25, ,TRS
+857.262500,0.00000, ,Halton,ON,  Halton Region ,Site 001 South, , ,Project 25, ,TRS
+857.287500,0.00000, ,Halton,ON,  Halton Region ,Site 002 North, , ,Project 25, ,TRS
+857.312500,0.00000, ,Hamilton,ON,  Hamilton ,Site 001 Hamilton, , ,Project 25, ,TRS
+857.562500,0.00000, ,Halton,ON,  Halton Region ,Site 002 North, , ,Project 25, ,TRS
+857.587500,0.00000, ,Halton,ON,  Halton Region ,Site 001 South, , ,Project 25, ,TRS
+857.812500,0.00000, ,Halton,ON,  Halton Region ,Site 002 North, , ,Project 25, ,TRS
+858.475000,813.47500,,Hamilton,ON,Juravinski Hospital,Juravinski Hospital  Security,Juravinski ,CC 2|TG 10002|SL 1,DMR,RM,Security
+858.475000,813.47500,,Hamilton,ON,Juravinski Hospital,Juravinski Hospital  Security,Juravinski,CC 2|TG 10001|SL 1,DMR,RM,Security
+859.312500,814.31250,,Peel,ON,Mississauga Fire Service,Vehicular Repeater,MFS VR,67.0 PL,FM,RM,Fire Dispatch
+859.437500,0.00000, ,Halton,ON,  Halton Region ,Site 001 South, , ,Project 25, ,TRS
+859.512500,0.00000, ,Halton,ON,  Halton Region ,Site 002 North, , ,Project 25, ,TRS
+859.687500,0.00000, ,Halton,ON,  Halton Region ,Site 001 South, , ,Project 25, ,TRS
+859.787500,0.00000, ,Halton,ON,  Halton Region ,Site 002 North, , ,Project 25, ,TRS
+860.312500,0.00000, ,Hamilton,ON,  Hamilton ,Site 001 Hamilton, , ,Project 25, ,TRS
+860.512500,0.00000, ,Halton,ON,  Halton Region ,Site 001 South, , ,Project 25, ,TRS
+861.012500,0.00000, ,Halton,ON,  Halton Region ,Site 001 South, , ,Project 25, ,TRS
+861.112500,0.00000, ,Halton,ON,  Halton Region ,Site 002 North, , ,Project 25, ,TRS
+861.812500,0.00000, ,Hamilton,ON,  Hamilton ,Site 001 Hamilton, , ,Project 25, ,TRS
+862.012500,0.00000, ,Halton,ON,  Halton Region ,Site 001 South, , ,Project 25, ,TRS
+862.062500,0.00000, ,Hamilton,ON,  Hamilton ,Site 001 Hamilton, , ,Project 25, ,TRS
+862.262500,0.00000, ,Halton,ON,  Halton Region ,Site 001 South, , ,Project 25, ,TRS
+862.687500,0.00000, ,Halton,ON,  Halton Region ,Site 001 South, , ,Project 25, ,TRS
+863.412500,0.00000, ,Halton,ON,  Halton Region ,Site 002 North, , ,Project 25, ,TRS
+864.837500,0.00000,,Peel,ON,Brampton,Brampton Civic Hospital  Portering,BCH Porter,CC 6|TG 919122|SL 1,DMR,BM,Hospital
+865.337500,0.00000,,Peel,ON,Brampton,Brampton Civic Hospital  Housekeeping,BCH Hskp,CC 14|TG 223221|SL 1,DMR,BM,Hospital
+865.587500,0.00000,,Peel,ON,Brampton,Brampton Civic Hospital  Security,BCH Security,CC 12|TG 919122|SL 1,DMR,BM,Security
+866.087500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+866.187500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+866.212500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+866.237500,0.00000,,Toronto,ON,Fire Services  Back Up,North Command,TFS B/U N,131.8 PL,FM,BM,Fire-Tac
+866.287500,0.00000, ,Hamilton,ON,  Hamilton ,Site 001 Hamilton, , ,Project 25, ,TRS
+866.337500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+866.437500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+866.462500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+866.587500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+866.662500,0.00000, ,Hamilton,ON,  Hamilton ,Site 001 Hamilton, , ,Project 25, ,TRS
+866.687500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+866.712500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+866.837500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+866.937500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+866.962500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+867.037500,0.00000, ,Hamilton,ON,  Hamilton ,Site 001 Hamilton, , ,Project 25, ,TRS
+867.087500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+867.112500,0.00000,,Toronto,ON,Fire Services  Back Up,East Command,TFS B/U E,118.8 PL,FM,BM,Fire-Tac
+867.187500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+867.212500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+867.262500,0.00000,,Toronto,ON,Fire Services  Back Up,West Command,TFS B/U W,146.2 PL,FM,BM,Fire-Tac
+867.287500,0.00000, ,Hamilton,ON,  Hamilton ,Site 001 Hamilton, , ,Project 25, ,TRS
+867.312500,0.00000, ,Halton,ON,  Halton Region ,Site 002 North, , ,Project 25, ,TRS
+867.337500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+867.437500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+867.462500,0.00000,,Toronto,ON,Fire Services  Back Up,South Command,TFS B/U S,107.2 PL,FM,BM,Fire-Tac
+867.537500,0.00000, ,Hamilton,ON,  Hamilton ,Site 001 Hamilton, , ,Project 25, ,TRS
+867.587500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+867.687500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+867.737500,0.00000,,Toronto,ON,Fire Services  Back Up,Citywide,TFS B/U CW,162.2 PL,FM,BM,Fire-Tac
+867.787500,0.00000, ,Hamilton,ON,  Hamilton ,Site 001 Hamilton, , ,Project 25, ,TRS
+867.837500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+867.937500,0.00000, ,Peel,ON,  Peel Region ,Site 001 Peel Region, , ,Project 25, ,TRS
+868.037500,0.00000, ,Hamilton,ON,  Hamilton ,Site 001 Hamilton, , ,Project 25, ,TRS
+868.125000,0.00000,,Toronto,ON,Fire Services  South Command,South Fireground 1 ,TFS S FG 1,293 NAC,P25,BM,Fire-Tac
+868.162500,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 009 Rapid Transit , , ,Project 25, ,TRS
+868.200000,0.00000,,Toronto,ON,Fire Services  NorthEastWest Command,North East West Fireground 1,TFS NEW FG 1,293 NAC,P25,BM,Fire-Tac
+868.225000,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 009 Rapid Transit , , ,Project 25, ,TRS
+868.250000,0.00000,,Hamilton,ON,City Services,Police Simplex,HPS Simplex,107.2 PL,FM,M,Law Tac
+868.250000,0.00000,,Toronto,ON,Fire Services  South Command,South Fireground 2,TFS S FG 2,293 NAC,P25,BM,Fire-Tac
+868.300000,0.00000,,Toronto,ON,Fire Services  NorthEastWest Command,North East West Fireground 2,TFS NEW FG 2,293 NAC,P25,BM,Fire-Tac
+868.325000,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 009 Rapid Transit , , ,Project 25, ,TRS
+868.350000,0.00000,,Hamilton,ON,City Services,ERU Simplex,HPS ERU,,FM,M,Law Tac
+868.387500,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 009 Rapid Transit , , ,Project 25, ,TRS
+868.425000,0.00000,,Toronto,ON,Fire Services  NorthEastWest Command,North East West Fireground 3,TFS NEW FG 3,293 NAC,P25,BM,Fire-Tac
+868.450000,0.00000,CFU227,Hamilton,ON,City Services,Fire  Simplex,HFD Simplex,107.2 PL,FM,M,Fire-Tac
+868.475000,0.00000,,Toronto,ON,Fire Services  NorthEastWest Command,North East West Fireground 4,TFS NEW FG 4,293 NAC,P25,BM,Fire-Tac
+868.525000,0.00000,,Toronto,ON,Fire Services  South Command,South Fireground 3,TFS S FG 3,293 NAC,P25,BM,Fire-Tac
+868.600000,0.00000,,Hamilton,ON,City Services,Works  Traffic  Simplex,WorksSimplex,107.2 PL,FM,M,Public Works
+868.625000,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 009 Rapid Transit , , ,Project 25, ,TRS
+868.662500,0.00000,,Toronto,ON,Fire Services  NorthEastWest Command,North East West Fireground 5,TFS NEW FG 5,293 NAC,P25,BM,Fire-Tac
+868.712500,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 009 Rapid Transit , , ,Project 25, ,TRS
+868.737500,0.00000,,Toronto,ON,Fire Services  South Command,South Fireground 4,TFS S FG 4,293 NAC,P25,BM,Fire-Tac
+868.762500,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 009 Rapid Transit , , ,Project 25, ,TRS
+868.800000,0.00000,,Toronto,ON,Fire Services  South Command,South Fireground 5,TFS S FG 5,293 NAC,P25,BM,Fire-Tac
+868.850000,0.00000,,Toronto,ON,Fire Services  NorthEastWest Command,North East West Fireground 6,TFS NEW FG 6,293 NAC,P25,BM,Fire-Tac
+868.887500,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 009 Rapid Transit , , ,Project 25, ,TRS
+868.937500,0.00000, ,Toronto,ON,  Toronto Emergency Services,Site 009 Rapid Transit , , ,Project 25, ,TRS
+868.987500,0.00000,,Toronto,ON,Fire Services  South Command,South Fireground 6 ,TFS S FG 6,293 NAC,P25,BM,Fire-Tac
+935.115000,0.00000,,York,ON,Vaughan,Expertech onsite Joint Operations Centre,Expertech,110.9 PL,FM,BM,Utilities
+935.262500,0.00000, ,Toronto,ON,  Maple Leaf Sports and Entertainment,Site 001 Air Canada Centre, , ,DMR, ,TRS
+935.275000,0.00000, ,Toronto,ON,  Maple Leaf Sports and Entertainment,Site 001 Air Canada Centre, , ,DMR, ,TRS
+935.287500,0.00000, ,Toronto,ON,  Maple Leaf Sports and Entertainment,Site 001 Air Canada Centre, , ,DMR, ,TRS
+935.300000,0.00000, ,Toronto,ON,  Maple Leaf Sports and Entertainment,Site 001 Air Canada Centre, , ,DMR, ,TRS
+935.312500,0.00000, ,Toronto,ON,  Maple Leaf Sports and Entertainment,Site 001 Air Canada Centre, , ,DMR, ,TRS
+936.637500,0.00000, ,Toronto,ON,  Toronto Hydro and Works,Site 001 Toronto, , ,Project 25, ,TRS
+936.650000,0.00000, ,Toronto,ON,  Toronto City Services,Site 001 Toronto City Services, , ,Motorola, ,TRS
+936.662500,0.00000, ,Toronto,ON,  Toronto City Services,Site 001 Toronto City Services, , ,Motorola, ,TRS
+936.675000,0.00000, ,Toronto,ON,  Toronto Hydro and Works,Site 001 Toronto, , ,Project 25, ,TRS
+936.687500,0.00000, ,Toronto,ON,  Toronto Hydro and Works,Site 001 Toronto, , ,Project 25, ,TRS
+936.875000,0.00000, ,Toronto,ON,  Toronto City Services,Site 001 Toronto City Services, , ,Motorola, ,TRS
+936.900000,0.00000, ,Toronto,ON,  Fleetcom,Site 001 500 Duplex Ave, , ,Motorola, ,TRS
+936.912500,0.00000, ,Toronto,ON,  Fleetcom,Site 001 500 Duplex Ave, , ,Motorola, ,TRS
+936.925000,0.00000, ,Toronto,ON,  Fleetcom,Site 001 500 Duplex Ave, , ,Motorola, ,TRS
+936.950000,0.00000, ,Toronto,ON,  Fleetcom,Site 001 500 Duplex Ave, , ,Motorola, ,TRS
+937.012500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  A,Site 001 CN Tower, , ,LTR, ,TRS
+937.037500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  A,Site 001 CN Tower, , ,LTR, ,TRS
+937.050000,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  A,Site 001 CN Tower, , ,LTR, ,TRS
+937.137500,0.00000,,Toronto,ON,Healthcare Humber River Hospital  Wilson Site,Security,HRH Sec,CC 5|TG 100|SL 1,DMR,BM,Security
+937.175000,0.00000, ,Peel,ON,  Brampton City Services,Site 001 Brampton, , ,LTR, ,TRS
+937.200000,0.00000, ,Peel,ON,  Brampton City Services,Site 001 Brampton, , ,LTR, ,TRS
+937.225000,0.00000, ,Peel,ON,  Brampton City Services,Site 001 Brampton, , ,LTR, ,TRS
+937.250000,0.00000, ,Peel,ON,  Brampton,Site 002 Site 2, , ,DMR, ,TRS
+937.350000,0.00000, ,Peel,ON,  Airtime Communications,Site 017 Site17, , ,EDACS, ,TRS
+937.475000,0.00000, ,Peel,ON,  Airtime Communications,Site 017 Site17, , ,EDACS, ,TRS
+937.512500,0.00000, ,Toronto,ON,  Fleetcom,Site 001 500 Duplex Ave, , ,Motorola, ,TRS
+937.525000,0.00000, ,Toronto,ON,  Fleetcom,Site 001 500 Duplex Ave, , ,Motorola, ,TRS
+937.537500,0.00000, ,Toronto,ON,  Fleetcom,Site 001 500 Duplex Ave, , ,Motorola, ,TRS
+937.550000,0.00000, ,Toronto,ON,  Fleetcom,Site 001 500 Duplex Ave, , ,Motorola, ,TRS
+937.950000,0.00000,,Toronto,ON,Healthcare Humber River Hospital  Wilson Site,Security,HRH Sec,CC 5|TG 100|SL 1,DMR,BM,Security
+938.100000,0.00000, ,Peel,ON,  Airtime Communications,Site 017 Site17, , ,EDACS, ,TRS
+938.137500,0.00000, ,Halton,ON,  Oakville City Services,Site 001 BronteRebecca, , ,DMR, ,TRS
+938.150000,0.00000, ,Halton,ON,  Oakville City Services,Site 001 BronteRebecca, , ,DMR, ,TRS
+938.162500,0.00000, ,Halton,ON,  Oakville City Services,Site 001 BronteRebecca, , ,DMR, ,TRS
+938.175000,0.00000, ,Halton,ON,  Oakville City Services,Site 001 BronteRebecca, , ,DMR, ,TRS
+938.187500,0.00000, ,Halton,ON,  Oakville City Services,Site 001 BronteRebecca, , ,DMR, ,TRS
+938.200000,0.00000, ,Halton,ON,  Oakville City Services,Site 001 BronteRebecca, , ,DMR, ,TRS
+938.212500,0.00000, ,Halton,ON,  Oakville City Services,Site 001 BronteRebecca, , ,DMR, ,TRS
+938.225000,0.00000, ,Halton,ON,  Oakville City Services,Site 004 Rattlesnake Point, , ,DMR, ,TRS
+938.237500,0.00000, ,Halton,ON,  Oakville City Services,Site 004 Rattlesnake Point, , ,DMR, ,TRS
+938.250000,0.00000, ,Halton,ON,  Oakville City Services,Site 002 White Oaks  Sector 1, , ,DMR, ,TRS
+938.262500,0.00000, ,Halton,ON,  Oakville City Services,Site 002 White Oaks  Sector 1, , ,DMR, ,TRS
+938.275000,0.00000, ,Halton,ON,  Oakville City Services,Site 002 White Oaks  Sector 1, , ,DMR, ,TRS
+938.287500,0.00000, ,Halton,ON,  Oakville City Services,Site 002 White Oaks  Sector 1, , ,DMR, ,TRS
+938.300000,0.00000, ,Halton,ON,  Oakville City Services,Site 002 White Oaks  Sector 1, , ,DMR, ,TRS
+938.312500,0.00000, ,Halton,ON,  Oakville City Services,Site 003 White Oaks  Sector 2, , ,DMR, ,TRS
+938.325000,0.00000, ,Halton,ON,  Oakville City Services,Site 003 White Oaks  Sector 2, , ,DMR, ,TRS
+938.337500,0.00000, ,Halton,ON,  Oakville City Services,Site 003 White Oaks  Sector 2, , ,DMR, ,TRS
+938.350000,0.00000, ,Halton,ON,  Oakville City Services,Site 003 White Oaks  Sector 2, , ,DMR, ,TRS
+938.362500,0.00000, ,Halton,ON,  Oakville City Services,Site 003 White Oaks  Sector 2, , ,DMR, ,TRS
+938.375000,0.00000, ,Halton,ON,  Oakville City Services,Site 003 White Oaks  Sector 2, , ,DMR, ,TRS
+938.375000,0.00000, ,Peel,ON,  Airtime Communications,Site 017 Site17, , ,EDACS, ,TRS
+938.387500,0.00000, ,Toronto,ON,  Toronto Hydro and Works,Site 001 Toronto, , ,Project 25, ,TRS
+938.400000,0.00000, ,Toronto,ON,  Toronto City Services,Site 001 Toronto City Services, , ,Motorola, ,TRS
+938.412500,0.00000, ,Toronto,ON,  Toronto City Services,Site 001 Toronto City Services, , ,Motorola, ,TRS
+938.437500,0.00000, ,Toronto,ON,  Toronto Hydro and Works,Site 001 Toronto, , ,Project 25, ,TRS
+938.450000,0.00000, ,Toronto,ON,  Toronto City Services,Site 001 Toronto City Services, , ,Motorola, ,TRS
+938.512500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  A,Site 001 CN Tower, , ,LTR, ,TRS
+938.525000,0.00000, ,Peel,ON,  Brampton City Services,Site 001 Brampton, , ,LTR, ,TRS
+938.537500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  A,Site 001 CN Tower, , ,LTR, ,TRS
+938.550000,0.00000, ,Peel,ON,  Brampton City Services,Site 001 Brampton, , ,LTR, ,TRS
+938.562500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  A,Site 001 CN Tower, , ,LTR, ,TRS
+938.575000,0.00000, ,Halton,ON,  Oakville City Services,Site 004 Rattlesnake Point, , ,DMR, ,TRS
+938.587500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  A,Site 001 CN Tower, , ,LTR, ,TRS
+938.600000,0.00000, ,Peel,ON,  Brampton City Services,Site 001 Brampton, , ,LTR, ,TRS
+938.725000,0.00000, ,Peel,ON,  Airtime Communications,Site 017 Site17, , ,EDACS, ,TRS
+938.762500,0.00000, ,Halton,ON,  OakvilleTrafalgar Memorial Hospital,Site 001 OTMH, , ,DMR, ,TRS
+938.787500,0.00000, ,Halton,ON,  OakvilleTrafalgar Memorial Hospital,Site 001 OTMH, , ,DMR, ,TRS
+939.012500,0.00000, ,Durham,ON,  General Motors Canada,Site 073 Oshawa Car Assembly, , ,DMR, ,TRS
+939.025000,0.00000, ,Durham,ON,  General Motors Canada,Site 073 Oshawa Car Assembly, , ,DMR, ,TRS
+939.037500,0.00000, ,Durham,ON,  General Motors Canada,Site 073 Oshawa Car Assembly, , ,DMR, ,TRS
+939.050000,0.00000, ,Durham,ON,  General Motors Canada,Site 073 Oshawa Car Assembly, , ,DMR, ,TRS
+939.062500,0.00000, ,Durham,ON,  General Motors Canada,Site 073 Oshawa Car Assembly, , ,DMR, ,TRS
+939.075000,0.00000, ,Durham,ON,  General Motors Canada,Site 073 Oshawa Car Assembly, , ,DMR, ,TRS
+939.087500,0.00000, ,Durham,ON,  General Motors Canada,Site 073 Oshawa Car Assembly, , ,DMR, ,TRS
+939.100000,0.00000, ,Durham,ON,  General Motors Canada,Site 073 Oshawa Car Assembly, , ,DMR, ,TRS
+939.112500,0.00000, ,Durham,ON,  General Motors Canada,Site 073 Oshawa Car Assembly, , ,DMR, ,TRS
+939.125000,0.00000, ,Durham,ON,  General Motors Canada,Site 073 Oshawa Car Assembly, , ,DMR, ,TRS
+939.137500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  A,Site 001 CN Tower, , ,LTR, ,TRS
+939.150000,0.00000, ,Peel,ON,  Brampton,Site 001 Site 1, , ,DMR, ,TRS
+939.162500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  A,Site 001 CN Tower, , ,LTR, ,TRS
+939.175000,0.00000, ,Peel,ON,  Brampton City Services,Site 001 Brampton, , ,LTR, ,TRS
+939.187500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  A,Site 001 CN Tower, , ,LTR, ,TRS
+939.200000,0.00000, ,Peel,ON,  Brampton,Site 001 Site 1, , ,DMR, ,TRS
+939.212500,0.00000, ,Toronto,ON,  Mobile Business  Toronto LTR  A,Site 001 CN Tower, , ,LTR, ,TRS
+939.225000,0.00000, ,Peel,ON,  Brampton,Site 002 Site 2, , ,DMR, ,TRS
+939.250000,0.00000, ,Peel,ON,  Brampton,Site 001 Site 1, , ,DMR, ,TRS
+939.600000,0.00000, ,Hamilton,ON,  Mobile Business  Hamilton 900 MHz,Site 002 Unconfirmed LCN, , ,LTR, ,TRS
+939.612500,0.00000, ,Hamilton,ON,  Mobile Business  Hamilton 900 MHz,Site 001 Confirmed LCN, , ,LTR, ,TRS
+939.625000,0.00000, ,Hamilton,ON,  Mobile Business  Hamilton 900 MHz,Site 002 Unconfirmed LCN, , ,LTR, ,TRS
+1250.000000,0.00000,VE3YYZ,Toronto,ON,23 cm Band,VE3YYZAD   DSTAR,VE3YYZ-AD,,D-STAR,RM,Ham
+1284.000000,1272.00000,VA3GTU,Toronto,ON,23 cm Band,VA3GTU  Toronto,VA3GTU,,FM,RM,Ham
+1285.000000,1273.00000,VE3VGA,Toronto,ON,23 cm Band,VE3VGA  Toronto,VE3VGA,,FM,RM,Ham
+1287.500000,1275.50000,VE3YYZ,Toronto,ON,23 cm Band,VE3YYZA   DSTAR,VE3YYZ-A,,D-STAR,RM,Ham
