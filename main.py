@@ -44,9 +44,27 @@ banks = {}
 with open(csv_filename) as csvfile:
     csv_reader = csv.DictReader(csvfile)
     for transmitter in csv_reader:
-        print(transmitter)
+        #print(transmitter)
         bankname = transmitter['Agency/Category']
         description = transmitter['Description']
         pltone = transmitter['PL Tone']
         frequency = transmitter['Frequency Output']
-        mode = transmitter['mode']
+        mode = transmitter['Mode']
+        if mode == 'FM':
+            filter = '15k'
+            step = '250KHz'
+        elif mode == 'FMW':
+            filter = '230k'
+            step = '250KHz'
+        elif mode == 'AM' or mode == 'LSB' or mode == 'USB' or mode == 'CW':
+            filter = '3k'
+            step = '25KHz'
+        else:
+            if float(frequency) > 30:
+                filter = '15k'
+                step = '250KHz'
+            else:
+                filter = '3k'
+                step = '25KHz'
+        #print('bankname: %s, description: %s, pltone: %s, frequency: %s, mode: %s, filter: %s, step: %s' % (bankname, description, pltone, frequency, mode, filter, step))
+        print(mode)
