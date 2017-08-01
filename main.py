@@ -47,9 +47,8 @@
 
 import csv              # read radioreference csv file
 import configparser     # write PCR1000 MCH file
-from easygui import *   #quasi-cli-gui app
-import os
-import math
+from easygui import *   # quasi-cli-gui app
+import os               # mostly for the path object
 
 def maxchannelnumber(channels):
     maxchannel = -1
@@ -81,16 +80,20 @@ mchdict.set('REV', 'ID', '1.0.0')
 mchdict.set('REV', 'APP', 'IC-PCR1000  Revision 2.2')
 mchdict.set('REV', 'SOURCE', csv_filename)
 
-#with open(mch_filename, mode='w') as mchfile:
-#    mchdict.write(mchfile, space_around_delimiters = False)
-
 with open(csv_filename) as csvfile:
     csv_reader = csv.DictReader(csvfile)
     for transmitter in csv_reader:
         #print(transmitter)
         bankname = transmitter['Agency/Category']
         description = transmitter['Description']
+        remark = transmitter['Tag']
         pltone = transmitter['PL Tone']
+        if pltone == '':
+            pltone = 'OFF'
+        else:
+            pltone = str(pltone).split(' ')[0]
+            if not pltone.isnumeric() or pltone.strip() == '':
+                pltone = 'OFF'
         frequency = transmitter['Frequency Output']
         mode = transmitter['Mode']
         if mode == 'FM':
@@ -122,6 +125,8 @@ with open(csv_filename) as csvfile:
             banknumber = 'BANK%02d' % (len(mchdict.sections()) - 1)
             mchdict.add_section(banknumber)
             mchdict.set(banknumber, 'BANKNAME', bankname)
-        mchdict.set(banknumber,"%02d" % maxchannelnumber(mchdict.options(banknumber)),description)
+        # description, remark, frequency, mode, filter, att, step, sel, skip, pltone
+        channeldata = "%s,%s,%s,%s,%s,%s,%s,%s,%s,%s" % (description, remark, frequency, mode, filter, 'OFF', step, 'OFF', 'OFF', pltone)
+        mchdict.set(banknumber,"%02d" % maxchannelnumber(mchdict.options(banknumber)), channeldata)
 with open(mch_filename, mode='w') as mchfile:
     mchdict.write(mchfile, space_around_delimiters = False)
