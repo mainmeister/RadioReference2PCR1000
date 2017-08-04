@@ -50,6 +50,8 @@ import configparser     # write PCR1000 MCH file
 from easygui import *   # quasi-cli-gui app
 import os               # mostly for the path object
 
+"""
+"""
 def maxchannelnumber(channels):
     maxchannel = -1
     for channel in channels:
@@ -58,6 +60,11 @@ def maxchannelnumber(channels):
             if channelint > maxchannel:
                 maxchannel = channelint
     return maxchannel + 1
+
+"""
+"""
+def getbank(bankname):
+    pass
 
 csv_filename = 'metro_22.csv'
 mch_filename = 'metro_22.mch'
