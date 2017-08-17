@@ -8,7 +8,7 @@
             metro_22.csv --> metro_22.mch
             
             *if the number of channels or frequencies exceed the limits of a single MCH file then 
-            multiple MCH filed will be created ie file1.mch, file2.mch, ...., fileX.mch
+            multiple MCH files will be created ie file1.mch, file2.mch, ...., fileX.mch
 
         Exit codes:
             1 - CSV input file selection cancelled
