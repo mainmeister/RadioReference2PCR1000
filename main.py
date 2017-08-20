@@ -51,6 +51,7 @@ from easygui import *   # quasi-cli-gui app
 import os               # mostly for the path object
 
 """
+    returns the maximum number in a list of channels
 """
 def maxchannelnumber(channels):
     maxchannel = -1
@@ -80,17 +81,51 @@ mch_filename = basename + '.mch'
 
 if not ynbox("CSV: %s\nMCH: %s" % (csv_filename, mch_filename), "Are these files correct?"):
     exit(2)
-mchdict = configparser.ConfigParser(delimiters=('='))
-mchdict.optionxform = lambda option: option
-mchdict.add_section('REV')
+
+"""
+create a new config (MCH) file and initialize with the obligatory 'REV' section
+"""
+mchdict = configparser.ConfigParser(delimiters=('='))   # use only the '=' and not ':' character as the name/value separator
+mchdict.optionxform = lambda option: option             # do not force to lower case
+mchdict.add_section('REV')                              # the obligatory 'REV' section
 mchdict.set('REV', 'ID', '1.0.0')
 mchdict.set('REV', 'APP', 'IC-PCR1000  Revision 2.2')
 mchdict.set('REV', 'SOURCE', csv_filename)
 
+"""
+Read one line (channel) from the CSV file at a time and add to the config (MCH) file
+"""
+
 with open(csv_filename) as csvfile:
     csv_reader = csv.DictReader(csvfile)
+    """
+    parse the CSV line into a bank/channel
+    
+    CSV field           MCH value
+    ---------           ----------
+    Agency/Category     BANKNAME
+    Description         channel description
+    Tag                 channel remark
+    PL Tone             channel pltone
+    Frequency Output    channel frequency
+    Mode                channel mode
+    
+    notes: filter and step are determined by the mode. If mode is not supplied in the CSV the it is determined by the frequency.
+    
+    MODE            Filter/Step
+    ----            -----------
+    FM              15K/250KHz
+    FMW             230K/250KHz
+    AM/LSB/USB/CW   3K/25KHz
+    
+    FREQUENCY RANGE     MODE
+    ---------------     ----
+    30MHz - MAX         FM
+    < 20MHz             AM
+    
+    To Do: add AM mode for air frequencies
+    """
     for transmitter in csv_reader:
-        #print(transmitter)
         bankname = transmitter['Agency/Category']
         description = transmitter['Description']
         remark = transmitter['Tag']
@@ -121,18 +156,27 @@ with open(csv_filename) as csvfile:
                 mode = 'AM'
                 filter = '3k'
                 step = '25KHz'
-        print('bankname: %s, description: %s, pltone: %s, frequency: %s, mode: %s, filter: %s, step: %s' % (bankname, description, pltone, frequency, mode, filter, step))
         banknumber = None
+        """
+        look for an existing bank number for the current bank name
+        """
         for section in mchdict.sections():
             if section != 'REV':
                 if bankname == mchdict.get(section, 'BANKNAME'):
                     banknumber = section
                     break
+        """
+        if there is no existing bank for the current name then create a new bank
+        """
         if banknumber is None:
-            banknumber = 'BANK%02d' % (len(mchdict.sections()) - 1)
+            banknumber = 'BANK%02d' % (len(mchdict.sections()) - 1) # not counting the [REV] section (sections -1) and starting at bank00
             mchdict.add_section(banknumber)
             mchdict.set(banknumber, 'BANKNAME', bankname)
-        # description, remark, frequency, mode, filter, att, step, sel, skip, pltone
+        """
+        create the channel data
+        description, remark, frequency, mode, filter, att, step, sel, skip, pltone
+        not: att, sel and skip are arbitrarily set to OFF
+        """
         channeldata = "%s,%s,%s,%s,%s,%s,%s,%s,%s,%s" % (description, remark, frequency, mode, filter, 'OFF', step, 'OFF', 'OFF', pltone)
         mchdict.set(banknumber,"%02d" % maxchannelnumber(mchdict.options(banknumber)), channeldata)
 with open(mch_filename, mode='w') as mchfile:
