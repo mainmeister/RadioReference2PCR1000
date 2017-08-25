@@ -50,6 +50,61 @@ import configparser     # write PCR1000 MCH file
 from easygui import *   # quasi-cli-gui app
 import os               # mostly for the path object
 
+class MCH():
+    def __init__(self, basename):
+        self.banks = []
+        self.basename = basename
+
+    def __repr__(self):
+        banknames = ""
+        [banknames.join(bank.bankname + '') for bank in self.banks]
+        return banknames
+
+    def save(self):
+        basex = 0
+
+
+
+class Bank():
+    def __init__(self, bankname):
+        self.channels = []
+        self.bankname = bankname
+
+    def __repr__(self):
+        return self.bankname
+
+class Channel():
+    def __init__(self, description, remark, frequency, mode, pltone):
+        self.description = description
+        self.remark = remark
+        self.frequency = frequency
+        self.mode = mode
+        self.pltone = pltone
+        if self.pltone == '':
+            self.pltone = 'OFF'
+        else:
+            self.pltone = str(self.pltone).split(' ')[0]
+            if not self.pltone.isnumeric() or self.pltone.strip() == '':
+                self.pltone = 'OFF'
+        if self.mode == 'FM':
+            self.filter = '15k'
+            self.step = '250KHz'
+        elif self.mode == 'FMW':
+            self.filter = '230k'
+            self.step = '250KHz'
+        elif self.mode == 'AM' or self.mode == 'LSB' or self.mode == 'USB' or self.mode == 'CW':
+            self.filter = '3k'
+            self.step = '25KHz'
+        else:
+            if self.float(frequency) > 30:
+                self.mode = 'FM'
+                self.filter = '15k'
+                self.step = '250KHz'
+            else:
+                self.mode = 'AM'
+                self.filter = '3k'
+                self.step = '25KHz'
+
 """
     returns the maximum number in a list of channels
 """
