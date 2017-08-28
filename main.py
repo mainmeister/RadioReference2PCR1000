@@ -53,8 +53,6 @@ import os               # mostly for the path object
 class MCH():
     def __init__(self, basename):
         self.banks = []
-        self.basename = basename
-
     def __repr__(self):
         banknames = ""
         [banknames.join(bank.bankname + '') for bank in self.banks]
